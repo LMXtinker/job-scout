@@ -8,7 +8,7 @@ if not tok:
     raise SystemExit("TELEGRAM_BOT_TOKEN fehlt (Repository secret).")
 with urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/getMe", timeout=30) as r:
     me = json.load(r)["result"]
-print(f"Bot: @{me.get('username')}")
+print(f"::notice::Bot: @{me.get('username')}")
 with urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/getUpdates", timeout=30) as r:
     upd = json.load(r)
 chats = {}
@@ -18,6 +18,6 @@ for u in upd.get("result", []):
     if c.get("id"):
         chats[c["id"]] = (c.get("first_name", ""), c.get("username", ""), (m.get("text") or "")[:20])
 if not chats:
-    print("Keine Nachrichten gefunden (Updates bleiben nur ~24 h erhalten).")
+    print("::notice::Keine Nachrichten gefunden (Updates bleiben nur ~24 h erhalten).")
 for cid, (name, user, text) in chats.items():
-    print(f"CHAT_ID={cid}  Name={name}  @{user}  letzte Nachricht={text!r}")
+    print(f"::notice::CHAT_ID={cid} Name={name} @{user} letzte Nachricht={text!r}")
