@@ -86,7 +86,9 @@ KANDIDATIN:
 {targets}
 
 REGELN:
-- Nur echte Treffer, streng filtern. Lieber 20 gute als 100 mittelmäßige. Maximal {max_jobs}.
+- Nimm alle Stellen auf, die realistisch zu ihr passen – auch teilweise passende (Fit "mittel"), z. B. angrenzende
+  Rollen (Motion/Grafik mit 3D, XR, Visualisierung, Lehre, Kultur). Je mehr passende, desto besser, maximal {max_jobs}.
+  Klar unpassende Stellen (siehe Ausschließen) weiterhin weglassen.
 - Duplikate (gleiche Stelle über mehrere Quellen/Links) nur einmal aufnehmen, den besten Link wählen.
 - Wenn Firma oder Ort fehlen, aus Titel/Snippet/URL ableiten; sonst leer lassen. Nichts erfinden.
 - fit: "hoch" = Rolle und Level passen, Ort Wien/Österreich/Remote-EU; "mittel" = teilweise passend.
