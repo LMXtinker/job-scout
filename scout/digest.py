@@ -206,6 +206,9 @@ def build_messages(picked, jobs, raw_count):
             cur += ("\n" if cur else "") + b
     if cur:
         msgs.append(cur)
+    ps = (DG.get("postscript") or "").strip()
+    if ps and msgs:
+        msgs[-1] += f"\n\n{esc(ps)}"
     return msgs, items
 
 
