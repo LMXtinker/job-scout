@@ -9,6 +9,9 @@ if not tok:
 with urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/getMe", timeout=30) as r:
     me = json.load(r)["result"]
 print(f"::notice::Bot: @{me.get('username')}")
+with urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/getWebhookInfo", timeout=30) as r:
+    wh = json.load(r)["result"]
+print(f"::notice::Webhook: {wh.get('url') or 'keiner'} pending={wh.get('pending_update_count')}")
 with urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/getUpdates", timeout=30) as r:
     upd = json.load(r)
 chats = {}
