@@ -1,11 +1,11 @@
 {
  "errors": [],
  "per_url": {
-  "https://ars.electronica.art/about/de/jobs/": {
-   "links": 1,
+  "https://ars.electronica.art/about/de/careers/": {
+   "links": 0,
    "jobs": 0,
-   "final_url": "https://ars.electronica.art/about/de/jobs/",
-   "title": "Seite nicht gefunden – About Ars Electronica",
+   "final_url": "https://ars.electronica.art/about/de/careers/",
+   "title": "Karriere – About Ars Electronica",
    "sample_links": [
     "https://ars.electronica.art/",
     "https://ars.electronica.art/about/de",

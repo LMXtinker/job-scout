@@ -1,15 +1,15 @@
 {
  "errors": [],
  "per_url": {
-  "https://www.rarebyte.com/jobs": {
-   "links": 1,
+  "https://www.rarebyte.com/jobs.html": {
+   "links": 0,
    "jobs": 0,
-   "final_url": "https://www.rarebyte.com/jobs",
+   "final_url": "https://www.rarebyte.com/jobs.html",
    "title": "Rarebyte - Jobs",
    "sample_links": [
     "https://www.rarebyte.com/imprint.html",
     "https://www.rarebyte.com/index.html",
-    "https://www.rarebyte.com/jobs#menu",
+    "https://www.rarebyte.com/jobs.html#menu",
     "https://twitter.com/RarebyteGameDev",
     "https://www.twitch.tv/rarebyte",
     "https://www.facebook.com/rarebyte",
@@ -20,7 +20,7 @@
     "https://www.rarebyte.com/press",
     "https://www.rarebyte.com/index%20ALT.html#cta",
     "https://www.rarebyte.com/imprint.html",
-    "https://www.rarebyte.com/jobs#menu"
+    "https://www.rarebyte.com/jobs.html#menu"
    ]
   }
  }

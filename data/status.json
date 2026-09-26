@@ -1,19 +1,19 @@
 {
- "generated": "2026-09-26T08:44:36+00:00",
- "jobs": 451,
- "new": 28,
- "recent": 471,
+ "generated": "2026-09-26T10:30:26+00:00",
+ "jobs": 590,
+ "new": 181,
+ "recent": 652,
  "sources": {
   "linkedin-at": {
-   "jobs": 69,
-   "errors": 0
+   "jobs": 147,
+   "errors": 6
   },
   "linkedin-remote-eu": {
-   "jobs": 82,
-   "errors": 0
+   "jobs": 149,
+   "errors": 16
   },
   "karriere.at": {
-   "jobs": 49,
+   "jobs": 47,
    "errors": 0
   },
   "ams-allejobs": {
@@ -23,10 +23,6 @@
   "stepstone": {
    "jobs": 25,
    "errors": 11
-  },
-  "devjobs.at": {
-   "jobs": 19,
-   "errors": 0
   },
   "hitmarker": {
    "jobs": 78,
@@ -48,10 +44,6 @@
    "jobs": 1,
    "errors": 0
   },
-  "artstation": {
-   "jobs": 0,
-   "errors": 0
-  },
   "remotive": {
    "jobs": 0,
    "errors": 0
@@ -69,7 +61,7 @@
    "errors": 0
   },
   "thq-nordic": {
-   "jobs": 0,
+   "jobs": 9,
    "errors": 0
   },
   "mipumi": {
@@ -78,7 +70,7 @@
   },
   "rabcat": {
    "jobs": 0,
-   "errors": 1
+   "errors": 0
   },
   "bongfish": {
    "jobs": 1,
@@ -97,7 +89,7 @@
    "errors": 0
   },
   "fh-salzburg": {
-   "jobs": 0,
+   "jobs": 7,
    "errors": 0
   },
   "fh-stpoelten": {
