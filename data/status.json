@@ -1,16 +1,16 @@
 {
- "generated": "2026-09-26T10:30:26+00:00",
- "jobs": 590,
- "new": 181,
- "recent": 652,
+ "generated": "2026-09-26T12:27:59+00:00",
+ "jobs": 656,
+ "new": 190,
+ "recent": 842,
  "sources": {
   "linkedin-at": {
-   "jobs": 147,
-   "errors": 6
+   "jobs": 135,
+   "errors": 9
   },
   "linkedin-remote-eu": {
-   "jobs": 149,
-   "errors": 16
+   "jobs": 46,
+   "errors": 31
   },
   "karriere.at": {
    "jobs": 47,
@@ -21,8 +21,8 @@
    "errors": 0
   },
   "stepstone": {
-   "jobs": 25,
-   "errors": 11
+   "jobs": 205,
+   "errors": 0
   },
   "hitmarker": {
    "jobs": 78,
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 2,
+   "jobs": 1,
    "errors": 0
   },
   "moon-studios": {

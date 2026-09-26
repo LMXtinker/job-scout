@@ -1,10 +1,10 @@
 {
  "errors": [],
  "per_url": {
-  "page1": 1,
-  "page2": 1,
-  "page3": 2,
-  "page4": 2,
-  "page5": 2
+  "page1": 0,
+  "page2": 0,
+  "page3": 1,
+  "page4": 1,
+  "page5": 1
  }
 }
