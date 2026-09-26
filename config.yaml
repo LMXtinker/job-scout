@@ -108,6 +108,7 @@ scrolls: 3
 digest:
   max_jobs: 100
   send_at: "08:00"   # Wiener Zeit
+  weekly_top: 20      # Montag: so viele Stellen im Wochenrückblick
   postscript: "PS: Lucas loves you <3"   # steht am Ende jeder Nachricht
   # Kandidatin (ohne Namen/Arbeitgeber) – Grundlage für die Bewertung
   profile: |

@@ -10,6 +10,10 @@ on:
         description: "Nur Vorschau (nichts senden)"
         type: boolean
         default: false
+      weekly:
+        description: "Wochenrückblick anhängen (sonst nur montags)"
+        type: boolean
+        default: false
       resend:
         description: "Auch schon gesendete Stellen berücksichtigen"
         type: boolean
@@ -42,6 +46,7 @@ jobs:
           TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
           RESEND: ${{ github.event.inputs.resend }}
+          WEEKLY: ${{ github.event.inputs.weekly }}
       - name: Status committen
         if: always()
         run: |

@@ -40,6 +40,27 @@ def load(fn, default):
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else default
 
 
+PREFS = None
+
+
+def prefs():
+    """Wünsche, die per Telegram geschickt wurden (data/preferences.json, gepflegt von scout/inbox.py)."""
+    global PREFS
+    if PREFS is None:
+        PREFS = load("preferences.json", {"exclude_companies": [], "exclude_keywords": [], "notes": []})
+    return PREFS
+
+
+def blocked(j):
+    """True, wenn eine Anzeige laut Telegram-Wünschen ausgeschlossen ist."""
+    p = prefs()
+    comp = " ".join([j.get("company", ""), j.get("title", ""), j.get("snippet", "")[:120], j.get("url", "")]).lower()
+    if any(c.lower() in comp for c in p.get("exclude_companies", []) if c.strip()):
+        return True
+    title = (j.get("title", "") + " " + j.get("location", "")).lower()
+    return any(k.lower() in title for k in p.get("exclude_keywords", []) if k.strip())
+
+
 def post_json(url, payload, headers=None, timeout=240):
     req = urllib.request.Request(url, data=json.dumps(payload).encode(), method="POST",
                                  headers={"Content-Type": "application/json", **(headers or {})})
@@ -85,6 +106,9 @@ KANDIDATIN:
 {profile}
 {targets}
 
+EIGENE WÜNSCHE DER KANDIDATIN (per Chat mitgeteilt, haben Vorrang):
+{wishes}
+
 REGELN:
 - Nimm alle Stellen auf, die realistisch zu ihr passen – auch teilweise passende (Fit "mittel"), z. B. angrenzende
   Rollen (Motion/Grafik mit 3D, XR, Visualisierung, Lehre, Kultur). Je mehr passende, desto besser, maximal {max_jobs}.
@@ -119,6 +143,7 @@ def rate(jobs, key):
                                 ensure_ascii=False))
     prompt = PROMPT.format(profile=DG["profile"].strip(), targets=DG["targets"].strip(),
                            max_jobs=DG.get("max_jobs", 100), jobs="\n".join(lines),
+                           wishes="\n".join("- " + n for n in prefs().get("notes", [])) or "- (keine)",
                            recent_motivation="\n".join("- " + m for m in load("motivation.json", [])[-14:]) or "- (noch nichts)")
     payload = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
                "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 32000}}
@@ -159,7 +184,7 @@ def esc(s):
 REGIONS = [("wien", "📍 Wien"), ("oesterreich", "🇦🇹 Österreich"), ("remote", "🌍 Remote"), ("ausland", "✈️ Ausland")]
 
 
-def build_messages(picked, jobs, raw_count):
+def build_messages(picked, jobs, raw_count, weekly=False):
     items = []
     for p in picked:
         try:
@@ -176,9 +201,12 @@ def build_messages(picked, jobs, raw_count):
     head = (f"<b>🎯 Job-Update · {day}</b>\n"
             f"{len(items)} {word} ({n_hoch} × sehr passend 🟢)\n"
             f"<i>aus {raw_count} neuen Anzeigen</i>")
+    if weekly:
+        head = head.replace("🎯 Job-Update", "🎯 Wochenstart · Job-Update")
     if MOTIVATION[0]:
         head += f"\n\n💬 <i>{esc(MOTIVATION[0])}</i>"
-    if not items:
+    wk = weekly_section({x["url"] for x in items}) if weekly else []
+    if not items and not wk:
         return [head], items
 
     blocks = [head]
@@ -196,6 +224,7 @@ def build_messages(picked, jobs, raw_count):
             if x.get("reason"):
                 entry += f"\n<i>{esc(x['reason'])}</i>"
             blocks.append("\n" + entry)
+    blocks += wk
     blocks.append("\n🟢 sehr passend · 🟡 teilweise passend")
 
     # in Nachrichten ≤ 3900 Zeichen aufteilen (Telegram-Limit 4096)
@@ -212,6 +241,29 @@ def build_messages(picked, jobs, raw_count):
     if ps and msgs:
         msgs[-1] += f"\n\n{esc(ps)}"
     return msgs, items
+
+
+def weekly_section(today_urls):
+    """Montag: die attraktivsten Funde der letzten 14 Tage, die noch in den Suchergebnissen stehen."""
+    picked = load("picked.json", {})
+    online = {j["url"] for j in load("latest.json", {}).get("jobs", [])}
+    cutoff = (NOW.date() - dt.timedelta(days=14)).isoformat()
+    applied = set(load("applied.json", []))
+    rows = [(u, d) for u, d in picked.items()
+            if d.get("date", "") >= cutoff and u in online and u not in today_urls and u not in applied
+            and not blocked({**d, "url": u})]
+    order = {"wien": 0, "oesterreich": 1, "remote": 2, "ausland": 3}
+    rows.sort(key=lambda r: (r[1].get("fit") != "hoch", order.get(r[1].get("region"), 4), r[1].get("date", "")), reverse=False)
+    rows = rows[:int(DG.get("weekly_top", 20))]
+    if not rows:
+        return []
+    blocks = [f"\n<b>⭐ Wochenrückblick · noch offen</b>  ·  {len(rows)}",
+              "<i>Die attraktivsten Funde der letzten zwei Wochen, die noch online sind</i>"]
+    for u, d in rows:
+        dot = "🟢" if d.get("fit") == "hoch" else "🟡"
+        meta = " · ".join(v for v in [d.get("company", ""), d.get("location", "")] if v.strip())
+        blocks.append(f"{dot} <a href=\"{html.escape(u)}\">{esc(d.get('title', 'Stelle'))}</a>" + (f" – {esc(meta)}" if meta else ""))
+    return blocks
 
 
 def send(token, chat, text):
@@ -292,7 +344,7 @@ def main():
     sent = load("sent.json", {})
     rated = load("rated.json", {})
     cands = [j for j in recent if (RESEND or (j["url"] not in sent and j["url"] not in rated))
-             and not EXCLUDE.search(j.get("title", ""))]
+             and not EXCLUDE.search(j.get("title", "")) and not blocked(j)]
     print(f"recent={len(recent)} bereits bewertet={sum(1 for j in recent if j['url'] in rated)} Kandidaten={len(cands)}")
 
     status = {"generated": NOW.isoformat(timespec="seconds"), "candidates": len(cands)}
@@ -305,7 +357,10 @@ def main():
         status["model"] = model
     else:
         picked = []
-    msgs, items = build_messages(picked, cands, len(cands))
+    from zoneinfo import ZoneInfo
+    weekly = dt.datetime.now(ZoneInfo("Europe/Vienna")).weekday() == 0 or os.environ.get("WEEKLY", "") in ("1", "true")
+    msgs, items = build_messages(picked, cands, len(cands), weekly)
+    has_content = bool(items) or (weekly and len(msgs[0]) > 0 and "Wochenrückblick" in "".join(msgs))
     status["picked"] = len(items)
     status["messages"] = len(msgs)
     DEBUG.mkdir(exist_ok=True)
@@ -314,14 +369,19 @@ def main():
     if DRY:
         print("DRY_RUN – nichts gesendet.")
     else:
-        if not items:
+        if not has_content:
             print("Keine neuen passenden Stellen – nichts gesendet.")
-        for c in chats if items else []:
+        for c in chats if has_content else []:
             for m in msgs:
                 send(tok, c, m)
                 time.sleep(1.2)
+        pk = load("picked.json", {})
         for x in items:
             sent[x["url"]] = NOW.date().isoformat()
+            pk[x["url"]] = {"date": NOW.date().isoformat(), **{k: x.get(k, "") for k in
+                            ("title", "company", "location", "region", "fit", "reason")}}
+        pk = {u: d for u, d in pk.items() if d.get("date", "") >= (NOW.date() - dt.timedelta(days=60)).isoformat()}
+        (DATA / "picked.json").write_text(json.dumps(pk, ensure_ascii=False, indent=1), encoding="utf-8")
         old = (NOW.date() - dt.timedelta(days=180)).isoformat()
         sent = {u: d for u, d in sent.items() if d >= old}
         for j in cands:
@@ -342,7 +402,12 @@ def main():
                  f"Neu bewertet: {len(cands)} · gesendet: {len(items)} an {len(chats)} Empfänger",
                  f"Gemini ({esc(model) or '–'}): {fmt(run['total'])} Tokens "
                  f"(Input {fmt(run['prompt'])}, Output {fmt(run['output'])}, Denken {fmt(run['thoughts'])})",
-                 f"Monat {NOW.strftime('%m/%Y')}: {fmt(month['total'])} Tokens in {month['runs']} Läufen"]
+                 f"Monat {NOW.strftime('%m/%Y')}: {fmt(month['total'])} Tokens in {month['runs']} Läufen"
+                 + (f" + {fmt(load('inbox_usage.json', {}).get(NOW.strftime('%Y-%m'), 0))} für Chat-Wünsche"
+                    if load('inbox_usage.json', {}).get(NOW.strftime('%Y-%m')) else "")]
+        if prefs().get("exclude_companies") or prefs().get("exclude_keywords") or prefs().get("notes"):
+            lines.append("Aktive Chat-Wünsche: " + esc("; ".join(prefs().get("exclude_companies", []) +
+                         prefs().get("exclude_keywords", []) + prefs().get("notes", [])))[:300])
         if zero:
             lines.append(f"<i>Quellen ohne Treffer: {esc(', '.join(zero))}</i>")
         admin("\n".join(lines))
