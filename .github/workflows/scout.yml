@@ -2,7 +2,7 @@ name: scout
 
 on:
   schedule:
-    - cron: "23 3 * * *"   # täglich ~05:23 Wien (Sommerzeit) / 04:23 (Winterzeit)
+    - cron: "23 3 * * *"   # täglich ~05:23 Wien (Sommerzeit) / 04:23 (Winterzeit); danach läuft digest
   workflow_dispatch:
     inputs:
       sources:

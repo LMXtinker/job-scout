@@ -155,13 +155,14 @@ def build_messages(picked, jobs, raw_count):
     fitrank = {"hoch": 0, "mittel": 1}
     items.sort(key=lambda x: (fitrank.get(x.get("fit"), 2), x.get("title", "")))
 
-    kw = NOW.isocalendar().week
+    day = NOW.astimezone(dt.timezone(dt.timedelta(hours=2))).strftime("%d.%m.")
     n_hoch = sum(1 for x in items if x.get("fit") == "hoch")
-    head = (f"<b>🎯 Jobsuche · KW {kw}</b>\n"
-            f"{len(items)} passende Stellen ({n_hoch} × sehr passend 🟢)\n"
-            f"<i>aus {raw_count} neuen Anzeigen der letzten Tage</i>")
+    word = "neue passende Stelle" if len(items) == 1 else "neue passende Stellen"
+    head = (f"<b>🎯 Job-Update · {day}</b>\n"
+            f"{len(items)} {word} ({n_hoch} × sehr passend 🟢)\n"
+            f"<i>aus {raw_count} neuen Anzeigen</i>")
     if not items:
-        return [head + "\n\nDiese Woche war nichts Passendes dabei."], items
+        return [head], items
 
     blocks = [head]
     for reg, label in REGIONS:
@@ -204,14 +205,17 @@ def main():
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    chats = [c.strip() for c in (chat + "," + os.environ.get("TELEGRAM_CC_CHAT_IDS", "")).split(",") if c.strip()]
     missing = [n for n, v in [("GEMINI_API_KEY", key), ("TELEGRAM_BOT_TOKEN", tok), ("TELEGRAM_CHAT_ID", chat)] if not v]
     if missing and not (DRY and key):
         raise SystemExit(f"Fehlende Secrets: {', '.join(missing)}")
 
     recent = load("recent.json", {}).get("jobs", [])
     sent = load("sent.json", {})
-    cands = [j for j in recent if (RESEND or j["url"] not in sent) and not EXCLUDE.search(j.get("title", ""))]
-    print(f"recent={len(recent)} bereits gesendet={sum(1 for j in recent if j['url'] in sent)} Kandidaten={len(cands)}")
+    rated = load("rated.json", {})
+    cands = [j for j in recent if (RESEND or (j["url"] not in sent and j["url"] not in rated))
+             and not EXCLUDE.search(j.get("title", ""))]
+    print(f"recent={len(recent)} bereits bewertet={sum(1 for j in recent if j['url'] in rated)} Kandidaten={len(cands)}")
 
     status = {"generated": NOW.isoformat(timespec="seconds"), "candidates": len(cands)}
     if cands:
@@ -228,13 +232,20 @@ def main():
     if DRY:
         print("DRY_RUN – nichts gesendet.")
     else:
-        for m in msgs:
-            send(tok, chat, m)
-            time.sleep(1.2)
+        if not items:
+            print("Keine neuen passenden Stellen – nichts gesendet.")
+        for c in chats if items else []:
+            for m in msgs:
+                send(tok, c, m)
+                time.sleep(1.2)
         for x in items:
             sent[x["url"]] = NOW.date().isoformat()
         old = (NOW.date() - dt.timedelta(days=180)).isoformat()
         sent = {u: d for u, d in sent.items() if d >= old}
+        for j in cands:
+            rated[j["url"]] = NOW.date().isoformat()
+        rated = {u: d for u, d in rated.items() if d >= old}
+        (DATA / "rated.json").write_text(json.dumps(rated, indent=0), encoding="utf-8")
         (DATA / "sent.json").write_text(json.dumps(sent, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{len(msgs)} Nachricht(en) mit {len(items)} Stellen gesendet.")
     (DATA / "digest_status.json").write_text(json.dumps(status, ensure_ascii=False, indent=1), encoding="utf-8")

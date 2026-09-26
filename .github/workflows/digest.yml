@@ -1,8 +1,9 @@
 name: digest
 
 on:
-  schedule:
-    - cron: "43 5 * * 1"   # Montag ~07:43 Wien (Sommerzeit) / 06:43 (Winterzeit), nach dem Scraper
+  workflow_run:            # täglich direkt nach dem Scraper
+    workflows: [scout]
+    types: [completed]
   workflow_dispatch:
     inputs:
       dry_run:
@@ -23,6 +24,7 @@ concurrency:
 
 jobs:
   digest:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -37,6 +39,7 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CC_CHAT_IDS: ${{ secrets.TELEGRAM_CC_CHAT_IDS }}
           TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
           RESEND: ${{ github.event.inputs.resend }}
