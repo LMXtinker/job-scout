@@ -1,0 +1,77 @@
+{
+ "errors": [],
+ "per_url": {
+  "https://hitmarker.net/jobs?keyword=3D+Artist": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=3D+Artist",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Environment+Artist": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=Environment+Artist",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Technical+Artist": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=Technical+Artist",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Unreal+Engine": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=Unreal+Engine",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Game+Artist": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=Game+Artist",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Concept+Artist": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=Concept+Artist",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Illustrator": {
+   "links": 3,
+   "jobs": 3,
+   "final_url": "https://hitmarker.net/jobs?keyword=Illustrator",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=3D+Generalist": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=3D+Generalist",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Realtime+Artist": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=Realtime+Artist",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Virtual+Production": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=Virtual+Production",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=3D+Designer": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=3D+Designer",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  },
+  "https://hitmarker.net/jobs?keyword=Game+Design": {
+   "links": 7,
+   "jobs": 7,
+   "final_url": "https://hitmarker.net/jobs?keyword=Game+Design",
+   "title": "Gaming, Esports & Content Jobs | Hitmarker"
+  }
+ }
+}

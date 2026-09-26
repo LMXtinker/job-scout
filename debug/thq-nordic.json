@@ -1,0 +1,48 @@
+{
+ "errors": [],
+ "per_url": {
+  "https://www.thqnordic.com/jobs": {
+   "links": 1,
+   "jobs": 0,
+   "final_url": "https://thqnordic.com/jobs",
+   "title": "THQ Nordic - Page Not Found",
+   "sample_links": [
+    "https://thqnordic.com/jobs#",
+    "https://thqnordic.com/",
+    "https://thqnordic.com/games",
+    "https://store.thqnordic.com/",
+    "https://thqnordic.com/news",
+    "https://limited.thqnordic.com/",
+    "https://thqnordic.com/company/careers",
+    "https://thqnordic.com/press",
+    "https://creators.thqnordic.com/",
+    "https://thqnordic.com/company/about",
+    "https://thqnordic.com/company/contact",
+    "https://thqnordic.com/",
+    "https://thqnordic.com/games",
+    "https://www.facebook.com/THQNordic",
+    "https://www.youtube.com/c/thqnordic",
+    "https://twitter.com/thqnordic",
+    "https://www.instagram.com/THQNordic/",
+    "https://www.tiktok.com/@thqnordic",
+    "https://discord.gg/thqnordic",
+    "https://www.threads.net/@thqnordic",
+    "https://bsky.app/profile/thqnordic.com",
+    "https://thqnordic.com/",
+    "https://thqnordic.com/games",
+    "https://store.thqnordic.com/",
+    "https://thqnordic.com/legal/privacy",
+    "https://thqnordic.com/legal/terms",
+    "https://thqnordic.com/legal/imprint",
+    "https://thqnordic.com/jobs#",
+    "https://thqnordic.com/company/about",
+    "https://thqnordic.com/company/contact",
+    "https://thqnordic.com/company/careers",
+    "https://thqnordic.com/press",
+    "https://thqnordic.com/legal/video-policy",
+    "https://creators.thqnordic.com/",
+    "https://embracer.com/governance/whistleblowing/"
+   ]
+  }
+ }
+}
