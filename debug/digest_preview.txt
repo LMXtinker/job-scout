@@ -1,97 +1,189 @@
 <b>🎯 Job-Update · 26.09.</b>
-20 neue passende Stellen (12 × sehr passend 🟢)
-<i>aus 379 neuen Anzeigen</i>
+42 neue passende Stellen (24 × sehr passend 🟢)
+<i>aus 494 neuen Anzeigen</i>
 
-💬 <i>Dein Mix aus Unreal Engine, Tech-Art und Kulturmanagement ist selten und gefragt. Heb in deinem Portfolio zuerst deine stimmungsvollsten UE5-Szenen hervor – das bleibt sofort im Kopf! 🚀</i>
+💬 <i>Heute sind einige spannende Unreal- und Tech-Art-Rollen dabei – auch direkt in Wien und Remote. Zeig bei Bewerbungen deine UE5-PCG-Szenen ganz vorne im Portfolio, das sticht sofort hervor!</i>
 
-<b>📍 Wien</b>  ·  4
+<b>📍 Wien</b>  ·  7
 
 🟢 <b><a href="https://at.linkedin.com/jobs/view/assistant-art-production-installation-f-m-x-at-european-society-of-radiology-4467383916">Assistant Art Production &amp; Installation</a></b>
-European Society of Radiology · Wien, Wien, Österreich
-<i>Ausstellungs- und Kunstproduktion in Wien – perfekte Schnittstelle zur Kultur.</i>
+European Society of Radiology · Wien, Österreich
+<i>Ideale Schnittstelle zu deinem Hintergrund in Kulturmanagement und Ausstellungspraxis.</i>
 
 🟢 <b><a href="https://at.linkedin.com/jobs/view/game-experience-creator-m-w-d-at-strudle-media-and-services-4465572728">Game &amp; Experience Creator</a></b>
-Strudel Media and Services · Wien, Wien, Österreich
-<i>Interaktive Experiences &amp; Games in Wien – passt ideal zum XR-Hintergrund.</i>
+Strudel Media and Services · Wien, Österreich
+<i>Games &amp; Experience Design direkt in Wien – passt exzellent zu deinem XR- und Game-Profil.</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/motion-designer-at-fonio-ai-4467247797">Motion Designer</a></b>
-fonio.ai · Wien, Wien, Österreich
-<i>Motion Design direkt in Wien – gute Option mit Visual-Effects-Bezug.</i>
+🟢 <b><a href="https://at.linkedin.com/jobs/view/motion-designer-at-fonio-ai-4467247797">Motion Designer</a></b>
+fonio.ai · Wien, Österreich
+<i>Kreative Rolle in Wien mit starkem Fokus auf Videoproduktion und Motion Design.</i>
 
-🟡 <b><a href="https://www.karriere.at/jobs/10032445">Motion Designer:in</a></b>
+🟢 <b><a href="https://www.karriere.at/jobs/10032445">Motion Designer:in</a></b>
 vorauerfriends communications gmbh · Wien / Thalheim bei Wels
-<i>Motion Design und Bewegtbild mit Standort Wien und Homeoffice-Option.</i>
+<i>Bewegtbild- und Motion-Design mit Option in Wien – gute Ergänzung zu 3D/VFX.</i>
 
-<b>🇦🇹 Österreich</b>  ·  3
+🟡 <b><a href="https://at.linkedin.com/jobs/view/digital-designer-at-nexxar-4467495723">Digital Designer</a></b>
+nexxar · Wien, Österreich
+<i>Digital-Design-Rolle in Wien mit Schnittstellen zu Web und interaktiven Medien.</i>
+
+🟡 <b><a href="https://at.linkedin.com/jobs/view/grafik-designer-at-nexxar-4468600784">Grafik Designer</a></b>
+nexxar · Wien, Österreich
+<i>Digitale Grafik und Visualisierung in einer Wiener Digitalagentur.</i>
+
+🟡 <b><a href="https://at.linkedin.com/jobs/view/grafikdesigner-at-neu-plus-herz-4469909371">Grafikdesigner</a></b>
+neu plus herz · Wien, Österreich
+<i>Grafikdesign-Stelle in Wien, interessant als solide Basis oder Übergang.</i>
+
+<b>🇦🇹 Österreich</b>  ·  5
+
+🟢 <b><a href="https://www.karriere.at/jobs/10033288">Grafik Designer mit KI Fokus</a></b>
+APEX Gaming Technology GmbH · Hagenberg im Mühlkreis, Österreich
+<i>Game-Studio in Österreich mit Schwerpunkt auf Motion Graphics und visuellem Content.</i>
+
+🟢 <b><a href="https://bongfish.jobs.personio.de/job/366240">Initiativbewerbung Game Development</a></b>
+Bongfish · Graz, Österreich
+<i>Renommiertes österreichisches Studio mit Unreal-Fokus; Initiativbewerbung lohnt sich.</i>
 
 🟢 <b><a href="https://at.linkedin.com/jobs/view/lecturer-game-mixed-reality-w-m-x-at-fachhochschule-salzburg-4458991157">Lecturer Game &amp; Mixed Reality</a></b>
-Fachhochschule Salzburg · Salzburg, Salzburg, Österreich
-<i>Lehre im Bereich Game &amp; Mixed Reality an der FH Salzburg – ideal mit Master.</i>
+Fachhochschule Salzburg · Salzburg, Österreich
+<i>Hochschullehre im Bereich Games/XR passt exzellent zu deinem MA und Serious-Games-Fokus.</i>
 
-🟢 <b><a href="https://bongfish.jobs.personio.de/job/366240">Open Application Game Art</a></b>
-Bongfish · Graz, Steiermark, Österreich
-<i>Initiativbewerbung beim bekannten steirischen Gamestudio für Realtime-Art.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/ai-visual-artist-ki-bildproduktion-m-w-d-at-druck-at-4465532602">AI Visual Artist: KI-Bildproduktion</a></b>
+druck.at · Leobersdorf, Niederösterreich, Österreich
+<i>Visual Arts &amp; Bildgenerierung in NÖ; gute Ergänzung zum Concept-Art-Hintergrund.</i>
 
-🟡 <b><a href="https://www.karriere.at/jobs/10033288">Grafik Designer mit KI Fokus</a></b>
-APEX Gaming Technology GmbH · Hagenberg im Mühlkreis, Oberösterreich
-<i>Grafik &amp; Motion Design im Games-Umfeld mit KI-Fokus in Oberösterreich.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/game-designer-w-m-x-at-novomatic-4449740403">Game Designer</a></b>
+NOVOMATIC · Gumpoldskirchen, Niederösterreich, Österreich
+<i>Game-Studio nahe Wien; Designfokus, aber solides Umfeld für Game-Background.</i>
 
-<b>🌍 Remote</b>  ·  11
+<b>🌍 Remote</b>  ·  17
 
 🟢 <b><a href="https://www.workwithindies.com/careers/pine-creek-games-2d-artist">2D Artist</a></b>
-Pine Creek Games · Remote (CEST ± 2 hours)
-<i>2D Art für Indie-Games in passender Zeitzone – nutzt Illustrationsskills.</i>
-
-🟢 <b><a href="https://www.workwithindies.com/careers/bunch-o-nerds-3d-artist-environment-map-design">3D Artist (Environment &amp; Map Design)</a></b>
-Bunch'o'Nerds · Remote (CET ± 4 hours)
-<i>Environment- und Map-Design in passender Zeitzone – ideal für 3D-Fokus.</i>
-
-🟢 <b><a href="https://www.workwithindies.com/careers/omg-studios-3d-game-artist-generalist">3D Game Artist Generalist</a></b>
-OMG Studios · Remote
-<i>3D Game Art Allrounder im Remote-Team – passend für Junior-Mid-Erfahrung.</i>
-
-🟢 <b><a href="https://www.workwithindies.com/careers/floaty-studio-general-artist">General Artist</a></b>
-Floaty Studio · Remote
-<i>General Artist für Indie-Games Remote – verbindet 2D- und 3D-Kreativarbeit.</i>
-
-🟢 <b><a href="https://www.workwithindies.com/careers/floaty-studio-technical-artist">Technical Artist</a></b>
-Floaty Studio · Remote
-<i>Technical Artist für Indie-Studio im Remote-Umfeld – sehr guter Rollen-Fit.</i>
-
-🟢 <b><a href="https://www.workwithindies.com/careers/uni-dreams-technical-artist-foliage-implementation">Technical Artist (Foliage Implementation)</a></b>
-Uni Dreams · Remote
-<i>Tech Art mit Fokus Foliage – perfektes Match für UE-Vegetation &amp; PCG.</i>
-
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/unreal-engine-generalist-at-luxoft-poland-4467072244">Unreal Engine Generalist</a></b>
-Luxoft Poland · Polen
-<i>Unreal Engine Generalist im Remote-Setting – passt exakt zu Realtime-Skills.</i>
+Pine Creek Games · Remote (CEST ± 2h)
+<i>Remote in deiner Zeitzone für 2D-Game-Art, Illustration und Character-Design.</i>
 
 =====
 
-🟢 <b><a href="https://de.linkedin.com/jobs/view/unreal-environment-artist-m-f-d-at-welevel-4471893142">Unreal Environment Artist</a></b>
-welevel · München, Deutschland
-<i>Unreal Engine &amp; Environment Art – Volltreffer für ihren primären Tech-Stack.</i>
+🟢 <b><a href="https://www.workwithindies.com/careers/omg-studios-2d-artist">2D Artist</a></b>
+OMG Studios · Remote (Anywhere)
+<i>2D Game Art und UI-Assets für mobile/Indie-Games, ortsunabhängig.</i>
 
-🟡 <b><a href="https://hitmarker.net/jobs/side-3d-artist-4628940">3D Artist</a></b>
-Side · Remote
-<i>Remote-Vertrag für 3D Artist mit Unreal Engine Fokus.</i>
+🟢 <b><a href="https://hitmarker.net/jobs/side-3d-artist-4628940">3D Artist</a></b>
+Side · Remote (Anywhere)
+<i>Reine Remote-Stelle mit Unreal-Engine-Fokus für erfahrene 3D-Artists.</i>
+
+🟢 <b><a href="https://hitmarker.net/jobs/pulse-games-3d-artist-4833582">3D Artist</a></b>
+Pulse Games · Remote (Anywhere)
+<i>Klassische 3D-Artist-Rolle in Vollzeit auf Remote-Basis.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/bunch-o-nerds-3d-artist-environment-map-design">3D Artist (Environment &amp; Map Design)</a></b>
+Bunch'o'Nerds · Remote (CET ± 4h)
+<i>Environment- &amp; Map-Design in passender Zeitzone, genau deine Prio-1-Zielrolle.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/omg-studios-3d-game-artist-generalist">3D Game Artist Generalist</a></b>
+OMG Studios · Remote (Anywhere)
+<i>Vollständige 3D-Generalisten-Rolle im Game-Bereich auf Remote-Basis.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/golden-hind-games-3d-hard-surface-artist-modular-ships">3D Hard Surface Artist</a></b>
+Golden Hind Games · Remote (Anywhere)
+<i>Modulares 3D-Asset-Design für Games im Remote-Setup.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/the-leyva-group-character-illustrator">Character Illustrator</a></b>
+The Leyva Group · Remote (Anywhere)
+<i>Fokus auf 2D-Charakterdesign und Illustration – passt gut zum Portfolio.</i>
+
+🟢 <b><a href="https://remotegamejobs.com/jobs/ci-games-cinematic-animator-remote-job">Cinematic Animator</a></b>
+CI Games · Remote (Spanien/EU)
+<i>Arbeit mit Maya und Unreal Engine auf EU-Remote-Basis.</i>
+
+🟢 <b><a href="https://remotegamejobs.com/jobs/nae-dev-game-animator-paired-sequences-for-unreal-mannequin-remote-job">Game Animator - Unreal Sequences</a></b>
+Nae Dev · Remote
+<i>Freelance-Projekt mit Blender/Maya und Unreal Mannequin Pipeline.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/floaty-studio-general-artist">General Artist</a></b>
+Floaty Studio · Remote (Anywhere)
+<i>Indie-Game-Studio sucht Generalist für Art &amp; Assets.</i>
+
+🟢 <b><a href="https://hitmarker.net/jobs/zeptolab-generalist-artist-4865978">Generalist Artist</a></b>
+ZeptoLab · Remote (Anywhere)
+<i>Breit aufgestellte Artist-Position bei etabliertem Studio, remote ausgeschrieben.</i>
+
+🟢 <b><a href="https://es.linkedin.com/jobs/view/illustrator-at-superside-4464152254">Illustrator</a></b>
+Superside · Remote (Spanien/EU)
+<i>100% remote für Illustration und Concept Art bei einer flexiblen Kreativagentur.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/dusksoft-studios-stylized-3d-character-artist">Stylized 3D Character Artist</a></b>
+DuskSoft Studios · Remote (Anywhere)
+<i>Spannend für deine Fähigkeiten in Charakterdesign und 3D-Modeling.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/floaty-studio-technical-artist">Technical Artist</a></b>
+Floaty Studio · Remote (Anywhere)
+<i>Zielrolle Technical Artist im Indie-Game-Umfeld, vollständig remote machbar.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/uni-dreams-technical-artist-foliage-implementation">Technical Artist (Foliage Implementation)</a></b>
+Uni Dreams · Remote (Anywhere)
+<i>Foliage-Fokus passt herausragend zu deinen UE-Environment- und PCG-Fähigkeiten.</i>
+
+🟢 <b><a href="https://www.workwithindies.com/careers/uni-dreams-technical-artist-unity">Technical Artist (Unity)</a></b>
+Uni Dreams · Remote (Anywhere)
+<i>Technical Art für Games; Unity statt UE, aber Kernkompetenzen sind transferierbar.</i>
+
+<b>✈️ Ausland</b>  ·  13
+
+=====
+
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/2d-artist-illustrator-at-artifex-mundi-4470295155">2D Artist / Illustrator</a></b>
+Artifex Mundi · Kattowitz, Polen
+<i>Starker Fokus auf 2D-Illustration und Game-Assets bei bekanntem Studio.</i>
+
+🟡 <b><a href="https://bg.linkedin.com/jobs/view/2d-concept-artist-at-gameloft-sofia-4469886071">2D Concept Artist</a></b>
+Gameloft Sofia · Sofia, Bulgarien
+<i>Concept Art für Mobile/PC bei internationalem Publisher; Ausland vor Ort.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-motion-designer-robotics-at-cell-labs-4468910312">3D &amp; Motion Designer | Robotics</a></b>
+Cell Labs · Berlin, Deutschland
+<i>Spannende Schnittstelle aus 3D, Motion Design und Visualisierung von Tech-Produkten.</i>
 
 🟡 <b><a href="https://lt.linkedin.com/jobs/view/3d-artist-co-op-adventure-pc-game-at-estoty-4467621177">3D Artist (Co-op Adventure PC Game)</a></b>
 Estoty · Vilnius, Litauen
-<i>3D Game Art für PC-Adventure – passt stilistisch zu Game-Art-Erfahrung.</i>
+<i>Stylized/Realtime 3D Art für PC-Adventure, EU-Ausland.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-m-w-d-spieleentwicklung-at-randstad-deutschland-4469681311">3D Artist Spieleentwicklung</a></b>
+Randstad Deutschland · Hamburg, Deutschland
+<i>Game-Art im DACH-Raum; auf Remote-Optionen oder Projektbasis prüfen.</i>
 
 🟡 <b><a href="https://de.linkedin.com/jobs/view/junior-3d-cgi-designer-all-genders-at-schleich%C2%AE-4457795114">Junior 3D / CGI Designer</a></b>
 schleich® · München, Deutschland
-<i>Junior 3D/CGI Designer – solide 3D-Modellierungs- und Texturierungsrolle.</i>
-
-<b>✈️ Ausland</b>  ·  2
+<i>3D-Modeling und CGI für bekannte Marke auf Junior-Level im DACH-Raum.</i>
 
 🟡 <b><a href="https://dk.linkedin.com/jobs/view/junior-environmental-artist-at-trackman-4460327260">Junior Environmental Artist</a></b>
 Trackman · Hørsholm, Dänemark
-<i>Junior-Rolle im Environment-Bereich – thematisch genau im Fokus.</i>
+<i>Exakter Level- und Rollenfit für Environment Art, erfordert jedoch Umzug/Reisen.</i>
 
 🟡 <b><a href="https://pl.linkedin.com/jobs/view/level-artist-at-techland-4470089929">Level Artist</a></b>
 Techland · Warschau, Polen
-<i>Level &amp; Environment Art bei renommiertem AAA-Studio im EU-Ausland.</i>
+<i>AAA-Level-Art; hervorragender fachlicher Match zu Environment &amp; Set Dressing.</i>
+
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/technical-artist-at-yggdrasil-gaming-ltd-4468486125">Technical Artist</a></b>
+Yggdrasil Gaming Ltd · Krakau, Polen
+<i>Tech-Art-Position in der europäischen Spieleindustrie.</i>
+
+🟡 <b><a href="https://hitmarker.net/jobs/virtuos-stagiaire-technical-artist-character-pipeline-et-integration-unreal-engine-4736455">Technical Artist - Character &amp; Unreal Engine</a></b>
+Virtuos · Cergy, Frankreich
+<i>Unreal-Pipeline-Integration auf Nachwuchs-/Junior-Niveau; Ausland vor Ort.</i>
+
+🟡 <b><a href="https://es.linkedin.com/jobs/view/technical-artist-yahtzee%21-with-buddies-at-scopely-4461026406">Technical Artist - Yahtzee! With Buddies</a></b>
+Scopely · Barcelona, Spanien
+<i>Technical-Artist-Rolle in Spanien; prüfen, ob Remote aus DACH möglich ist.</i>
+
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/unreal-engine-generalist-at-luxoft-poland-4467072244">Unreal Engine Generalist</a></b>
+Luxoft Poland · Polen
+<i>Unreal-Fokus passt sehr gut; Standort Polen, eventuell Remote-Optionen anfragen.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/unreal-environment-artist-m-f-d-at-welevel-4471893142">Unreal Environment Artist</a></b>
+welevel · München, Deutschland
+<i>Prio-1-Zielrolle mit Unreal Engine; vor Ort in München oder Hybrid prüfen.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
+
+PS: Lucas loves you &lt;3
