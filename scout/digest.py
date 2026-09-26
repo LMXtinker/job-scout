@@ -48,6 +48,7 @@ def post_json(url, payload, headers=None, timeout=240):
 
 
 USAGE = {}  # usageMetadata der letzten Gemini-Antwort
+MOTIVATION = [""]
 
 # ---------------------------------------------------------------- Gemini
 def gemini_models(key):
@@ -94,7 +95,13 @@ REGELN:
 - title: bereinigter Stellentitel ohne (m/w/d)-Zusätze, max. 70 Zeichen.
 - id: die id aus den Daten.
 
-Antworte NUR mit JSON: {{"jobs":[{{"id":int,"title":str,"company":str,"location":str,"region":str,"fit":str,"reason":str}}]}}
+Zusätzlich "motivation": 1–2 kurze, warme Sätze auf Deutsch (du-Form, max. 220 Zeichen), die sie für die Jobsuche
+aufmuntern. Jeden Tag anders: mal ein konkreter Tipp (Portfolio, Bewerbung, Netzwerken, Game-Jams), mal Zuspruch,
+mal ein kleiner Perspektivwechsel oder Humor. Bezug gern auf die heutigen Treffer oder ihr Profil. Nicht kitschig,
+keine Floskeln wie "Du schaffst das!" allein, keine Emojis-Flut (höchstens eins). Nicht wiederholen, was hier schon kam:
+{recent_motivation}
+
+Antworte NUR mit JSON: {{"motivation":str,"jobs":[{{"id":int,"title":str,"company":str,"location":str,"region":str,"fit":str,"reason":str}}]}}
 
 ANZEIGEN (JSON-Zeilen):
 {jobs}
@@ -109,7 +116,8 @@ def rate(jobs, key):
                                  "url": j["url"][:140], "snippet": (j.get("snippet") or "")[:220]},
                                 ensure_ascii=False))
     prompt = PROMPT.format(profile=DG["profile"].strip(), targets=DG["targets"].strip(),
-                           max_jobs=DG.get("max_jobs", 100), jobs="\n".join(lines))
+                           max_jobs=DG.get("max_jobs", 100), jobs="\n".join(lines),
+                           recent_motivation="\n".join("- " + m for m in load("motivation.json", [])[-14:]) or "- (noch nichts)")
     payload = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
                "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 32000}}
     last = None
@@ -121,7 +129,9 @@ def rate(jobs, key):
                               payload, {"x-goog-api-key": key})
                 text = "".join(p.get("text", "") for p in r["candidates"][0]["content"]["parts"])
                 text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
-                picked = json.loads(text)["jobs"]
+                parsed = json.loads(text)
+                picked = parsed["jobs"]
+                MOTIVATION[0] = (parsed.get("motivation") or "").strip()
                 USAGE.update(r.get("usageMetadata") or {})
                 return model, picked
             except urllib.error.HTTPError as e:
@@ -164,6 +174,8 @@ def build_messages(picked, jobs, raw_count):
     head = (f"<b>🎯 Job-Update · {day}</b>\n"
             f"{len(items)} {word} ({n_hoch} × sehr passend 🟢)\n"
             f"<i>aus {raw_count} neuen Anzeigen</i>")
+    if MOTIVATION[0]:
+        head += f"\n\n💬 <i>{esc(MOTIVATION[0])}</i>"
     if not items:
         return [head], items
 
@@ -233,13 +245,36 @@ def fmt(n):
     return f"{n:,}".replace(",", ".")
 
 
+def wait_for_send_time():
+    """Geplante Läufe: nur einmal pro Tag, und erst um SEND_AT (Wiener Zeit) senden."""
+    if os.environ.get("GITHUB_EVENT_NAME") != "schedule":
+        return True
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo("Europe/Vienna")
+    now = dt.datetime.now(tz)
+    hh, mm = map(int, str(DG.get("send_at", "08:00")).split(":"))
+    target = now.replace(hour=hh, minute=mm, second=0, microsecond=0)
+    last = load("digest_status.json", {}).get("scheduled_day", "")
+    if last == now.date().isoformat():
+        print("Heute schon gesendet – übersprungen."); return False
+    if now < target - dt.timedelta(minutes=75):
+        print(f"Zu früh ({now:%H:%M}) – der zweite Zeitplan-Eintrag übernimmt (Sommer-/Winterzeit)."); return False
+    if now > target + dt.timedelta(hours=3):
+        print(f"Zu spät ({now:%H:%M}) – übersprungen."); return False
+    if now < target:
+        secs = (target - now).total_seconds()
+        print(f"Warte {secs/60:.0f} min bis {hh:02d}:{mm:02d} Wiener Zeit …", flush=True)
+        time.sleep(secs)
+    return True
+
+
 def main():
-    scout = os.environ.get("SCOUT_CONCLUSION", "").strip()
-    if scout and scout != "success":
-        admin(f"⚠️ <b>Job-Scout:</b> Der Scraper-Lauf ist fehlgeschlagen ({esc(scout)}).\n"
-              f"Details: github.com/LMXtinker/job-scout/actions")
-        print(f"::warning::Scraper-Lauf: {scout} – Digest übersprungen")
+    if not wait_for_send_time():
         return
+    scraped = load("status.json", {}).get("generated", "")
+    if scraped and scraped[:10] < (NOW - dt.timedelta(hours=30)).date().isoformat():
+        admin(f"⚠️ <b>Job-Scout:</b> Die Scraper-Daten sind vom {esc(scraped[:10])} – der tägliche Scraper-Lauf "
+              f"ist wohl fehlgeschlagen. github.com/LMXtinker/job-scout/actions")
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
@@ -256,6 +291,9 @@ def main():
     print(f"recent={len(recent)} bereits bewertet={sum(1 for j in recent if j['url'] in rated)} Kandidaten={len(cands)}")
 
     status = {"generated": NOW.isoformat(timespec="seconds"), "candidates": len(cands)}
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and not DRY:
+        from zoneinfo import ZoneInfo
+        status["scheduled_day"] = dt.datetime.now(ZoneInfo("Europe/Vienna")).date().isoformat()
     model = ""
     if cands:
         model, picked = rate(cands, key)
@@ -285,6 +323,9 @@ def main():
             rated[j["url"]] = NOW.date().isoformat()
         rated = {u: d for u, d in rated.items() if d >= old}
         (DATA / "rated.json").write_text(json.dumps(rated, indent=0), encoding="utf-8")
+        if items and MOTIVATION[0]:
+            mot = load("motivation.json", []) + [MOTIVATION[0]]
+            (DATA / "motivation.json").write_text(json.dumps(mot[-30:], ensure_ascii=False, indent=1), encoding="utf-8")
         (DATA / "sent.json").write_text(json.dumps(sent, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{len(msgs)} Nachricht(en) mit {len(items)} Stellen gesendet.")
     run, month = record_usage(model)

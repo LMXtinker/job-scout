@@ -1,9 +1,9 @@
 name: digest
 
 on:
-  workflow_run:            # täglich direkt nach dem Scraper
-    workflows: [scout]
-    types: [completed]
+  schedule:                # 08:00 Wien: zwei Einträge für Sommer-/Winterzeit, das Skript wartet bis 08:00
+    - cron: "41 5 * * *"   # = 07:41 Sommerzeit / 06:41 Winterzeit
+    - cron: "41 6 * * *"   # = 08:41 Sommerzeit / 07:41 Winterzeit
   workflow_dispatch:
     inputs:
       dry_run:
@@ -25,7 +25,7 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 100
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -40,7 +40,6 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_CC_CHAT_IDS: ${{ secrets.TELEGRAM_CC_CHAT_IDS }}
           TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
-          SCOUT_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
           RESEND: ${{ github.event.inputs.resend }}
       - name: Status committen

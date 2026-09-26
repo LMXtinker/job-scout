@@ -107,6 +107,7 @@ scrolls: 3
 # ---------------------------------------------------------------- Digest (Gemini + Telegram)
 digest:
   max_jobs: 100
+  send_at: "08:00"   # Wiener Zeit
   # Kandidatin (ohne Namen/Arbeitgeber) – Grundlage für die Bewertung
   profile: |
     Realtime-/Game-Artist aus Wien, Junior bis Mid (ca. 2–3 Jahre Berufserfahrung).
