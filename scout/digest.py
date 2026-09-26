@@ -47,6 +47,8 @@ def post_json(url, payload, headers=None, timeout=240):
         return json.load(r)
 
 
+USAGE = {}  # usageMetadata der letzten Gemini-Antwort
+
 # ---------------------------------------------------------------- Gemini
 def gemini_models(key):
     wanted = [os.environ.get("GEMINI_MODEL", "").strip()] if os.environ.get("GEMINI_MODEL", "").strip() else []
@@ -120,6 +122,7 @@ def rate(jobs, key):
                 text = "".join(p.get("text", "") for p in r["candidates"][0]["content"]["parts"])
                 text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
                 picked = json.loads(text)["jobs"]
+                USAGE.update(r.get("usageMetadata") or {})
                 return model, picked
             except urllib.error.HTTPError as e:
                 body = e.read().decode("utf-8", "replace")[:300]
@@ -201,7 +204,42 @@ def send(token, chat, text):
         raise RuntimeError(r)
 
 
+def record_usage(model):
+    """Tokens dieses Laufs in data/usage.json (pro Monat) aufsummieren und zurückgeben."""
+    u = load("usage.json", {})
+    month = NOW.strftime("%Y-%m")
+    m = u.setdefault(month, {"runs": 0, "prompt": 0, "output": 0, "thoughts": 0, "total": 0})
+    run = {"prompt": USAGE.get("promptTokenCount", 0), "output": USAGE.get("candidatesTokenCount", 0),
+           "thoughts": USAGE.get("thoughtsTokenCount", 0), "total": USAGE.get("totalTokenCount", 0)}
+    if run["total"]:
+        m["runs"] += 1
+        for k, v in run.items():
+            m[k] += v
+        m["model"] = model
+    (DATA / "usage.json").write_text(json.dumps(u, indent=1), encoding="utf-8")
+    return run, m
+
+
+def admin(text):
+    tok, adm = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip(), os.environ.get("TELEGRAM_ADMIN_CHAT_ID", "").strip()
+    if tok and adm and not DRY:
+        try:
+            send(tok, adm, text)
+        except Exception as e:
+            print("Admin-Nachricht fehlgeschlagen:", e)
+
+
+def fmt(n):
+    return f"{n:,}".replace(",", ".")
+
+
 def main():
+    scout = os.environ.get("SCOUT_CONCLUSION", "").strip()
+    if scout and scout != "success":
+        admin(f"⚠️ <b>Job-Scout:</b> Der Scraper-Lauf ist fehlgeschlagen ({esc(scout)}).\n"
+              f"Details: github.com/LMXtinker/job-scout/actions")
+        print(f"::warning::Scraper-Lauf: {scout} – Digest übersprungen")
+        return
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
@@ -218,6 +256,7 @@ def main():
     print(f"recent={len(recent)} bereits bewertet={sum(1 for j in recent if j['url'] in rated)} Kandidaten={len(cands)}")
 
     status = {"generated": NOW.isoformat(timespec="seconds"), "candidates": len(cands)}
+    model = ""
     if cands:
         model, picked = rate(cands, key)
         status["model"] = model
@@ -248,6 +287,19 @@ def main():
         (DATA / "rated.json").write_text(json.dumps(rated, indent=0), encoding="utf-8")
         (DATA / "sent.json").write_text(json.dumps(sent, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{len(msgs)} Nachricht(en) mit {len(items)} Stellen gesendet.")
+    run, month = record_usage(model)
+    status["tokens"] = run
+    if not DRY:
+        src = load("status.json", {}).get("sources", {})
+        zero = [k for k, v in src.items() if not v.get("jobs")]
+        lines = [f"📊 <b>Job-Scout · Bericht</b>",
+                 f"Neu bewertet: {len(cands)} · gesendet: {len(items)} an {len(chats)} Empfänger",
+                 f"Gemini ({esc(model) or '–'}): {fmt(run['total'])} Tokens "
+                 f"(Input {fmt(run['prompt'])}, Output {fmt(run['output'])}, Denken {fmt(run['thoughts'])})",
+                 f"Monat {NOW.strftime('%m/%Y')}: {fmt(month['total'])} Tokens in {month['runs']} Läufen"]
+        if zero:
+            lines.append(f"<i>Quellen ohne Treffer: {esc(', '.join(zero))}</i>")
+        admin("\n".join(lines))
     (DATA / "digest_status.json").write_text(json.dumps(status, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
@@ -257,11 +309,5 @@ if __name__ == "__main__":
     except Exception as e:
         # Fehler als Annotation sichtbar machen und – wenn möglich – kurz an Telegram melden
         print(f"::error::{e}")
-        tok, chat = os.environ.get("TELEGRAM_BOT_TOKEN", ""), os.environ.get("TELEGRAM_CHAT_ID", "")
-        admin = os.environ.get("TELEGRAM_ADMIN_CHAT_ID", "")
-        if tok and admin and not DRY:
-            try:
-                send(tok, admin, f"⚠️ Job-Scout Digest fehlgeschlagen:\n{esc(str(e))[:500]}")
-            except Exception:
-                pass
+        admin(f"⚠️ <b>Job-Scout:</b> Bewertung/Versand fehlgeschlagen:\n{esc(str(e))[:500]}")
         sys.exit(1)
