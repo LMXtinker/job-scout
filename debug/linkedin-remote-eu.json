@@ -1,7 +1,5 @@
 {
- "errors": [
-  "Game Design: HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "per_url": {
   "3D Artist": 10,
   "Environment Artist": 10,
@@ -13,6 +11,7 @@
   "3D Generalist": 10,
   "Realtime Artist": 10,
   "Virtual Production": 10,
-  "3D Designer": 10
+  "3D Designer": 10,
+  "Game Design": 10
  }
 }
