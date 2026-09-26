@@ -103,3 +103,27 @@ sources:
 recent_days: 8
 # Max. Scrollen pro Seite (Lazy Loading)
 scrolls: 3
+
+# ---------------------------------------------------------------- Digest (Gemini + Telegram)
+digest:
+  max_jobs: 100
+  # Kandidatin (ohne Namen/Arbeitgeber) – Grundlage für die Bewertung
+  profile: |
+    Realtime-/Game-Artist aus Wien, Junior bis Mid (ca. 2–3 Jahre Berufserfahrung).
+    Ausbildung: MA Realtime Art & Visual Effects (2024), BA Computeranimation (2021),
+    Weiterbildung Kulturmanagement & internationales Projektmanagement.
+    Erfahrung: 2D/3D-Artist und Technical Artist in einem Studio für Serious Games/XR,
+    2D-Charakterdesign für ein Medienprojekt, 2D/3D-Artist in einem Games-Studio,
+    eigene Indie-Games auf Festivals ausgestellt, Workshops für Jugendliche, Ausstellungsorganisation.
+    Skills: Environment Design in Unreal Engine 4/5 (inkl. PCG), Maya, Blender, Substance Painter/Designer,
+    Photoshop, Affinity, Procreate, Adobe Suite; Illustration/Concept Art, Charakterdesign, Grafikdesign.
+    Sprachen: Deutsch (Muttersprache), Englisch fließend.
+  targets: |
+    Zielrollen (Priorität absteigend): Environment Artist, Technical Artist, 3D Generalist,
+    Realtime/Unreal Artist, Concept Artist/Illustrator, 2D/3D Game Artist,
+    Virtual Production / Realtime-Visualisierung (auch Architektur, XR, Museum/Ausstellung, Serious Games),
+    Lehr-/Tutor-Stellen an Hochschulen (Game Art, 3D), Kultur-/Kreativprojekte, Grafik-/Motion-Design mit 3D-Bezug.
+    Ort: Wien bevorzugt, dann ganz Österreich, dann Remote (EU/DACH-Zeitzone).
+    Ausland vor Ort nur bei sehr gutem Fit, dann höchstens Fit "mittel".
+    Ausschließen: Senior/Lead/Principal/Director, Anforderungen ab 5 Jahren, reine Programmier-/Engineering-Stellen,
+    BIM/CAD/Konstruktion, Vertrieb, Nail/Tattoo/Make-up Artist, unbezahlte Stellen.

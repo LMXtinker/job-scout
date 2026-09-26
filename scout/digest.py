@@ -1,0 +1,256 @@
+"""Job-Scout Digest: bewertet data/recent.json mit Gemini und schickt die Liste per Telegram.
+
+Env:
+  GEMINI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  (Repository secrets)
+  GEMINI_MODEL   optional, sonst automatische Auswahl
+  DRY_RUN=1      nichts senden, Nachricht nur in debug/digest_preview.txt schreiben
+  RESEND=1       auch bereits gesendete Stellen wieder berücksichtigen
+"""
+import datetime as dt
+import html
+import json
+import os
+import re
+import sys
+import time
+import urllib.error
+import urllib.request
+from pathlib import Path
+
+import yaml
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA, DEBUG = ROOT / "data", ROOT / "debug"
+CFG = yaml.safe_load(open(ROOT / "config.yaml", encoding="utf-8"))
+DG = CFG["digest"]
+NOW = dt.datetime.now(dt.timezone.utc)
+DRY = os.environ.get("DRY_RUN", "").strip() in ("1", "true", "yes")
+RESEND = os.environ.get("RESEND", "").strip() in ("1", "true", "yes")
+
+# Grobe Vorfilterung, damit Gemini nur plausible Kandidaten sieht
+EXCLUDE = re.compile(
+    r"\b(senior|sr\.|lead|principal|director|head of|staff|manager|leitung|leiter)\b|"
+    r"bim|cad|konstrukt|tragwerk|hkls|statik|nail|tattoo|make-?up|friseur|verkauf|sales|account|"
+    r"backend|frontend|full-?stack|devops|engineer\b|developer|entwickler|programmer|programmier|"
+    r"qa tester|tester\b|recruiter|marketing manager|buchhalt|controller|praktikum unbezahlt", re.I)
+
+
+def load(fn, default):
+    p = DATA / fn
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else default
+
+
+def post_json(url, payload, headers=None, timeout=240):
+    req = urllib.request.Request(url, data=json.dumps(payload).encode(), method="POST",
+                                 headers={"Content-Type": "application/json", **(headers or {})})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.load(r)
+
+
+# ---------------------------------------------------------------- Gemini
+def gemini_models(key):
+    wanted = [os.environ.get("GEMINI_MODEL", "").strip()] if os.environ.get("GEMINI_MODEL", "").strip() else []
+    try:
+        req = urllib.request.Request("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+                                     headers={"x-goog-api-key": key})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            names = [m["name"].split("/")[-1] for m in json.load(r).get("models", [])
+                     if "generateContent" in m.get("supportedGenerationMethods", [])]
+    except Exception as e:
+        print("Modellliste nicht abrufbar:", e)
+        names = []
+    # bevorzugt: aktuelles Flash-Modell (stabil vor preview), dann Pro
+    def rank(n):
+        return (0 if "flash" in n and "lite" not in n else 1 if "flash" in n else 2 if "pro" in n else 9,
+                "preview" in n or "exp" in n, -len(re.findall(r"\d", n)), n)
+    auto = sorted([n for n in names if n.startswith("gemini") and not re.search(r"image|tts|audio|live|embedding|thinking-exp", n)],
+                  key=rank)
+    # neueste Versionen zuerst innerhalb der Flash-Gruppe
+    flash = sorted([n for n in auto if "flash" in n and "lite" not in n and "preview" not in n and "exp" not in n],
+                   key=lambda n: [int(x) for x in re.findall(r"\d+", n)] or [0], reverse=True)
+    fallback = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"]
+    out = []
+    for n in wanted + flash + fallback + auto:
+        if n and n not in out:
+            out.append(n)
+    return out
+
+
+PROMPT = """Du bist Recruiting-Assistent. Wähle aus den Stellenanzeigen unten die passenden für diese Kandidatin aus.
+
+KANDIDATIN:
+{profile}
+{targets}
+
+REGELN:
+- Nur echte Treffer, streng filtern. Lieber 20 gute als 100 mittelmäßige. Maximal {max_jobs}.
+- Duplikate (gleiche Stelle über mehrere Quellen/Links) nur einmal aufnehmen, den besten Link wählen.
+- Wenn Firma oder Ort fehlen, aus Titel/Snippet/URL ableiten; sonst leer lassen. Nichts erfinden.
+- fit: "hoch" = Rolle und Level passen, Ort Wien/Österreich/Remote-EU; "mittel" = teilweise passend.
+- region: "wien", "oesterreich", "remote" oder "ausland".
+- reason: ein kurzer deutscher Satz (max. 90 Zeichen), warum es passt bzw. worauf zu achten ist.
+- title: bereinigter Stellentitel ohne (m/w/d)-Zusätze, max. 70 Zeichen.
+- id: die id aus den Daten.
+
+Antworte NUR mit JSON: {{"jobs":[{{"id":int,"title":str,"company":str,"location":str,"region":str,"fit":str,"reason":str}}]}}
+
+ANZEIGEN (JSON-Zeilen):
+{jobs}
+"""
+
+
+def rate(jobs, key):
+    lines = []
+    for i, j in enumerate(jobs):
+        lines.append(json.dumps({"id": i, "title": j.get("title", ""), "company": j.get("company", ""),
+                                 "location": j.get("location", ""), "source": j.get("source", ""),
+                                 "url": j["url"][:140], "snippet": (j.get("snippet") or "")[:220]},
+                                ensure_ascii=False))
+    prompt = PROMPT.format(profile=DG["profile"].strip(), targets=DG["targets"].strip(),
+                           max_jobs=DG.get("max_jobs", 100), jobs="\n".join(lines))
+    payload = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
+               "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 32000}}
+    last = None
+    for model in gemini_models(key):
+        for attempt in range(3):
+            try:
+                print(f"Gemini: {model} (Versuch {attempt + 1}), {len(jobs)} Kandidaten")
+                r = post_json(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                              payload, {"x-goog-api-key": key})
+                text = "".join(p.get("text", "") for p in r["candidates"][0]["content"]["parts"])
+                text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
+                picked = json.loads(text)["jobs"]
+                return model, picked
+            except urllib.error.HTTPError as e:
+                body = e.read().decode("utf-8", "replace")[:300]
+                last = f"{model}: HTTP {e.code} {body}"
+                print(last)
+                if e.code in (429, 500, 503):
+                    time.sleep(20 * (attempt + 1))
+                    continue
+                break  # 400/404: nächstes Modell
+            except Exception as e:
+                last = f"{model}: {e}"
+                print(last)
+                time.sleep(5)
+    raise RuntimeError(f"Gemini-Bewertung fehlgeschlagen – {last}")
+
+
+# ---------------------------------------------------------------- Telegram
+def esc(s):
+    return html.escape(s or "", quote=False)
+
+
+REGIONS = [("wien", "📍 Wien"), ("oesterreich", "🇦🇹 Österreich"), ("remote", "🌍 Remote"), ("ausland", "✈️ Ausland")]
+
+
+def build_messages(picked, jobs, raw_count):
+    items = []
+    for p in picked:
+        try:
+            j = jobs[int(p["id"])]
+        except (KeyError, ValueError, IndexError, TypeError):
+            continue
+        items.append({**p, "url": j["url"], "first_seen": j.get("first_seen", "")})
+    fitrank = {"hoch": 0, "mittel": 1}
+    items.sort(key=lambda x: (fitrank.get(x.get("fit"), 2), x.get("title", "")))
+
+    kw = NOW.isocalendar().week
+    n_hoch = sum(1 for x in items if x.get("fit") == "hoch")
+    head = (f"<b>🎯 Jobsuche · KW {kw}</b>\n"
+            f"{len(items)} passende Stellen ({n_hoch} × sehr passend 🟢)\n"
+            f"<i>aus {raw_count} neuen Anzeigen der letzten Tage</i>")
+    if not items:
+        return [head + "\n\nDiese Woche war nichts Passendes dabei."], items
+
+    blocks = [head]
+    for reg, label in REGIONS:
+        sub = [x for x in items if x.get("region") == reg]
+        if not sub:
+            continue
+        blocks.append(f"\n<b>{label}</b>  ·  {len(sub)}")
+        for x in sub:
+            dot = "🟢" if x.get("fit") == "hoch" else "🟡"
+            meta = " · ".join(v for v in [x.get("company", "").strip(), x.get("location", "").strip()] if v)
+            entry = f"{dot} <b><a href=\"{html.escape(x['url'])}\">{esc(x.get('title', 'Stelle'))}</a></b>"
+            if meta:
+                entry += f"\n{esc(meta)}"
+            if x.get("reason"):
+                entry += f"\n<i>{esc(x['reason'])}</i>"
+            blocks.append("\n" + entry)
+    blocks.append("\n🟢 sehr passend · 🟡 teilweise passend")
+
+    # in Nachrichten ≤ 3900 Zeichen aufteilen (Telegram-Limit 4096)
+    msgs, cur = [], ""
+    for b in blocks:
+        if len(cur) + len(b) + 1 > 3900:
+            msgs.append(cur)
+            cur = b.lstrip("\n")
+        else:
+            cur += ("\n" if cur else "") + b
+    if cur:
+        msgs.append(cur)
+    return msgs, items
+
+
+def send(token, chat, text):
+    r = post_json(f"https://api.telegram.org/bot{token}/sendMessage",
+                  {"chat_id": chat, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True}, timeout=30)
+    if not r.get("ok"):
+        raise RuntimeError(r)
+
+
+def main():
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    missing = [n for n, v in [("GEMINI_API_KEY", key), ("TELEGRAM_BOT_TOKEN", tok), ("TELEGRAM_CHAT_ID", chat)] if not v]
+    if missing and not (DRY and key):
+        raise SystemExit(f"Fehlende Secrets: {', '.join(missing)}")
+
+    recent = load("recent.json", {}).get("jobs", [])
+    sent = load("sent.json", {})
+    cands = [j for j in recent if (RESEND or j["url"] not in sent) and not EXCLUDE.search(j.get("title", ""))]
+    print(f"recent={len(recent)} bereits gesendet={sum(1 for j in recent if j['url'] in sent)} Kandidaten={len(cands)}")
+
+    status = {"generated": NOW.isoformat(timespec="seconds"), "candidates": len(cands)}
+    if cands:
+        model, picked = rate(cands, key)
+        status["model"] = model
+    else:
+        picked = []
+    msgs, items = build_messages(picked, cands, len(cands))
+    status["picked"] = len(items)
+    status["messages"] = len(msgs)
+    DEBUG.mkdir(exist_ok=True)
+    (DEBUG / "digest_preview.txt").write_text("\n\n=====\n\n".join(msgs), encoding="utf-8")
+
+    if DRY:
+        print("DRY_RUN – nichts gesendet.")
+    else:
+        for m in msgs:
+            send(tok, chat, m)
+            time.sleep(1.2)
+        for x in items:
+            sent[x["url"]] = NOW.date().isoformat()
+        old = (NOW.date() - dt.timedelta(days=180)).isoformat()
+        sent = {u: d for u, d in sent.items() if d >= old}
+        (DATA / "sent.json").write_text(json.dumps(sent, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"{len(msgs)} Nachricht(en) mit {len(items)} Stellen gesendet.")
+    (DATA / "digest_status.json").write_text(json.dumps(status, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except Exception as e:
+        # Fehler als Annotation sichtbar machen und – wenn möglich – kurz an Telegram melden
+        print(f"::error::{e}")
+        tok, chat = os.environ.get("TELEGRAM_BOT_TOKEN", ""), os.environ.get("TELEGRAM_CHAT_ID", "")
+        admin = os.environ.get("TELEGRAM_ADMIN_CHAT_ID", "")
+        if tok and admin and not DRY:
+            try:
+                send(tok, admin, f"⚠️ Job-Scout Digest fehlgeschlagen:\n{esc(str(e))[:500]}")
+            except Exception:
+                pass
+        sys.exit(1)
