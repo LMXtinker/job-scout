@@ -106,7 +106,13 @@ def browse(page, url, pattern, scrolls):
     for _ in range(scrolls):
         page.mouse.wheel(0, 4000)
         page.wait_for_timeout(900)
-    return page.evaluate(EXTRACT_JS, pattern)
+    cards = []
+    for fr in page.frames:  # auch eingebettete Job-Widgets (iframes, z. B. Personio/Recruitee)
+        try:
+            cards += fr.evaluate(EXTRACT_JS, pattern)
+        except Exception:
+            pass
+    return cards
 
 
 def cards_to_jobs(cards, source, filt):
@@ -129,8 +135,8 @@ def cards_to_jobs(cards, source, filt):
 # ---------------------------------------------------------------- LinkedIn (Gast-API, HTML-Fragmente)
 def linkedin(src, keywords, dbg):
     jobs = []
-    for kw in keywords:
-        params = {"keywords": kw, "location": src["location"], "f_TPR": "r1209600", "start": "0"}  # letzte 14 Tage
+    for kw, start in [(k, s) for k in keywords for s in (0, 10, 20)]:
+        params = {"keywords": kw, "location": src["location"], "f_TPR": "r1209600", "start": str(start)}  # letzte 14 Tage
         if src.get("remote"):
             params["f_WT"] = "2"
         url = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?" + urllib.parse.urlencode(params)
@@ -159,7 +165,7 @@ def linkedin(src, keywords, dbg):
                 "keyword": kw,
             })
             n += 1
-        dbg["per_url"][kw] = n
+        dbg["per_url"][f"{kw}@{start}"] = n
     return jobs
 
 
@@ -201,7 +207,7 @@ def main(only):
     all_jobs, status = [], {}
     kws = CFG["keywords"]
     with sync_playwright() as pw:
-        browser = pw.chromium.launch()
+        browser = pw.chromium.launch(args=["--disable-http2"])
         ctx = browser.new_context(user_agent=UA, locale="de-AT", viewport={"width": 1366, "height": 2200})
         page = ctx.new_page()
         for src in CFG["sources"]:

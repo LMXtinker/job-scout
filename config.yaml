@@ -40,7 +40,7 @@ sources:
   - name: karriere.at
     type: search
     url: https://www.karriere.at/jobs?keywords={q}
-    link_pattern: 'karriere\.at/jobs/\d+'
+    link_pattern: 'karriere\.at/jobs/\d{5,}'
   - name: ams-allejobs
     type: search
     url: https://jobs.ams.at/public/emps/jobs?query={q}
@@ -49,12 +49,6 @@ sources:
     type: search
     url: https://www.stepstone.at/jobs/{slug}
     link_pattern: 'stepstone\.at/stellenangebote--'
-  - name: devjobs.at
-    type: page
-    urls:
-      - https://en.devjobs.at/jobs/unreal-engine
-      - https://en.devjobs.at/jobs/3d
-    link_pattern: 'devjobs\.at/jobs/(?!unreal-engine$|3d$)[a-z0-9-]+-\w+'
 
   # --- Games-Branche / Remote ---
   - name: hitmarker
@@ -79,10 +73,6 @@ sources:
     urls: [https://gamejobsremote.com/]
     link_pattern: 'gamejobsremote\.com/jobs?/'
     filter: true
-  - name: artstation
-    type: page
-    urls: [https://www.artstation.com/jobs]
-    link_pattern: 'artstation\.com/jobs/\w+'
   - name: remotive
     type: json
     api: remotive
@@ -91,21 +81,21 @@ sources:
     api: arbeitnow
 
   # --- Studios & Firmen in Österreich (Karriereseiten) ---
-  - {name: moon-studios, type: page, urls: [https://www.moongamestudios.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: moon-studios, type: page, urls: [https://www.workwithindies.com/work-with/moon-studios], link_pattern: 'workwithindies\.com/careers/', filter: true}
   - {name: purple-lamp, type: page, urls: [https://www.purplelamp.com/career], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
-  - {name: thq-nordic, type: page, urls: [https://www.thqnordic.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: thq-nordic, type: page, urls: [https://thqnordic.com/company/careers], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
   - {name: mipumi, type: page, urls: [https://www.mipumi.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
-  - {name: rabcat, type: page, urls: [https://www.rabcat.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: rabcat, type: page, urls: [https://www.karriere.at/jobs/rabcat], link_pattern: 'karriere\.at/jobs/\d{5,}', filter: true}
   - {name: bongfish, type: page, urls: [https://www.bongfish.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
-  - {name: rarebyte, type: page, urls: [https://www.rarebyte.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: rarebyte, type: page, urls: [https://www.rarebyte.com/jobs.html], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
   - {name: polycular, type: page, urls: [https://polycular.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
-  - {name: ars-electronica, type: page, urls: [https://ars.electronica.art/about/de/jobs/], link_pattern: 'job|stelle|career|personio|recruitee', filter: true}
+  - {name: ars-electronica, type: page, urls: [https://ars.electronica.art/about/de/careers/], link_pattern: 'job|stelle|career|personio|recruitee', filter: true}
 
   # --- Hochschulen ---
-  - {name: fh-salzburg, type: page, urls: [https://www.fh-salzburg.ac.at/ueber-uns/jobs-karriere], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
-  - {name: fh-stpoelten, type: page, urls: [https://www.fhstp.ac.at/de/ueber-uns/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
-  - {name: technikum-wien, type: page, urls: [https://www.technikum-wien.at/jobs/], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
-  - {name: fh-ooe, type: page, urls: [https://www.fh-ooe.at/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: fh-salzburg, type: page, urls: [https://karriere.fh-salzburg.ac.at/], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: fh-stpoelten, type: page, urls: [https://www.ustp.at/de/ueber-uns/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: technikum-wien, type: page, urls: [https://karriere.technikum-wien.at/], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: fh-ooe, type: page, urls: [https://fh-ooe.at/jobs-karriere-an-der-fh-ooe/jobuebersicht], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
   - {name: angewandte, type: page, urls: [https://www.dieangewandte.at/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
   - {name: kunstuni-linz, type: page, urls: [https://www.kunstuni-linz.at/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
 
