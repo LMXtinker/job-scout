@@ -1,0 +1,115 @@
+# Job-Scout Konfiguration
+#
+# Quellentypen:
+#   search    – Suchseite pro Keyword; {q} = URL-kodierter Suchbegriff, {slug} = "3d-artist"
+#   page      – einzelne Seite(n) ohne Keyword (Karriereseiten von Studios/FHs, Themen-Jobbörsen)
+#   linkedin  – LinkedIn-Gast-Suche (HTML-Fragmente, ohne Login)
+#   json      – öffentliche JSON-APIs (remotive, arbeitnow)
+# link_pattern: Regex, dem die Links zu einzelnen Anzeigen entsprechen müssen.
+# filter: true = nur Titel behalten, die zu include_terms passen (für Seiten mit allen Jobs einer Firma).
+
+keywords:
+  - 3D Artist
+  - Environment Artist
+  - Technical Artist
+  - Unreal Engine
+  - Game Artist
+  - Concept Artist
+  - Illustrator
+  - 3D Generalist
+  - Realtime Artist
+  - Virtual Production
+  - 3D Designer
+  - Game Design
+
+# Titel-Filter (Regex, case-insensitive) für filter: true und die JSON-APIs
+include_terms: >-
+  artist|3d|\bart\b|illustr|unreal|technical art|tech art|realtime|real-time|echtzeit|environment|
+  concept|charact|animat|vfx|grafik|graphic|visual|virtual|xr\b|\bvr\b|\bar\b|game|spiel|
+  lektor|lecturer|lehr|tutor|assistenz|kurator|ausstellung|medien|media design|designer
+
+sources:
+  # --- Österreich: Jobbörsen ---
+  - name: linkedin-at
+    type: linkedin
+    location: Austria
+  - name: linkedin-remote-eu
+    type: linkedin
+    location: European Union
+    remote: true
+  - name: karriere.at
+    type: search
+    url: https://www.karriere.at/jobs?keywords={q}
+    link_pattern: 'karriere\.at/jobs/\d+'
+  - name: ams-allejobs
+    type: search
+    url: https://jobs.ams.at/public/emps/jobs?query={q}
+    link_pattern: '/public/emps/jobs/[0-9a-f-]{8,}'
+  - name: stepstone
+    type: search
+    url: https://www.stepstone.at/jobs/{slug}
+    link_pattern: 'stepstone\.at/stellenangebote--'
+  - name: devjobs.at
+    type: page
+    urls:
+      - https://en.devjobs.at/jobs/unreal-engine
+      - https://en.devjobs.at/jobs/3d
+    link_pattern: 'devjobs\.at/jobs/(?!unreal-engine$|3d$)[a-z0-9-]+-\w+'
+
+  # --- Games-Branche / Remote ---
+  - name: hitmarker
+    type: search
+    url: https://hitmarker.net/jobs?keyword={q}
+    link_pattern: 'hitmarker\.net/jobs/[a-z0-9-]+-\d+'
+  - name: gamesindustry.biz
+    type: search
+    url: https://jobs.gamesindustry.biz/jobs?keywords={q}
+    link_pattern: 'jobs\.gamesindustry\.biz/job/'
+  - name: workwithindies
+    type: page
+    urls: [https://www.workwithindies.com/]
+    link_pattern: 'workwithindies\.com/careers/'
+    filter: true
+  - name: remotegamejobs
+    type: page
+    urls: [https://remotegamejobs.com/remote-game-art-and-animation-jobs]
+    link_pattern: 'remotegamejobs\.com/jobs/'
+  - name: gamejobsremote
+    type: page
+    urls: [https://gamejobsremote.com/]
+    link_pattern: 'gamejobsremote\.com/jobs?/'
+    filter: true
+  - name: artstation
+    type: page
+    urls: [https://www.artstation.com/jobs]
+    link_pattern: 'artstation\.com/jobs/\w+'
+  - name: remotive
+    type: json
+    api: remotive
+  - name: arbeitnow
+    type: json
+    api: arbeitnow
+
+  # --- Studios & Firmen in Österreich (Karriereseiten) ---
+  - {name: moon-studios, type: page, urls: [https://www.moongamestudios.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: purple-lamp, type: page, urls: [https://www.purplelamp.com/career], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: thq-nordic, type: page, urls: [https://www.thqnordic.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: mipumi, type: page, urls: [https://www.mipumi.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: rabcat, type: page, urls: [https://www.rabcat.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: bongfish, type: page, urls: [https://www.bongfish.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: rarebyte, type: page, urls: [https://www.rarebyte.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: polycular, type: page, urls: [https://polycular.com/jobs], link_pattern: 'job|career|position|personio|recruitee|greenhouse|lever|workable|join', filter: true}
+  - {name: ars-electronica, type: page, urls: [https://ars.electronica.art/about/de/jobs/], link_pattern: 'job|stelle|career|personio|recruitee', filter: true}
+
+  # --- Hochschulen ---
+  - {name: fh-salzburg, type: page, urls: [https://www.fh-salzburg.ac.at/ueber-uns/jobs-karriere], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: fh-stpoelten, type: page, urls: [https://www.fhstp.ac.at/de/ueber-uns/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: technikum-wien, type: page, urls: [https://www.technikum-wien.at/jobs/], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: fh-ooe, type: page, urls: [https://www.fh-ooe.at/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: angewandte, type: page, urls: [https://www.dieangewandte.at/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+  - {name: kunstuni-linz, type: page, urls: [https://www.kunstuni-linz.at/jobs], link_pattern: 'job|stelle|karriere|ausschreibung', filter: true}
+
+# Wie lange eine Anzeige in recent.json bleibt (Tage seit erstem Fund)
+recent_days: 8
+# Max. Scrollen pro Seite (Lazy Loading)
+scrolls: 3
