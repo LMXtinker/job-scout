@@ -37,5 +37,4 @@ jobs:
           git config user.email "scout-bot@users.noreply.github.com"
           git add data debug
           git diff --cached --quiet || git commit -m "scout: $(date -u +%F\ %H:%M) $(python -c 'import json;s=json.load(open("data/status.json"));print(f"jobs={s[\"jobs\"]} new={s[\"new\"]}")' 2>/dev/null)"
-          git pull --rebase --autostash || true
-          git push
+          for i in 1 2 3 4 5; do git pull --rebase --autostash && git push && break; sleep $((i*5)); done
