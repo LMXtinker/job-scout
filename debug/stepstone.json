@@ -1,77 +1,23 @@
 {
- "errors": [],
+ "errors": [
+  "https://www.stepstone.at/jobs/environment-artist: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/environment-artist\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/technical-artist: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/technical-artist\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/unreal-engine: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/unreal-engine\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/game-artist: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/game-artist\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/concept-artist: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/concept-artist\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/illustrator: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/illustrator\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/3d-generalist: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/3d-generalist\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/realtime-artist: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/realtime-artist\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/virtual-production: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/virtual-production\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/3d-designer: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/3d-designer\", waiting until \"domcontentloaded\"\n",
+  "https://www.stepstone.at/jobs/game-design: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.stepstone.at/jobs/game-design\", waiting until \"domcontentloaded\"\n"
+ ],
  "per_url": {
   "https://www.stepstone.at/jobs/3d-artist": {
    "links": 25,
    "jobs": 25,
    "final_url": "https://www.stepstone.at/jobs/3d-artist",
    "title": "3d-artist Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/environment-artist": {
-   "links": 25,
-   "jobs": 25,
-   "final_url": "https://www.stepstone.at/jobs/environment-artist",
-   "title": "Environment-artist Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/technical-artist": {
-   "links": 25,
-   "jobs": 25,
-   "final_url": "https://www.stepstone.at/jobs/technical-artist",
-   "title": "Technical-artist Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/unreal-engine": {
-   "links": 14,
-   "jobs": 14,
-   "final_url": "https://www.stepstone.at/jobs/unreal-engine",
-   "title": "Unreal-engine Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/game-artist": {
-   "links": 22,
-   "jobs": 22,
-   "final_url": "https://www.stepstone.at/jobs/game-artist",
-   "title": "Game-artist Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/concept-artist": {
-   "links": 25,
-   "jobs": 25,
-   "final_url": "https://www.stepstone.at/jobs/concept-artist",
-   "title": "Concept-artist Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/illustrator": {
-   "links": 9,
-   "jobs": 9,
-   "final_url": "https://www.stepstone.at/jobs/illustrator",
-   "title": "Illustrator Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/3d-generalist": {
-   "links": 25,
-   "jobs": 25,
-   "final_url": "https://www.stepstone.at/jobs/3d-generalist",
-   "title": "3d-generalist Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/realtime-artist": {
-   "links": 25,
-   "jobs": 25,
-   "final_url": "https://www.stepstone.at/jobs/realtime-artist",
-   "title": "Realtime-artist Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/virtual-production": {
-   "links": 25,
-   "jobs": 25,
-   "final_url": "https://www.stepstone.at/jobs/virtual-production",
-   "title": "Virtual-production Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/3d-designer": {
-   "links": 25,
-   "jobs": 25,
-   "final_url": "https://www.stepstone.at/jobs/3d-designer",
-   "title": "3d-designer Jobs und Stellenangebote"
-  },
-  "https://www.stepstone.at/jobs/game-design": {
-   "links": 25,
-   "jobs": 25,
-   "final_url": "https://www.stepstone.at/jobs/game-design",
-   "title": "Game-design Jobs und Stellenangebote"
   }
  }
 }
