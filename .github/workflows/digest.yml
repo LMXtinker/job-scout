@@ -18,6 +18,10 @@ on:
         description: "Nur Vorschau (nichts senden)"
         type: boolean
         default: false
+      auto:
+        description: "Wie ein geplanter Lauf behandeln (für externen Auslöser, z. B. cron-job.org)"
+        type: boolean
+        default: false
       weekly:
         description: "Wochenrückblick anhängen (sonst nur montags)"
         type: boolean
@@ -55,6 +59,7 @@ jobs:
           DRY_RUN: ${{ github.event.inputs.dry_run }}
           RESEND: ${{ github.event.inputs.resend }}
           WEEKLY: ${{ github.event.inputs.weekly }}
+          AUTO: ${{ github.event.inputs.auto }}
       - name: Status committen
         if: always()
         run: |

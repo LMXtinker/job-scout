@@ -306,7 +306,7 @@ def wait_for_send_time():
     """Automatische Läufe (Zeitplan oder nach dem Scraper): höchstens einmal pro Tag senden,
     frühestens um SEND_AT (Wiener Zeit) und erst mit Scraper-Daten von heute – ab 12:00 auch ohne.
     GitHub startet geplante Läufe oft stark verspätet, deshalb gibt es mehrere Zeitplan-Einträge."""
-    if os.environ.get("GITHUB_EVENT_NAME") not in ("schedule", "workflow_run"):
+    if os.environ.get("GITHUB_EVENT_NAME") not in ("schedule", "workflow_run") and os.environ.get("AUTO", "") != "true":
         return True
     from zoneinfo import ZoneInfo
     tz = ZoneInfo("Europe/Vienna")
