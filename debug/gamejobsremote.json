@@ -1,11 +1,6 @@
 {
- "errors": [],
- "per_url": {
-  "https://gamejobsremote.com/": {
-   "links": 5,
-   "jobs": 1,
-   "final_url": "https://gamejobsremote.com/",
-   "title": "Remote Game Jobs — Work From Home in Games | GameJobsRemote"
-  }
- }
+ "errors": [
+  "https://gamejobsremote.com/: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://gamejobsremote.com/\", waiting until \"domcontentloaded\"\n"
+ ],
+ "per_url": {}
 }
