@@ -303,21 +303,26 @@ def fmt(n):
 
 
 def wait_for_send_time():
-    """Geplante Läufe: nur einmal pro Tag, und erst um SEND_AT (Wiener Zeit) senden."""
-    if os.environ.get("GITHUB_EVENT_NAME") != "schedule":
+    """Automatische Läufe (Zeitplan oder nach dem Scraper): höchstens einmal pro Tag senden,
+    frühestens um SEND_AT (Wiener Zeit) und erst mit Scraper-Daten von heute – ab 12:00 auch ohne.
+    GitHub startet geplante Läufe oft stark verspätet, deshalb gibt es mehrere Zeitplan-Einträge."""
+    if os.environ.get("GITHUB_EVENT_NAME") not in ("schedule", "workflow_run"):
         return True
     from zoneinfo import ZoneInfo
     tz = ZoneInfo("Europe/Vienna")
     now = dt.datetime.now(tz)
     hh, mm = map(int, str(DG.get("send_at", "08:00")).split(":"))
     target = now.replace(hour=hh, minute=mm, second=0, microsecond=0)
-    last = load("digest_status.json", {}).get("scheduled_day", "")
-    if last == now.date().isoformat():
+    if load("digest_status.json", {}).get("scheduled_day", "") == now.date().isoformat():
         print("Heute schon gesendet – übersprungen."); return False
     if now < target - dt.timedelta(minutes=75):
-        print(f"Zu früh ({now:%H:%M}) – der zweite Zeitplan-Eintrag übernimmt (Sommer-/Winterzeit)."); return False
+        print(f"Zu früh ({now:%H:%M}) – ein späterer Lauf übernimmt."); return False
+    scraped = load("status.json", {}).get("generated", "")
+    scraped_day = dt.datetime.fromisoformat(scraped).astimezone(tz).date() if scraped else None
+    if scraped_day != now.date() and now.hour < 12:
+        print(f"Scraper-Daten noch von {scraped_day} – warte auf den heutigen Scraper-Lauf."); return False
     if now > target + dt.timedelta(hours=3):
-        print(f"Zu spät ({now:%H:%M}) – übersprungen."); return False
+        admin(f"ℹ️ <b>Job-Scout:</b> Update kommt verspätet ({now:%H:%M}), weil GitHub die geplanten Läufe verzögert hat.")
     if now < target:
         secs = (target - now).total_seconds()
         print(f"Warte {secs/60:.0f} min bis {hh:02d}:{mm:02d} Wiener Zeit …", flush=True)
@@ -348,7 +353,7 @@ def main():
     print(f"recent={len(recent)} bereits bewertet={sum(1 for j in recent if j['url'] in rated)} Kandidaten={len(cands)}")
 
     status = {"generated": NOW.isoformat(timespec="seconds"), "candidates": len(cands)}
-    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and not DRY:
+    if os.environ.get("GITHUB_EVENT_NAME") in ("schedule", "workflow_run") and not DRY:
         from zoneinfo import ZoneInfo
         status["scheduled_day"] = dt.datetime.now(ZoneInfo("Europe/Vienna")).date().isoformat()
     model = ""

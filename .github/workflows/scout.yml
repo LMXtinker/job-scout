@@ -1,8 +1,12 @@
 name: scout
 
 on:
+  # mehrere Einträge, weil GitHub geplante Läufe oft stark verzögert; pro Tag wird nur einmal gescrapt
   schedule:
-    - cron: "23 3 * * *"   # täglich ~05:23 Wien (Sommerzeit) / 04:23 (Winterzeit); danach läuft digest
+    - cron: "23 2 * * *"
+    - cron: "23 3 * * *"
+    - cron: "53 4 * * *"
+    - cron: "23 7 * * *"
   workflow_dispatch:
     inputs:
       sources:
@@ -23,15 +27,29 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Heute schon gescrapt?
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && python3 -c "
+          import json,datetime as dt,zoneinfo,sys
+          tz=zoneinfo.ZoneInfo('Europe/Vienna')
+          g=json.load(open('data/status.json'))['generated']
+          sys.exit(0 if dt.datetime.fromisoformat(g).astimezone(tz).date()==dt.datetime.now(tz).date() else 1)"; then
+            echo "skip=true" >> $GITHUB_OUTPUT; echo "Heute schon gescrapt."
+          fi
+      - if: steps.guard.outputs.skip != 'true'
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install -r requirements.txt
-      - run: python -m playwright install --with-deps chromium
-      - run: python scout/scrape.py ${{ github.event.inputs.sources }}
+      - if: steps.guard.outputs.skip != 'true'
+        run: pip install -r requirements.txt
+      - if: steps.guard.outputs.skip != 'true'
+        run: python -m playwright install --with-deps chromium
+      - if: steps.guard.outputs.skip != 'true'
+        run: python scout/scrape.py ${{ github.event.inputs.sources }}
       - name: Ergebnisse committen
-        if: always()
+        if: always() && steps.guard.outputs.skip != 'true'
         run: |
           git config user.name "scout-bot"
           git config user.email "scout-bot@users.noreply.github.com"

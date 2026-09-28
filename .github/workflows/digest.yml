@@ -1,9 +1,17 @@
 name: digest
 
 on:
-  schedule:                # 08:00 Wien: zwei Einträge für Sommer-/Winterzeit, das Skript wartet bis 08:00
-    - cron: "41 5 * * *"   # = 07:41 Sommerzeit / 06:41 Winterzeit
-    - cron: "41 6 * * *"   # = 08:41 Sommerzeit / 07:41 Winterzeit
+  # Ziel 08:00 Wien. GitHub startet geplante Läufe oft stark verspätet – daher mehrere Einträge
+  # plus direkt nach jedem Scraper-Lauf. Das Skript sendet höchstens einmal pro Tag.
+  schedule:
+    - cron: "41 5 * * *"
+    - cron: "41 6 * * *"
+    - cron: "11 8 * * *"
+    - cron: "11 10 * * *"
+    - cron: "11 12 * * *"
+  workflow_run:
+    workflows: [scout]
+    types: [completed]
   workflow_dispatch:
     inputs:
       dry_run:
