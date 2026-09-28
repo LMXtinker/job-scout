@@ -353,7 +353,7 @@ def main():
     print(f"recent={len(recent)} bereits bewertet={sum(1 for j in recent if j['url'] in rated)} Kandidaten={len(cands)}")
 
     status = {"generated": NOW.isoformat(timespec="seconds"), "candidates": len(cands)}
-    if os.environ.get("GITHUB_EVENT_NAME") in ("schedule", "workflow_run") and not DRY:
+    if not DRY:  # jeder echte Versand zählt als Update des Tages
         from zoneinfo import ZoneInfo
         status["scheduled_day"] = dt.datetime.now(ZoneInfo("Europe/Vienna")).date().isoformat()
     model = ""
