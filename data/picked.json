@@ -376,5 +376,50 @@
   "region": "ausland",
   "fit": "mittel",
   "reason": "Prio-1-Zielrolle mit Unreal Engine; vor Ort in München oder Hybrid prüfen."
+ },
+ "https://de.linkedin.com/jobs/view/lighting-and-shading-artist-unreal-all-genders-at-serviceplan-group-4406956806": {
+  "date": "2026-09-28",
+  "title": "Lighting and Shading Artist Unreal",
+  "company": "Serviceplan Group",
+  "location": "München",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "Perfekter Fit für Unreal Engine und Realtime-Art Skills."
+ },
+ "https://cz.linkedin.com/jobs/view/3d-artist-%E2%80%93-modelling-visualisation-at-revel-4469907120": {
+  "date": "2026-09-28",
+  "title": "3D Artist – Modelling & Visualisation",
+  "company": "REVEL",
+  "location": "Prag, Tschechien",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "3D-Visualisierung passt gut; Standort Prag beachten."
+ },
+ "https://ie.linkedin.com/jobs/view/3d-character-facial-modeler-at-miniface-4472279355": {
+  "date": "2026-09-28",
+  "title": "3D Character facial modeler",
+  "company": "miniface",
+  "location": "Dublin, Irland",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "3D-Charakterdesign passt; Standort Irland beachten."
+ },
+ "https://hu.linkedin.com/jobs/view/cgi-artist-compositor-at-publicis-groupe-hungary-4461404460": {
+  "date": "2026-09-28",
+  "title": "CGI Artist & Compositor",
+  "company": "Publicis Groupe Hungary",
+  "location": "Budapest, Ungarn",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "CGI- und Compositing-Bezug passt zum Visual-Effects-Background."
+ },
+ "https://at.linkedin.com/jobs/view/video-editor-postproduktions-allrounder-m-w-d-at-bright-films-4286374313": {
+  "date": "2026-09-28",
+  "title": "Video Editor / Postproduktions-Allrounder",
+  "company": "BRIGHT FILMS",
+  "location": "Engerwitzdorf, Oberösterreich, Österreich",
+  "region": "oesterreich",
+  "fit": "mittel",
+  "reason": "Medienproduktion in OÖ; tangiert Postproduktion und Motion."
  }
 }

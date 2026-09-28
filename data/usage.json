@@ -1,10 +1,10 @@
 {
  "2026-09": {
-  "runs": 2,
-  "prompt": 98853,
-  "output": 5751,
-  "thoughts": 6659,
-  "total": 111263,
-  "model": "gemini-3.8-flash"
+  "runs": 3,
+  "prompt": 102562,
+  "output": 6141,
+  "thoughts": 8941,
+  "total": 117644,
+  "model": "gemini-3.6-flash"
  }
 }
