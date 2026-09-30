@@ -475,5 +475,41 @@
   "region": "wien",
   "fit": "mittel",
   "reason": "Gute Schnittstelle für Konzeptentwicklung und Projektarbeit in Wien."
+ },
+ "https://hitmarker.net/jobs/razer-3d-motion-designer-4995543": {
+  "date": "2026-09-30",
+  "title": "3D Motion Designer",
+  "company": "Razer",
+  "location": "Singapore",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Gute Schnittmenge mit 3D-Motion-Skills; Standort Singapur beachten."
+ },
+ "https://hitmarker.net/jobs/airship-interactive-concept-artist-4986299": {
+  "date": "2026-09-30",
+  "title": "Concept Artist",
+  "company": "Airship Interactive",
+  "location": "Great Malvern, UK",
+  "region": "remote",
+  "fit": "mittel",
+  "reason": "Passend für Concept Art; Freelance-Status und Standort beachten."
+ },
+ "https://hitmarker.net/jobs/airship-interactive-environment-artist-4986283": {
+  "date": "2026-09-30",
+  "title": "Environment Artist",
+  "company": "Airship Interactive",
+  "location": "Great Malvern, UK",
+  "region": "remote",
+  "fit": "mittel",
+  "reason": "Perfekter Rollen-Fit für Environment Art; Freelance-Option prüfen."
+ },
+ "https://hitmarker.net/jobs/virtuos-environment-artist-1-year-contract-4522645": {
+  "date": "2026-09-30",
+  "title": "Environment Artist (1-year Contract)",
+  "company": "Virtuos",
+  "location": "Malaysia",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Inhaltlich starker Fit, allerdings Standort Malaysia (ggf. Remote?)."
  }
 }
