@@ -1,28 +1,60 @@
-<b>🎯 Job-Update · 30.09.</b>
-4 neue passende Stellen (0 × sehr passend 🟢)
-<i>aus 22 neuen Anzeigen</i>
+<b>🎯 Job-Update · 01.10.</b>
+11 neue passende Stellen (1 × sehr passend 🟢)
+<i>aus 53 neuen Anzeigen</i>
 
-💬 <i>Deine UE5-Expertise mit PCG ist ein echtes Highlight! Auch wenn die heutigen Treffer international sind: Solche Rollen bieten oft Remote-Optionen, die perfekt zu deinem Profil passen. Viel Erfolg! 🚀</i>
+💬 <i>Dass deine eigenen Indie-Games schon auf Festivals zu sehen waren, ist ein riesiges Plus! Erwähne diese Eigeninitiative unbedingt aktiv im Anschreiben – das zeigt echte Macher-Mentalität. 🎮</i>
+
+<b>📍 Wien</b>  ·  2
+
+🟡 <b><a href="https://at.linkedin.com/jobs/view/digital-designer-at-nexxar-4473905595">Digital Designer</a></b>
+nexxar · Wien, Wien, Österreich
+<i>Direkt in Wien, gute Option für deine Grafikdesign- und Visualisierungs-Skills.</i>
+
+🟡 <b><a href="https://at.linkedin.com/jobs/view/game-designer-m-f-d-at-sportradar-4473770731">Game Designer</a></b>
+Sportradar · Wien, Wien, Österreich
+<i>In Wien, Fokus liegt allerdings eher auf Game Design statt reinem Art-Bereich.</i>
+
+<b>🇦🇹 Österreich</b>  ·  5
+
+🟡 <b><a href="https://www.stepstone.at/stellenangebote--AI-Visual-Artist-KI-Bildproduktion-m-w-d-Leobersdorf-druck-at-Druck-und-Handelsgesellschaft-mbH--1002859-inline.html">AI Visual Artist: KI-Bildproduktion</a></b>
+druck.at Druck- und Handelsgesellschaft mbH · Leobersdorf, Österreich
+<i>Spannende Schnittstelle zu neuen Technologien in Niederösterreich.</i>
+
+🟡 <b><a href="https://www.karriere.at/jobs/10034401">Grafikdesigner</a></b>
+creative minds agency gmbh · St. Florian, Österreich
+<i>Grafik-Rolle mit Homeoffice-Option, passend für 1-2 Jahre Erfahrung.</i>
+
+🟡 <b><a href="https://www.karriere.at/jobs/10034398">Graphic Designer</a></b>
+Liquid Spirits GmbH · Werndorf, Österreich
+<i>Teilzeit-Grafikrolle mit Homeoffice-Option in der Steiermark.</i>
+
+🟡 <b><a href="https://www.karriere.at/jobs/7884847">Graphic Designer - Befristung 6 Monate</a></b>
+Fronius · Wels, Österreich
+<i>Gute Option für deine Grafik-Skills mit Homeoffice-Anteil in Oberösterreich.</i>
+
+🟡 <b><a href="https://at.linkedin.com/jobs/view/lab-expert-for-our-digital-design-lab-desy-f-m-d-at-interdisciplinary-transformation-university-it-u-4465096071">Lab Expert for our Digital Design Lab DESY</a></b>
+Interdisciplinary Transformation University (IT:U) · Linz, Oberösterreich, Österreich
+<i>Passt gut zu deinen Erfahrungen mit Workshops und im akademischen Bereich.</i>
 
 <b>🌍 Remote</b>  ·  2
 
-🟡 <b><a href="https://hitmarker.net/jobs/airship-interactive-concept-artist-4986299">Concept Artist</a></b>
-Airship Interactive · Great Malvern, UK
-<i>Passend für Concept Art; Freelance-Status und Standort beachten.</i>
+🟢 <b><a href="https://www.workwithindies.com/careers/kaleidoscube-gameplay-polish-technical-designer-artist-f-m-d">Gameplay Polish &amp; Technical Designer/Artist</a></b>
+kaleidoscube · Stuttgart, DE or Europe
+<i>Perfekter Fit für Tech-Art-Skills, remote in Europa möglich.</i>
 
-🟡 <b><a href="https://hitmarker.net/jobs/airship-interactive-environment-artist-4986283">Environment Artist</a></b>
-Airship Interactive · Great Malvern, UK
-<i>Perfekter Rollen-Fit für Environment Art; Freelance-Option prüfen.</i>
+🟡 <b><a href="https://www.linkedin.com/jobs/view/graphic-designer-at-arrise-4439898031">Graphic Designer</a></b>
+ARRISE · Europäische Union
+<i>Remote-Grafikrolle in der EU, gut für deine Design-Skills.</i>
 
 <b>✈️ Ausland</b>  ·  2
 
-🟡 <b><a href="https://hitmarker.net/jobs/razer-3d-motion-designer-4995543">3D Motion Designer</a></b>
-Razer · Singapore
-<i>Gute Schnittmenge mit 3D-Motion-Skills; Standort Singapur beachten.</i>
+🟡 <b><a href="https://fi.linkedin.com/jobs/view/junior-3d-technical-artist-at-w%C3%A4rtsil%C3%A4-4471121396">Junior 3D Technical artist</a></b>
+Wärtsilä · Turku, Finnland
+<i>Fachlich idealer Einstieg als Junior Tech Artist, jedoch vor Ort in Finnland.</i>
 
-🟡 <b><a href="https://hitmarker.net/jobs/virtuos-environment-artist-1-year-contract-4522645">Environment Artist (1-year Contract)</a></b>
-Virtuos · Malaysia
-<i>Inhaltlich starker Fit, allerdings Standort Malaysia (ggf. Remote?).</i>
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/%F0%9F%9F%A0unreal-engine-generalist%F0%9F%9F%A0-at-luxoft-poland-4474137569">Unreal Engine Generalist</a></b>
+Luxoft Poland · Metropolregion Danzig
+<i>Hervorragender Match für deine Unreal-Expertise, erfordert Umzug nach Polen.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 

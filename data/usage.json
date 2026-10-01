@@ -6,5 +6,13 @@
   "thoughts": 15372,
   "total": 139910,
   "model": "gemini-3-flash-preview"
+ },
+ "2026-10": {
+  "runs": 1,
+  "prompt": 7053,
+  "output": 1063,
+  "thoughts": 4145,
+  "total": 12261,
+  "model": "gemini-3.5-flash"
  }
 }
