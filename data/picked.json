@@ -610,5 +610,131 @@
   "region": "ausland",
   "fit": "mittel",
   "reason": "Hervorragender Match für deine Unreal-Expertise, erfordert Umzug nach Polen."
+ },
+ "https://www.workwithindies.com/careers/seedbound-environment-concept-artist": {
+  "date": "2026-10-02",
+  "title": "Environment Concept Artist",
+  "company": "Seedbound",
+  "location": "Remote",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "Ideal für Environment & Concept Art; vollkommen Remote."
+ },
+ "https://pl.linkedin.com/jobs/view/technical-artist-at-luxoft-4474326613": {
+  "date": "2026-10-02",
+  "title": "Technical Artist",
+  "company": "Luxoft",
+  "location": "Polen",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "Exzellente Passung für Tech-Art und Realtime; Remote EU."
+ },
+ "https://pl.linkedin.com/jobs/view/unreal-engine-generalist-at-luxoft-poland-4473259436": {
+  "date": "2026-10-02",
+  "title": "Unreal Engine Generalist",
+  "company": "Luxoft Poland",
+  "location": "Polen",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "Perfekter Match für UE5- und 3D-Generalist-Skills; Remote EU."
+ },
+ "https://es.linkedin.com/jobs/view/2d-artist-at-scopely-4465331303": {
+  "date": "2026-10-02",
+  "title": "2D Artist",
+  "company": "Scopely",
+  "location": "Barcelona, Spanien",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Match für 2D-Art und Illustration; Standort Barcelona."
+ },
+ "https://se.linkedin.com/jobs/view/character-artist-at-embark-studios-4473761855": {
+  "date": "2026-10-02",
+  "title": "Character Artist",
+  "company": "Embark Studios",
+  "location": "Stockholm, Schweden",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Deckt 2D/3D-Charakterdesign ab; Standort Stockholm."
+ },
+ "https://fr.linkedin.com/jobs/view/dmp-artist-at-one-of-us-4474143664": {
+  "date": "2026-10-02",
+  "title": "DMP Artist",
+  "company": "One of Us",
+  "location": "Paris, Frankreich",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Matte Painting verbindet Environment Art mit VFX; Paris."
+ },
+ "https://fr.linkedin.com/jobs/view/game-artist-f-h-at-52-entertainment-4472746394": {
+  "date": "2026-10-02",
+  "title": "Game Artist",
+  "company": "52 Entertainment",
+  "location": "Metropolregion Paris, Frankreich",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Passend für Game Art; Standort im Raum Paris."
+ },
+ "https://lv.linkedin.com/jobs/view/sp%C4%93%C4%BCu-m%C4%81kslinieks-ce-game-artist-at-evolution-4472173495": {
+  "date": "2026-10-02",
+  "title": "Game Artist",
+  "company": "Evolution",
+  "location": "Riga, Lettland",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Gute Rolle für Game Art; Arbeitsort Riga, Lettland."
+ },
+ "https://nl.linkedin.com/jobs/view/game-artist-paper-io-2-at-voodoo-4446353924": {
+  "date": "2026-10-02",
+  "title": "Game Artist - Paper.io 2",
+  "company": "Voodoo",
+  "location": "Amsterdam, Niederlande",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Gute Passung für 2D/3D Game Art; Standort Amsterdam."
+ },
+ "https://at.linkedin.com/jobs/view/game-designer-m-f-d-at-sports-careers-4474155400": {
+  "date": "2026-10-02",
+  "title": "Game Designer",
+  "company": "Sports Careers",
+  "location": "Innere Stadt, Wien, Österreich",
+  "region": "wien",
+  "fit": "mittel",
+  "reason": "Games-Branche in Wien; Fokus liegt aber mehr auf Design als Art."
+ },
+ "https://hitmarker.net/jobs/larian-studios-technical-artist-1900671": {
+  "date": "2026-10-02",
+  "title": "Technical Artist",
+  "company": "Larian Studios",
+  "location": "Barcelona, Spanien",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Sehr guter Tech-Art-Fit bei Top-Studio; Standort Barcelona."
+ },
+ "https://se.linkedin.com/jobs/view/technical-artist-new-games-at-king-4472742294": {
+  "date": "2026-10-02",
+  "title": "Technical Artist | New Games",
+  "company": "King",
+  "location": "Stockholm, Schweden",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Starkes Tech-Art-Profil gefragt; Standort Schweden (evtl. Remote)."
+ },
+ "https://fr.linkedin.com/jobs/view/vfx-artist-paper-io-2-at-voodoo-4446196464": {
+  "date": "2026-10-02",
+  "title": "VFX Artist - Paper.io 2",
+  "company": "Voodoo",
+  "location": "Paris, Frankreich",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Realtime- & VFX-Skills passen gut; Standort Paris."
+ },
+ "https://pt.linkedin.com/jobs/view/video-motion-specialist-at-vasco-marques-digital-academy-4474141716": {
+  "date": "2026-10-02",
+  "title": "Video & Motion Specialist",
+  "company": "Vasco Marques Digital Academy",
+  "location": "Portugal",
+  "region": "remote",
+  "fit": "mittel",
+  "reason": "Angrenzender Bereich für Motion Design & Visualisierung; Remote."
  }
 }
