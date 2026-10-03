@@ -1,70 +1,36 @@
-<b>🎯 Job-Update · 02.10.</b>
-14 neue passende Stellen (3 × sehr passend 🟢)
-<i>aus 59 neuen Anzeigen</i>
+<b>🎯 Job-Update · 03.10.</b>
+5 neue passende Stellen (1 × sehr passend 🟢)
+<i>aus 11 neuen Anzeigen</i>
 
-💬 <i>Egal ob UE-Generalist oder Environment Concept Art – deine Skills in Realtime und Worldbuilding treffen genau den Nerv der Branche. Rück deine besten 3D-Szenen im Portfolio ganz nach vorne! ⚡</i>
+💬 <i>Nutze deine Vielseitigkeit zwischen 2D-Art und Tech-Skills gezielt aus: Genau diese Brückenfunktion suchen viele Game-Studios händeringend. Viel Erfolg bei den Bewerbungen!</i>
 
 <b>📍 Wien</b>  ·  1
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/game-designer-m-f-d-at-sports-careers-4474155400">Game Designer</a></b>
-Sports Careers · Innere Stadt, Wien, Österreich
-<i>Games-Branche in Wien; Fokus liegt aber mehr auf Design als Art.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/game-designer-m-f-d-at-merkur-group-4473131609">Game Designer</a></b>
+MERKUR GROUP · Wien, Österreich
+<i>Game-Rolle direkt in Wien; Schnittmenge zu Design/Art im Anschreiben betonen.</i>
 
-<b>🌍 Remote</b>  ·  4
+<b>🇦🇹 Österreich</b>  ·  1
 
-🟢 <b><a href="https://www.workwithindies.com/careers/seedbound-environment-concept-artist">Environment Concept Artist</a></b>
-Seedbound · Remote
-<i>Ideal für Environment &amp; Concept Art; vollkommen Remote.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/game-designer-m-f-d-at-merkur-group-4473121994">Game Designer</a></b>
+MERKUR GROUP · Raaba, Steiermark, Österreich
+<i>Game-Design-Position in Österreich; Vorerfahrung in Games einbringen.</i>
 
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/technical-artist-at-luxoft-4474326613">Technical Artist</a></b>
-Luxoft · Polen
-<i>Exzellente Passung für Tech-Art und Realtime; Remote EU.</i>
+<b>🌍 Remote</b>  ·  2
 
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/unreal-engine-generalist-at-luxoft-poland-4473259436">Unreal Engine Generalist</a></b>
-Luxoft Poland · Polen
-<i>Perfekter Match für UE5- und 3D-Generalist-Skills; Remote EU.</i>
+🟢 <b><a href="https://remotegamejobs.com/jobs/ci-games-2d-ui-artist-remote-job">2D UI Artist</a></b>
+CI Games · Remote (Europa)
+<i>Passende 2D-Art-Rolle auf Mid-Level-Niveau im europäischen Remote-Setup.</i>
 
-🟡 <b><a href="https://pt.linkedin.com/jobs/view/video-motion-specialist-at-vasco-marques-digital-academy-4474141716">Video &amp; Motion Specialist</a></b>
-Vasco Marques Digital Academy · Portugal
-<i>Angrenzender Bereich für Motion Design &amp; Visualisierung; Remote.</i>
+🟡 <b><a href="https://www.workwithindies.com/careers/tako-boy-studios-pixel-artist-characters-animation">Pixel Artist (Characters &amp; Animation)</a></b>
+Tako Boy Studios · Remote
+<i>Remote Indie-Stelle mit Fokus auf 2D-Charakterdesign und Animation.</i>
 
-<b>✈️ Ausland</b>  ·  9
+<b>✈️ Ausland</b>  ·  1
 
-🟡 <b><a href="https://es.linkedin.com/jobs/view/2d-artist-at-scopely-4465331303">2D Artist</a></b>
-Scopely · Barcelona, Spanien
-<i>Match für 2D-Art und Illustration; Standort Barcelona.</i>
-
-🟡 <b><a href="https://se.linkedin.com/jobs/view/character-artist-at-embark-studios-4473761855">Character Artist</a></b>
-Embark Studios · Stockholm, Schweden
-<i>Deckt 2D/3D-Charakterdesign ab; Standort Stockholm.</i>
-
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/dmp-artist-at-one-of-us-4474143664">DMP Artist</a></b>
-One of Us · Paris, Frankreich
-<i>Matte Painting verbindet Environment Art mit VFX; Paris.</i>
-
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/game-artist-f-h-at-52-entertainment-4472746394">Game Artist</a></b>
-52 Entertainment · Metropolregion Paris, Frankreich
-<i>Passend für Game Art; Standort im Raum Paris.</i>
-
-🟡 <b><a href="https://lv.linkedin.com/jobs/view/sp%C4%93%C4%BCu-m%C4%81kslinieks-ce-game-artist-at-evolution-4472173495">Game Artist</a></b>
-Evolution · Riga, Lettland
-<i>Gute Rolle für Game Art; Arbeitsort Riga, Lettland.</i>
-
-🟡 <b><a href="https://nl.linkedin.com/jobs/view/game-artist-paper-io-2-at-voodoo-4446353924">Game Artist - Paper.io 2</a></b>
-Voodoo · Amsterdam, Niederlande
-<i>Gute Passung für 2D/3D Game Art; Standort Amsterdam.</i>
-
-🟡 <b><a href="https://hitmarker.net/jobs/larian-studios-technical-artist-1900671">Technical Artist</a></b>
-Larian Studios · Barcelona, Spanien
-<i>Sehr guter Tech-Art-Fit bei Top-Studio; Standort Barcelona.</i>
-
-🟡 <b><a href="https://se.linkedin.com/jobs/view/technical-artist-new-games-at-king-4472742294">Technical Artist | New Games</a></b>
-King · Stockholm, Schweden
-<i>Starkes Tech-Art-Profil gefragt; Standort Schweden (evtl. Remote).</i>
-
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/vfx-artist-paper-io-2-at-voodoo-4446196464">VFX Artist - Paper.io 2</a></b>
-Voodoo · Paris, Frankreich
-<i>Realtime- &amp; VFX-Skills passen gut; Standort Paris.</i>
+🟡 <b><a href="https://hitmarker.net/jobs/tripledot-studios-technical-artist-1921934">Technical Artist</a></b>
+Tripledot Studios · Jakarta, Indonesien
+<i>Rolle als Technical Artist passt ideal zum Profil, Standort vor Ort prüfen.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
