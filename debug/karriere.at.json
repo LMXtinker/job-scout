@@ -39,10 +39,10 @@
     "https://www.karriere.at/jobs/grafiker",
     "https://www.karriere.at/jobs/designer",
     "https://www.karriere.at/jobs/marketing",
-    "https://www.karriere.at/jobs/pressbaum",
-    "https://www.karriere.at/jobs/laxenburg",
-    "https://www.karriere.at/jobs/engerwitzdorf",
-    "https://www.karriere.at/jobs/unterweitersdorf",
+    "https://www.karriere.at/jobs/gro%C3%9Fraum-linz",
+    "https://www.karriere.at/jobs/fernitz-mellach",
+    "https://www.karriere.at/jobs/kremsm%C3%BCnster",
+    "https://www.karriere.at/jobs/wien-4-bezirk-wieden",
     "https://www.karriere.at/jobs/wien",
     "https://www.karriere.at/jobs/linz",
     "https://www.karriere.at/jobs/m%C3%BChlviertel",
@@ -64,9 +64,9 @@
     "https://www.karriere.at/c/a/karrierepfade",
     "https://www.karriere.at/blog/",
     "https://www.karriere.at/",
-    "https://www.karriere.at/jobs/verk%C3%A4uferin-mode/salzkammergut",
-    "https://www.karriere.at/jobs/werksverkehr",
-    "https://www.karriere.at/jobs/verkauf/ebreichsdorf"
+    "https://www.karriere.at/jobs/kfz-verk%C3%A4ufer/st-p%C3%B6lten",
+    "https://www.karriere.at/jobs/einzelhandel/sattledt",
+    "https://www.karriere.at/jobs/head-of-sales/freistadt"
    ]
   },
   "https://www.karriere.at/jobs?keywords=Environment+Artist": {
@@ -107,10 +107,10 @@
     "https://www.karriere.at/jobs/umwelt",
     "https://www.karriere.at/jobs/abfall",
     "https://www.karriere.at/jobs/sicherheit",
-    "https://www.karriere.at/jobs/urfahr-umgebung-bezirk",
-    "https://www.karriere.at/jobs/hart-bei-graz",
-    "https://www.karriere.at/jobs/wien-7-bezirk-neubau",
-    "https://www.karriere.at/jobs/hagenberg-im-m%C3%BChlkreis",
+    "https://www.karriere.at/jobs/st-florian",
+    "https://www.karriere.at/jobs/wien-3-bezirk-landstra%C3%9Fe",
+    "https://www.karriere.at/jobs/alkoven",
+    "https://www.karriere.at/jobs/lambach",
     "https://www.karriere.at/jobs/elsbethen",
     "https://www.karriere.at/jobs/premst%C3%A4tten",
     "https://www.karriere.at/jobs/salzburg-stadt",
@@ -129,11 +129,11 @@
     "https://www.karriere.at/c/a/karrierepfade",
     "https://www.karriere.at/blog/",
     "https://www.karriere.at/",
-    "https://www.karriere.at/jobs/pwc",
-    "https://www.karriere.at/jobs/wiener-linien-praktikum",
-    "https://www.karriere.at/jobs/key-account-manager/weiz",
-    "https://www.karriere.at/jobs/lehrstelle/st-valentin",
-    "https://www.karriere.at/jobs/logistics-henkel",
+    "https://www.karriere.at/jobs/risikomanager/linz",
+    "https://www.karriere.at/jobs/supervisor/steiermark",
+    "https://www.karriere.at/jobs/iot-solution-architect",
+    "https://www.karriere.at/jobs/hak-hr/graz",
+    "https://www.karriere.at/jobs/walter-werkzeuge",
     "https://www.karriere.at/lp/faqs"
    ]
   },
@@ -246,10 +246,10 @@
     "https://www.karriere.at/jobs/maler",
     "https://www.karriere.at/jobs/musik",
     "https://www.karriere.at/jobs/grafik-design",
-    "https://www.karriere.at/jobs/kematen-an-der-krems",
-    "https://www.karriere.at/jobs/eferding",
-    "https://www.karriere.at/jobs/traun",
-    "https://www.karriere.at/jobs/st-florian",
+    "https://www.karriere.at/jobs/harmannsdorf",
+    "https://www.karriere.at/jobs/lichtenberg",
+    "https://www.karriere.at/jobs/hart-bei-graz",
+    "https://www.karriere.at/jobs/linz",
     "https://www.karriere.at/jobs/wien",
     "https://www.karriere.at/jobs/wien",
     "https://www.karriere.at/jobs/wien",
@@ -268,11 +268,11 @@
     "https://www.karriere.at/c/a/karrierepfade",
     "https://www.karriere.at/blog/",
     "https://www.karriere.at/",
-    "https://www.karriere.at/jobs/manager/amstetten-bezirk",
-    "https://www.karriere.at/jobs/leiter-administration",
-    "https://www.karriere.at/jobs/produktspezialist/wien",
-    "https://www.karriere.at/jobs/werkstudent/deutschlandsberg-bezirk",
-    "https://www.karriere.at/jobs/mental-health",
+    "https://www.karriere.at/jobs/professor/wien",
+    "https://www.karriere.at/jobs/grafik/bischofshofen",
+    "https://www.karriere.at/jobs/leitung-recruiting",
+    "https://www.karriere.at/jobs/remote-grafik",
+    "https://www.karriere.at/jobs/tchibo/steiermark",
     "https://www.karriere.at/lp/faqs"
    ]
   },
@@ -350,13 +350,13 @@
    "links": 15,
    "jobs": 15,
    "final_url": "https://www.karriere.at/jobs?keywords=3D+Designer",
-   "title": "3D Designer Jobs | aktuell 20+ offen | karriere.at"
+   "title": "3D Designer Jobs | aktuell 30+ offen | karriere.at"
   },
   "https://www.karriere.at/jobs?keywords=Game+Design": {
-   "links": 15,
-   "jobs": 15,
+   "links": 14,
+   "jobs": 14,
    "final_url": "https://www.karriere.at/jobs?keywords=Game+Design",
-   "title": "game design Jobs | aktuell 15+ offen | karriere.at"
+   "title": "game design Jobs | aktuell 10+ offen | karriere.at"
   }
  }
 }

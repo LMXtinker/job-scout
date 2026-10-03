@@ -1,11 +1,21 @@
 {
  "errors": [
   "Concept Artist: HTTP Error 429: Too Many Requests",
+  "Concept Artist: HTTP Error 429: Too Many Requests",
+  "Concept Artist: HTTP Error 429: Too Many Requests",
   "Illustrator: HTTP Error 429: Too Many Requests",
   "Illustrator: HTTP Error 429: Too Many Requests",
+  "Illustrator: HTTP Error 429: Too Many Requests",
+  "3D Generalist: HTTP Error 429: Too Many Requests",
+  "3D Generalist: HTTP Error 429: Too Many Requests",
+  "3D Generalist: HTTP Error 429: Too Many Requests",
+  "Realtime Artist: HTTP Error 429: Too Many Requests",
+  "Realtime Artist: HTTP Error 429: Too Many Requests",
   "Realtime Artist: HTTP Error 429: Too Many Requests",
   "Virtual Production: HTTP Error 429: Too Many Requests",
   "Virtual Production: HTTP Error 429: Too Many Requests",
+  "Virtual Production: HTTP Error 429: Too Many Requests",
+  "3D Designer: HTTP Error 429: Too Many Requests",
   "3D Designer: HTTP Error 429: Too Many Requests",
   "3D Designer: HTTP Error 429: Too Many Requests",
   "Game Design: HTTP Error 429: Too Many Requests",
@@ -14,7 +24,7 @@
  ],
  "per_url": {
   "3D Artist@0": 10,
-  "3D Artist@10": 4,
+  "3D Artist@10": 9,
   "3D Artist@20": 0,
   "Environment Artist@0": 1,
   "Environment Artist@10": 0,
@@ -27,16 +37,6 @@
   "Unreal Engine@20": 10,
   "Game Artist@0": 9,
   "Game Artist@10": 0,
-  "Game Artist@20": 0,
-  "Concept Artist@0": 10,
-  "Concept Artist@10": 10,
-  "Illustrator@10": 10,
-  "3D Generalist@0": 10,
-  "3D Generalist@10": 10,
-  "3D Generalist@20": 10,
-  "Realtime Artist@0": 10,
-  "Realtime Artist@10": 10,
-  "Virtual Production@0": 10,
-  "3D Designer@10": 10
+  "Game Artist@20": 0
  }
 }
