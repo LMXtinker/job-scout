@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-03T08:14:50+00:00",
- "jobs": 522,
- "new": 25,
- "recent": 1288,
+ "generated": "2026-10-04T08:31:25+00:00",
+ "jobs": 407,
+ "new": 18,
+ "recent": 1306,
  "sources": {
   "linkedin-at": {
-   "jobs": 79,
-   "errors": 21
+   "jobs": 145,
+   "errors": 6
   },
   "linkedin-remote-eu": {
    "jobs": 0,
@@ -21,11 +21,11 @@
    "errors": 0
   },
   "stepstone": {
-   "jobs": 201,
-   "errors": 0
+   "jobs": 25,
+   "errors": 11
   },
   "hitmarker": {
-   "jobs": 78,
+   "jobs": 77,
    "errors": 0
   },
   "gamesindustry.biz": {
@@ -33,7 +33,7 @@
    "errors": 0
   },
   "workwithindies": {
-   "jobs": 66,
+   "jobs": 64,
    "errors": 0
   },
   "remotegamejobs": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 3,
+   "jobs": 1,
    "errors": 0
   },
   "moon-studios": {
