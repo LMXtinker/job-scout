@@ -1,184 +1,510 @@
 {
- "generated": "2026-10-04T08:31:25+00:00",
- "count": 18,
+ "generated": "2026-10-05T09:12:23+00:00",
+ "count": 52,
  "jobs": [
   {
-   "title": "Mitarbeiter für 3D-Druck Shop",
-   "company": "LINZKREATIV.AT",
-   "location": "Linz, Oberösterreich, Österreich",
-   "posted": "2026-10-04",
-   "url": "https://at.linkedin.com/jobs/view/mitarbeiter-f%C3%BCr-3d-druck-shop-at-linzkreativ-at-4473464632",
-   "source": "linkedin-at",
-   "keyword": "3D Artist",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Praktikum AI Enablement & Innovation",
-   "company": "KPMG Austria",
-   "location": "Wien, Wien, Österreich",
-   "posted": "2026-10-04",
-   "url": "https://at.linkedin.com/jobs/view/praktikum-ai-enablement-innovation-at-kpmg-austria-4473461951",
+   "title": "Technischer Content Creator",
+   "company": "personico GmbH",
+   "location": "Graz und Umgebung",
+   "posted": "2026-10-05",
+   "url": "https://at.linkedin.com/jobs/view/technischer-content-creator-at-personico-gmbh-4475526787",
    "source": "linkedin-at",
    "keyword": "Technical Artist",
-   "first_seen": "2026-10-04"
+   "first_seen": "2026-10-05"
   },
   {
-   "title": "Freelancer – Licht, Ton, Video, Rigging (m/w/d)",
-   "company": "Encore",
+   "title": "Country Sales Leader, Splunk Austria",
+   "company": "Cisco",
    "location": "Wien, Wien, Österreich",
-   "posted": "2026-10-03",
-   "url": "https://at.linkedin.com/jobs/view/freelancer-%E2%80%93-licht-ton-video-rigging-m-w-d-at-encore-4456266410",
+   "posted": "2026-10-02",
+   "url": "https://at.linkedin.com/jobs/view/country-sales-leader-splunk-austria-at-cisco-4446809846",
    "source": "linkedin-at",
    "keyword": "Unreal Engine",
-   "first_seen": "2026-10-04"
+   "first_seen": "2026-10-05"
   },
   {
-   "title": "Grafikdesigner",
-   "company": "OCNSMedia OG",
-   "location": "Salzburg, Salzburg, Österreich",
-   "posted": "2026-10-04",
-   "url": "https://at.linkedin.com/jobs/view/grafikdesigner-at-ocnsmedia-og-4473454682",
+   "title": "Spontaneous application - Experienced Designer (m/f/d)",
+   "company": "BRP-Rotax",
+   "location": "Gunskirchen, Oberösterreich, Österreich",
+   "posted": "2026-10-01",
+   "url": "https://at.linkedin.com/jobs/view/spontaneous-application-experienced-designer-m-f-d-at-brp-rotax-4472969112",
    "source": "linkedin-at",
-   "keyword": "Concept Artist",
-   "first_seen": "2026-10-04"
+   "keyword": "3D Designer",
+   "first_seen": "2026-10-05"
   },
   {
-   "title": "Lehrling Medienfachkraft (m/w/d)",
-   "company": "mömax Österreich",
-   "location": "Linz – Wels – Steyr und Umgebung",
+   "title": "Mitarbeiter für die Konstruktion (m/w/d)",
+   "company": "METAGRO Edelstahltechnik AG",
+   "location": "Hainfeld, Niederösterreich, Österreich",
+   "posted": "2026-09-24",
+   "url": "https://at.linkedin.com/jobs/view/mitarbeiter-f%C3%BCr-die-konstruktion-m-w-d-at-metagro-edelstahltechnik-ag-4471637116",
+   "source": "linkedin-at",
+   "keyword": "3D Designer",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Konstruktion - Projektmanagement",
+   "company": "Lugstein Cabs GmbH",
+   "location": "Lengau, Oberösterreich, Österreich",
+   "posted": "2026-09-29",
+   "url": "https://at.linkedin.com/jobs/view/konstruktion-projektmanagement-at-lugstein-cabs-gmbh-4471282002",
+   "source": "linkedin-at",
+   "keyword": "3D Designer",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior Konstrukteur (m/w/d)",
+   "company": "Reform-Werke Bauer & Co Gesellschaft m.b.H.",
+   "location": "Wels, Oberösterreich, Österreich",
+   "posted": "2026-09-29",
+   "url": "https://at.linkedin.com/jobs/view/senior-konstrukteur-m-w-d-at-reform-werke-bauer-co-gesellschaft-m-b-h-4473278747",
+   "source": "linkedin-at",
+   "keyword": "3D Designer",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Techniker:in für den Bereich Engineering",
+   "company": "CWA Constructions SA",
+   "location": "Wolfurt, Vorarlberg, Österreich",
+   "posted": "2026-09-29",
+   "url": "https://at.linkedin.com/jobs/view/techniker-in-f%C3%BCr-den-bereich-engineering-at-cwa-constructions-sa-4473296387",
+   "source": "linkedin-at",
+   "keyword": "3D Designer",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Technische:r Projektabwickler:in / Konstrukteur:in (w/m/d)",
+   "company": "VACE Group",
+   "location": "Linz, Oberösterreich, Österreich",
+   "posted": "2026-10-01",
+   "url": "https://at.linkedin.com/jobs/view/technische-r-projektabwickler-in-konstrukteur-in-w-m-d-at-vace-group-4474307988",
+   "source": "linkedin-at",
+   "keyword": "3D Designer",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Lead UX & Tools - H/F/NB",
+   "company": "Ubisoft Paris Studio",
+   "location": "Paris, Île-de-France, Frankreich",
    "posted": "2026-10-03",
-   "url": "https://at.linkedin.com/jobs/view/lehrling-medienfachkraft-m-w-d-at-m%C3%B6max-%C3%B6sterreich-4473823375",
-   "source": "linkedin-at",
+   "url": "https://fr.linkedin.com/jobs/view/lead-ux-tools-h-f-nb-at-ubisoft-paris-studio-4463992563",
+   "source": "linkedin-remote-eu",
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior VFX Artist",
+   "company": "CD PROJEKT RED",
+   "location": "Warschau, Voivod Masowien, Polen",
+   "posted": "2026-10-01",
+   "url": "https://pl.linkedin.com/jobs/view/senior-vfx-artist-at-cd-projekt-red-4474351072",
+   "source": "linkedin-remote-eu",
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Associate Development Director",
+   "company": "Sony Computer Entertainment France SA",
+   "location": "Helsinki, Uusimaa, Finnland",
+   "posted": "2026-10-02",
+   "url": "https://fi.linkedin.com/jobs/view/associate-development-director-at-sony-computer-entertainment-france-sa-4474592496",
+   "source": "linkedin-remote-eu",
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior VFX Artist [Tom Clancy's The Division 2: Survivors]",
+   "company": "Massive Entertainment",
+   "location": "Malmö, Provinz Schonen, Schweden",
+   "posted": "2026-09-29",
+   "url": "https://se.linkedin.com/jobs/view/senior-vfx-artist-tom-clancy-s-the-division-2-survivors-at-massive-entertainment-4425301418",
+   "source": "linkedin-remote-eu",
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Lead Character Artist [Tom Clancy's The Division 2]",
+   "company": "Massive Entertainment",
+   "location": "Malmö, Provinz Schonen, Schweden",
+   "posted": "2026-10-01",
+   "url": "https://se.linkedin.com/jobs/view/lead-character-artist-tom-clancy-s-the-division-2-at-massive-entertainment-4452821187",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Character Artist H/F (Projet narratif non annoncé)",
+   "company": "Asobo Studio",
+   "location": "Bordeaux, Neu-Aquitanien, Frankreich",
+   "posted": "2026-10-02",
+   "url": "https://fr.linkedin.com/jobs/view/character-artist-h-f-projet-narratif-non-annonc%C3%A9-at-asobo-studio-4474729399",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior 2D Artist",
+   "company": "X-FLOW",
+   "location": "Warschau, Voivod Masowien, Polen",
+   "posted": "2026-10-02",
+   "url": "https://pl.linkedin.com/jobs/view/senior-2d-artist-at-x-flow-4474769435",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Illustrator",
+   "company": "Platin Gaming Ltd.",
+   "location": "Malta",
+   "posted": "2026-10-04",
+   "url": "https://mt.linkedin.com/jobs/view/illustrator-at-platin-gaming-ltd-4474228233",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Game Artist & Animator",
+   "company": "Playtech",
+   "location": "Sofia, Sofia, Bulgarien",
+   "posted": "2026-10-02",
+   "url": "https://bg.linkedin.com/jobs/view/game-artist-animator-at-playtech-4474758726",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Concept Artist",
+   "company": "MrBeast",
+   "location": "Polen",
+   "posted": "2026-10-02",
+   "url": "https://pl.linkedin.com/jobs/view/concept-artist-at-mrbeast-4465833929",
+   "source": "linkedin-remote-eu",
    "keyword": "Concept Artist",
-   "first_seen": "2026-10-04"
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior Concept Artist",
+   "company": "Wargaming",
+   "location": "Bezirk Nikosia, Zypern",
+   "posted": "2026-09-29",
+   "url": "https://cy.linkedin.com/jobs/view/senior-concept-artist-at-wargaming-4471272062",
+   "source": "linkedin-remote-eu",
+   "keyword": "Concept Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Game Artist",
+   "company": "Light & Wonder - iGaming",
+   "location": "Sofia, Sofia, Bulgarien",
+   "posted": "2026-10-05",
+   "url": "https://bg.linkedin.com/jobs/view/game-artist-at-light-wonder-igaming-4475548406",
+   "source": "linkedin-remote-eu",
+   "keyword": "Concept Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Freelance Concept Artist - Paper.io 2",
+   "company": "Voodoo",
+   "location": "Amsterdam, Nordholland, Niederlande",
+   "posted": "2026-10-03",
+   "url": "https://nl.linkedin.com/jobs/view/freelance-concept-artist-paper-io-2-at-voodoo-4446308054",
+   "source": "linkedin-remote-eu",
+   "keyword": "Concept Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Mediengestalter Reinzeichnung (m/w/d)",
+   "company": "Appel Wave GmbH",
+   "location": "Region Stuttgart",
+   "posted": "2026-09-30",
+   "url": "https://de.linkedin.com/jobs/view/mediengestalter-reinzeichnung-m-w-d-at-appel-wave-gmbh-4470696676",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior UI Artist (3+ Years Gaming Exp.)",
+   "company": "Gameloft Barcelona",
+   "location": "Barcelona, Cataluña, Spanien",
+   "posted": "2026-09-29",
+   "url": "https://es.linkedin.com/jobs/view/senior-ui-artist-3%2B-years-gaming-exp-at-gameloft-barcelona-4473258635",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Graphiste /PAO H/F",
+   "company": "Ville de Viroflay",
+   "location": "Viroflay, Île-de-France, Frankreich",
+   "posted": "2026-10-02",
+   "url": "https://fr.linkedin.com/jobs/view/graphiste-pao-h-f-at-ville-de-viroflay-4473347796",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Grafikdesigner (m/w/d)",
+   "company": "eFLY Marketplace Services GmbH",
+   "location": "Stuttgart",
+   "posted": "2026-10-05",
+   "url": "https://de.linkedin.com/jobs/view/grafikdesigner-m-w-d-at-efly-marketplace-services-gmbh-4473617587",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Técnico Designer Gráfico / Multimédia - Trofa",
+   "company": "Brasmar",
+   "location": "Trofa, Porto, Portugal",
+   "posted": "2026-10-01",
+   "url": "https://pt.linkedin.com/jobs/view/t%C3%A9cnico-designer-gr%C3%A1fico-multim%C3%A9dia-trofa-at-brasmar-4474359517",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Automotive CGI & 3D Visualization Specialist",
+   "company": "Bertrandt Group",
+   "location": "Sant’Agata Bolognese, Emilia Romagna, Italien",
+   "posted": "2026-10-02",
+   "url": "https://it.linkedin.com/jobs/view/automotive-cgi-3d-visualization-specialist-at-bertrandt-group-4436812283",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "3D Artist",
+   "company": "Platin Gaming Ltd.",
+   "location": "Malta",
+   "posted": "2026-10-03",
+   "url": "https://mt.linkedin.com/jobs/view/3d-artist-at-platin-gaming-ltd-4473856476",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "3D Visualization Specialist with German language",
+   "company": "Bertrandt Group",
+   "location": "Sibiu, Hermannstadt, Rumänien",
+   "posted": "2026-10-02",
+   "url": "https://ro.linkedin.com/jobs/view/3d-visualization-specialist-with-german-language-at-bertrandt-group-4473352379",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Game Artist - Paper.io 2",
+   "company": "Voodoo",
+   "location": "Barcelona, Cataluña, Spanien",
+   "posted": "2026-10-02",
+   "url": "https://es.linkedin.com/jobs/view/game-artist-paper-io-2-at-voodoo-4446350993",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Graphiste 2D/3D (H/F)",
+   "company": "WINAMAX",
+   "location": "Paris, Île-de-France, Frankreich",
+   "posted": "2026-10-05",
+   "url": "https://fr.linkedin.com/jobs/view/graphiste-2d-3d-h-f-at-winamax-4475532940",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Modelador/a 3D – BIM | Grandes proyectos de energía",
+   "company": "CT3 Ingeniería",
+   "location": "Madrid, Autonome Gemeinschaft Madrid, Spanien",
+   "posted": "2026-10-02",
+   "url": "https://es.linkedin.com/jobs/view/modelador-a-3d-%E2%80%93-bim-grandes-proyectos-de-energ%C3%ADa-at-ct3-ingenier%C3%ADa-4474777042",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior (or above) Environment Artist- Terrain",
+   "company": "Elsewhere Entertainment",
+   "location": "Malmö, Provinz Schonen, Schweden",
+   "posted": "2026-10-02",
+   "url": "https://se.linkedin.com/jobs/view/senior-or-above-environment-artist-terrain-at-elsewhere-entertainment-4453480016",
+   "source": "linkedin-remote-eu",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior Technical Artist (PCG, UE5)",
+   "company": "Virtuos",
+   "location": "Warschau, Voivod Masowien, Polen",
+   "posted": "2026-10-02",
+   "url": "https://pl.linkedin.com/jobs/view/senior-technical-artist-pcg-ue5-at-virtuos-4446741318",
+   "source": "linkedin-remote-eu",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Unreal Engine Artist (Generalist)",
+   "company": "Rabbit's Foot Studios",
+   "location": "Stockholm, Provinz Stockholm, Schweden",
+   "posted": "2026-10-05",
+   "url": "https://se.linkedin.com/jobs/view/unreal-engine-artist-generalist-at-rabbit-s-foot-studios-4267448561",
+   "source": "linkedin-remote-eu",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "FR - Generative AI Creative",
+   "company": "Valtech",
+   "location": "Paris, Île-de-France, Frankreich",
+   "posted": "2026-10-02",
+   "url": "https://fr.linkedin.com/jobs/view/fr-generative-ai-creative-at-valtech-4466093017",
+   "source": "linkedin-remote-eu",
+   "keyword": "Virtual Production",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Executive Producer (all genders)",
+   "company": "Serviceplan Group",
+   "location": "Hamburg",
+   "posted": "2026-10-02",
+   "url": "https://de.linkedin.com/jobs/view/executive-producer-all-genders-at-serviceplan-group-4473339705",
+   "source": "linkedin-remote-eu",
+   "keyword": "Virtual Production",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior Playable Ads Programmer",
+   "company": "NAPHORA GAMES GROUP",
+   "location": "Portugal",
+   "posted": "2026-09-29",
+   "url": "https://pt.linkedin.com/jobs/view/senior-playable-ads-programmer-at-naphora-games-group-4473204831",
+   "source": "linkedin-remote-eu",
+   "keyword": "Virtual Production",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Broadcast IT Systems Engineer",
+   "company": "Warner Bros. Discovery",
+   "location": "Cracow Metropolitan Area",
+   "posted": "2026-09-25",
+   "url": "https://pl.linkedin.com/jobs/view/broadcast-it-systems-engineer-at-warner-bros-discovery-4444427032",
+   "source": "linkedin-remote-eu",
+   "keyword": "Virtual Production",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Modeleur(euse) BIM· 3D confirmé(e) TCE - H/F",
+   "company": "L'Usine Nouvelle",
+   "location": "Lyon, Auvergne-Rhône-Alpes, Frankreich",
+   "posted": "2026-10-03",
+   "url": "https://fr.linkedin.com/jobs/view/modeleur-euse-bim%C2%B7-3d-confirm%C3%A9-e-tce-h-f-at-l-usine-nouvelle-4473427586",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Designer",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Game Designer",
+   "company": "Miniclip",
+   "location": "Zoetermeer, Südholland, Niederlande",
+   "posted": "2026-10-02",
+   "url": "https://nl.linkedin.com/jobs/view/game-designer-at-miniclip-4456730749",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Design",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Game Designer",
+   "company": "Moon Active",
+   "location": "Warschau, Voivod Masowien, Polen",
+   "posted": "2026-10-03",
+   "url": "https://pl.linkedin.com/jobs/view/game-designer-at-moon-active-4447021555",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Design",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Senior Game Designer - Mob Control",
+   "company": "Voodoo",
+   "location": "Warschau, Voivod Masowien, Polen",
+   "posted": "2026-09-30",
+   "url": "https://pl.linkedin.com/jobs/view/senior-game-designer-mob-control-at-voodoo-4446120410",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Design",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Grafiker:in (m/w/d)",
+   "snippet": "Einblicke Grafiker:in (m/w/d) Innsbruck Tourismus Heute veröffentlicht Innsbruck Vollzeit, Teilzeit ab 2.600 € monatlich Gestaltung von Print- und Digitalmedien, Werbemittel und räumliche Anwendungen. Sicherer Umgang mit Adobe Creative Suite (InDesign, Photoshop, Illustrator) ist erforderlich. Attraktive Zusatzleistungen werden geboten. Mehr anzeigen Merken",
+   "url": "https://www.karriere.at/jobs/10034713",
+   "source": "karriere.at",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Grafic und Content Designer (m/w/d)",
+   "snippet": "Einblicke Grafic und Content Designer (m/w/d) doppler E. Doppler & Co GmbH Heute veröffentlicht Braunau am Inn Vollzeit Homeoffice Bild- und Videobearbeitung für Produktpräsentationen, Katalogen und digitalen Werbemitteln. Eigenständige Produktfotografie und -videografie. Sicherer Umgang mit Adobe Photoshop, Illustrator, InDesign. Flexible Arbeitszeiten und ein wöchentlicher Homeoffice Tag. Mehr a",
+   "url": "https://www.karriere.at/jobs/10034682",
+   "source": "karriere.at",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-05"
   },
   {
    "title": "Mitarbeiter:in Unternehmenskommunikation",
-   "company": "RAITEC GmbH",
-   "location": "Linz, Oberösterreich, Österreich",
-   "posted": "2026-10-02",
-   "url": "https://at.linkedin.com/jobs/view/mitarbeiter-in-unternehmenskommunikation-at-raitec-gmbh-4473370177",
-   "source": "linkedin-at",
-   "keyword": "Concept Artist",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Digital Content & Creative Manager",
-   "company": "Petar Petrov GmbH",
-   "location": "Wien, Österreich",
-   "posted": "2026-10-02",
-   "url": "https://at.linkedin.com/jobs/view/digital-content-creative-manager-at-petar-petrov-gmbh-4473137474",
-   "source": "linkedin-at",
+   "snippet": "Einblicke Mitarbeiter:in Unternehmenskommunikation Raiffeisen Oberösterreich Heute veröffentlicht Linz Vollzeit ab 45.800 € jährlich Merken",
+   "url": "https://www.karriere.at/jobs/7887886",
+   "source": "karriere.at",
    "keyword": "Illustrator",
-   "first_seen": "2026-10-04"
+   "first_seen": "2026-10-05"
   },
   {
-   "title": "Media Manager (f/m/d)",
-   "company": "Rhomberg Bau Gruppe",
-   "location": "Dornbirn, Vorarlberg, Österreich",
-   "posted": "2026-10-02",
-   "url": "https://at.linkedin.com/jobs/view/media-manager-f-m-d-at-rhomberg-bau-gruppe-4463486456",
-   "source": "linkedin-at",
-   "keyword": "Illustrator",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Sports Data & AI Scientist",
-   "company": "Red Bull",
-   "location": "Thalgau, Salzburg, Österreich",
-   "posted": "2026-10-01",
-   "url": "https://at.linkedin.com/jobs/view/sports-data-ai-scientist-at-red-bull-4474131586",
-   "source": "linkedin-at",
-   "keyword": "Realtime Artist",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Senior Product Engineer",
-   "company": "MALOUM",
-   "location": "Wien, Wien, Österreich",
-   "posted": "2026-09-29",
-   "url": "https://at.linkedin.com/jobs/view/senior-product-engineer-at-maloum-4471717524",
-   "source": "linkedin-at",
-   "keyword": "Realtime Artist",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Internship - Microphone-based Tactile Sensing for Robotics (f/m/div)",
-   "company": "Infineon Technologies",
-   "location": "Villach, Kärnten, Österreich",
-   "posted": "2026-10-02",
-   "url": "https://at.linkedin.com/jobs/view/internship-microphone-based-tactile-sensing-for-robotics-f-m-div-at-infineon-technologies-4461208216",
-   "source": "linkedin-at",
-   "keyword": "Realtime Artist",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Internship - Speech Recognition for Robotics (f/m/div)",
-   "company": "Infineon Technologies",
-   "location": "Villach, Kärnten, Österreich",
-   "posted": "2026-10-02",
-   "url": "https://at.linkedin.com/jobs/view/internship-speech-recognition-for-robotics-f-m-div-at-infineon-technologies-4461098333",
-   "source": "linkedin-at",
-   "keyword": "Realtime Artist",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Internship: 3rd Party IP Automation using Agentic AI (f/m/div)",
-   "company": "Infineon Technologies",
-   "location": "Villach, Kärnten, Österreich",
-   "posted": "2026-10-02",
-   "url": "https://at.linkedin.com/jobs/view/internship-3rd-party-ip-automation-using-agentic-ai-f-m-div-at-infineon-technologies-4465696358",
-   "source": "linkedin-at",
-   "keyword": "Realtime Artist",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Senior Partner Project Manager (Fluent Polish)",
-   "company": "Fever",
-   "location": "Wien, Wien, Österreich",
-   "posted": "2026-09-28",
-   "url": "https://at.linkedin.com/jobs/view/senior-partner-project-manager-fluent-polish-at-fever-4471200852",
-   "source": "linkedin-at",
-   "keyword": "Virtual Production",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Mitarbeiter*in im Hochschuldidaktik Team (m/w/d; Teilzeit 30h, Woche; befristet bis 31.03.2028)",
-   "company": "FH Technikum Wien",
-   "location": "Wien, Wien, Österreich",
-   "posted": "2026-10-02",
-   "url": "https://at.linkedin.com/jobs/view/mitarbeiter-in-im-hochschuldidaktik-team-m-w-d-teilzeit-30h-woche-befristet-bis-31-03-2028-at-fh-technikum-wien-4462880234",
-   "source": "linkedin-at",
-   "keyword": "Game Design",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Software Engineer LiSIM (m/w/d)",
-   "company": "Liebherr Group",
-   "location": "Nenzing, Vorarlberg, Österreich",
-   "posted": "2026-09-28",
-   "url": "https://at.linkedin.com/jobs/view/software-engineer-lisim-m-w-d-at-liebherr-group-4462969830",
-   "source": "linkedin-at",
-   "keyword": "Game Design",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Senior Mathematician Gaming (m/f/d)",
-   "company": "MERKUR GROUP",
-   "location": "Raaba, Steiermark, Österreich",
-   "posted": "2026-10-02",
-   "url": "https://at.linkedin.com/jobs/view/senior-mathematician-gaming-m-f-d-at-merkur-group-4473123911",
-   "source": "linkedin-at",
-   "keyword": "Game Design",
-   "first_seen": "2026-10-04"
-  },
-  {
-   "title": "Electrical Project Engineer",
-   "snippet": "Electrical Project Engineer APS Group Jenbach Unterstützung bei der 3D-Planung elektrischer Installationen * Erfahrung in 3D-Kabelführung, Kabelbaumplanung oder der Planung elektrischer Installationen von Vorteil mehr vor 19 Stunden NEU",
-   "url": "https://www.stepstone.at/stellenangebote--Electrical-Project-Engineer-Jenbach-APS-Group--998279-inline.html",
+   "title": "Konstrukteur im Metallbau",
+   "snippet": "Konstrukteur im Metallbau G. Wittek Stahlbau Gesellschaft mbH. Schwechat Teilweise Home-Office Schnelle Bewerbung Erstellen von 2D + 3D Pläne * Sehr gute Kenntnisse in MS Office, Auto CAD- und Tenado CADF - 3D, sowie Inventorkenntnisse mehr vor 19 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Konstrukteur-im-Metallbau-Schwechat-G-Wittek-Stahlbau-Gesellschaft-mbH--1006663-inline.html",
    "source": "stepstone",
    "keyword": "3D Artist",
-   "first_seen": "2026-10-04"
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Technische/r Mitarbeiter/in / Arbeitsvorbereitung & Konstruktion (w/m/x)",
+   "snippet": "Technische/r Mitarbeiter/in / Arbeitsvorbereitung & Konstruktion (w/m/x) mbs engineering GmbH Baden Schnelle Bewerbung Gute Erfahrung mit 3D-CAD, möglichst Solid Edge vor 12 Minuten NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Technische-r-Mitarbeiter-in-Arbeitsvorbereitung-Konstruktion-w-m-x-Baden-mbs-engineering-GmbH--998622-inline.html",
+   "source": "stepstone",
+   "keyword": "3D Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Badberater (m/w/d) - Schwerpunkt Beratung, Planung & Verkauf in Völs",
+   "snippet": "Badberater (m/w/d) - Schwerpunkt Beratung, Planung & Verkauf in Völs STEINER HAUSTECHNIK KG Völs Werde zum Umsetzer von Wünschen: Nutze 3D-Planungstools und dein Talent im Verkauf, um die Vorstellungen deiner Kund:innen lebendig werden zu lassen. mehr vor 12 Minuten NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Badberater-m-w-d-Schwerpunkt-Beratung-Planung-Verkauf-in-Voels-Voels-STEINER-HAUSTECHNIK-KG--1004020-inline.html",
+   "source": "stepstone",
+   "keyword": "3D Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Lehre Großhandelskaufmann (all genders) - Schwerpunkt Einrichtungsberatung - ab September 2026",
+   "snippet": "Lehre Großhandelskaufmann (all genders) - Schwerpunkt Einrichtungsberatung - ab September 2026 Fritz Holter GmbH Salzburg Du befasst dich mit der Erstellung von 3D-Badplänen und setzt so kreative Ideen um. vor 11 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Lehre-Grosshandelskaufmann-all-genders-Schwerpunkt-Einrichtungsberatung-ab-September-2026-Salzburg-Fritz-Holter-GmbH--983073-inline.html",
+   "source": "stepstone",
+   "keyword": "3D Artist",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Product and Industrial Designer",
+   "snippet": "P Photonic Muscle Product and Industrial Designer Austin, TX, USA · Product Design Full Time 4 hours ago",
+   "url": "https://hitmarker.net/jobs/photonic-muscle-product-and-industrial-designer-5057690",
+   "source": "hitmarker",
+   "keyword": "3D Designer",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "title": "Product Designer (m/f/d)- Physical Products & AI - home decor brand - 100% remote - part-/fulltime",
+   "company": "Time to hire",
+   "location": "Remote – Marktbreit",
+   "posted": "2026-10-04",
+   "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
+   "source": "arbeitnow",
+   "snippet": "For my client, an established direct-to-consumer home decor brand, I’m looking for a talented Product Designer to join the team on a long-term basis. The company creates distinctive wooden home decor for customers primarily in the US, with a strong focus on wall art alongside selected freestanding p",
+   "first_seen": "2026-10-05"
   }
  ]
 }
