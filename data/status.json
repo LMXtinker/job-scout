@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-05T09:12:23+00:00",
- "jobs": 582,
- "new": 52,
- "recent": 516,
+ "generated": "2026-10-06T09:05:08+00:00",
+ "jobs": 648,
+ "new": 78,
+ "recent": 569,
  "sources": {
   "linkedin-at": {
-   "jobs": 146,
-   "errors": 7
+   "jobs": 130,
+   "errors": 9
   },
   "linkedin-remote-eu": {
-   "jobs": 155,
-   "errors": 14
+   "jobs": 53,
+   "errors": 30
   },
   "karriere.at": {
-   "jobs": 43,
+   "jobs": 45,
    "errors": 0
   },
   "ams-allejobs": {
@@ -21,8 +21,8 @@
    "errors": 0
   },
   "stepstone": {
-   "jobs": 25,
-   "errors": 11
+   "jobs": 201,
+   "errors": 0
   },
   "hitmarker": {
    "jobs": 77,
@@ -33,7 +33,7 @@
    "errors": 0
   },
   "workwithindies": {
-   "jobs": 63,
+   "jobs": 64,
    "errors": 0
   },
   "remotegamejobs": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 2,
+   "jobs": 3,
    "errors": 0
   },
   "moon-studios": {
@@ -89,7 +89,7 @@
    "errors": 0
   },
   "fh-salzburg": {
-   "jobs": 4,
+   "jobs": 6,
    "errors": 0
   },
   "fh-stpoelten": {
@@ -105,7 +105,7 @@
    "errors": 0
   },
   "angewandte": {
-   "jobs": 1,
+   "jobs": 2,
    "errors": 0
   },
   "kunstuni-linz": {
