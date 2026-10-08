@@ -1078,5 +1078,59 @@
   "region": "remote",
   "fit": "mittel",
   "reason": "Remote-Option für Design; deine Grafik-Skills bilden eine gute Basis."
+ },
+ "https://hitmarker.net/jobs/hyperlab-game-artist-5125155": {
+  "date": "2026-10-08",
+  "title": "Game Artist",
+  "company": "Hyperlab",
+  "location": "Remote",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "3D-Game-Artist im Indie-Bereich; remote und ideal für dein Profil."
+ },
+ "https://www.workwithindies.com/careers/febucci-general-artist-3d": {
+  "date": "2026-10-08",
+  "title": "General Artist (3D)",
+  "company": "Febucci",
+  "location": "Remote",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "Passende 3D-Generalist-Rolle bei einem Indie-Entwickler, komplett remote."
+ },
+ "https://hitmarker.net/jobs/sega-3d-artist-5142110": {
+  "date": "2026-10-08",
+  "title": "3D Artist",
+  "company": "SEGA",
+  "location": "UK",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Solider Match für 3D-Art bei SEGA; Vor-Ort-Rolle in Großbritannien."
+ },
+ "https://pl.linkedin.com/jobs/view/character-artist-at-qloc-4475559251": {
+  "date": "2026-10-08",
+  "title": "Character Artist",
+  "company": "QLOC",
+  "location": "Warschau, Polen",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Spannend für Character-Art; prüfen, ob Remote aus DACH machbar ist."
+ },
+ "https://at.linkedin.com/jobs/view/marketing-management-schwerpunkt-veranstaltungen-und-grafik-m-w-d-at-ecoplus-nieder%C3%B6sterreichs-wirtschaftsagentur-gmbh-4474052890": {
+  "date": "2026-10-08",
+  "title": "Marketing Management – Veranstaltungen & Grafik",
+  "company": "ecoplus",
+  "location": "St. Pölten, Niederösterreich",
+  "region": "oesterreich",
+  "fit": "mittel",
+  "reason": "Verbindet Kulturmanagement und Grafikdesign in Pendeldistanz zu Wien."
+ },
+ "https://hitmarker.net/jobs/sega-technical-artist-5142108": {
+  "date": "2026-10-08",
+  "title": "Technical Artist",
+  "company": "SEGA",
+  "location": "Farnham, UK",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Tech-Art bei SEGA; fachlich top, bedingt allerdings Arbeitsort in UK."
  }
 }
