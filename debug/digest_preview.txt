@@ -1,38 +1,42 @@
-<b>🎯 Job-Update · 08.10.</b>
-6 neue passende Stellen (2 × sehr passend 🟢)
-<i>aus 23 neuen Anzeigen</i>
+<b>🎯 Job-Update · 09.10.</b>
+7 neue passende Stellen (0 × sehr passend 🟢)
+<i>aus 30 neuen Anzeigen</i>
 
-💬 <i>Remote-Rollen wie bei Febucci oder Hyperlab suchen oft Allrounder mit Indie-Spirit. Zeig im Showreel gleich zu Beginn deine wandlungsfähigsten Assets – das überzeugt sofort! 🚀</i>
+💬 <i>Internationale Studios wie Embark oder Paradox schätzen saubere Workflows: Zeig im Showreel deine Texturierungs- und High-to-Low-Poly-Pipelines, um sofort aufzufallen!</i>
 
-<b>🇦🇹 Österreich</b>  ·  1
+<b>📍 Wien</b>  ·  1
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/marketing-management-schwerpunkt-veranstaltungen-und-grafik-m-w-d-at-ecoplus-nieder%C3%B6sterreichs-wirtschaftsagentur-gmbh-4474052890">Marketing Management – Veranstaltungen &amp; Grafik</a></b>
-ecoplus · St. Pölten, Niederösterreich
-<i>Verbindet Kulturmanagement und Grafikdesign in Pendeldistanz zu Wien.</i>
+🟡 <b><a href="https://www.karriere.at/jobs/10035225">Specialist Graphic Design &amp; Artwork Management</a></b>
+MAM Baby · Wien, Österreich
+<i>Grafik- und Layout-Rolle in Wien; nutzt deine 2D- und Design-Kompetenzen.</i>
 
-<b>🌍 Remote</b>  ·  2
+<b>🇦🇹 Österreich</b>  ·  2
 
-🟢 <b><a href="https://hitmarker.net/jobs/hyperlab-game-artist-5125155">Game Artist</a></b>
-Hyperlab · Remote
-<i>3D-Game-Artist im Indie-Bereich; remote und ideal für dein Profil.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/grafiker-in-m-w-d-at-wineworlds-4477612381">Grafiker:in</a></b>
+Wineworlds · Eisenstadt-Umgebung, Burgenland, Österreich
+<i>Kreative Grafik- und Gestaltungsrolle in Reichweite von Wien.</i>
 
-🟢 <b><a href="https://www.workwithindies.com/careers/febucci-general-artist-3d">General Artist (3D)</a></b>
-Febucci · Remote
-<i>Passende 3D-Generalist-Rolle bei einem Indie-Entwickler, komplett remote.</i>
+🟡 <b><a href="https://www.karriere.at/jobs/7891690">Graphic Designer</a></b>
+XAL · Graz, Österreich
+<i>Grafik- und Visuelle Gestaltung mit Homeoffice-Option in Österreich.</i>
 
-<b>✈️ Ausland</b>  ·  3
+<b>✈️ Ausland</b>  ·  4
 
-🟡 <b><a href="https://hitmarker.net/jobs/sega-3d-artist-5142110">3D Artist</a></b>
-SEGA · UK
-<i>Solider Match für 3D-Art bei SEGA; Vor-Ort-Rolle in Großbritannien.</i>
+🟡 <b><a href="https://hitmarker.net/jobs/embark-studios-3d-artist-5163045">3D Artist</a></b>
+Embark Studios · Stockholm, Schweden
+<i>Embark nutzt topaktuelle Realtime-Pipelines – ideal für 3D- &amp; Tech-Art.</i>
 
-🟡 <b><a href="https://pl.linkedin.com/jobs/view/character-artist-at-qloc-4475559251">Character Artist</a></b>
-QLOC · Warschau, Polen
-<i>Spannend für Character-Art; prüfen, ob Remote aus DACH machbar ist.</i>
+🟡 <b><a href="https://hitmarker.net/jobs/paradox-interactive-3d-artist-5155304">3D Artist</a></b>
+Paradox Interactive · Tampere, Finnland
+<i>Renommierte Game-3D-Rolle; deine Modelling- und Asset-Skills passen top.</i>
 
-🟡 <b><a href="https://hitmarker.net/jobs/sega-technical-artist-5142108">Technical Artist</a></b>
-SEGA · Farnham, UK
-<i>Tech-Art bei SEGA; fachlich top, bedingt allerdings Arbeitsort in UK.</i>
+🟡 <b><a href="https://hitmarker.net/jobs/studio-wildcard-jr-prop-artist-5160712">Jr Prop Artist</a></b>
+Studio Wildcard · Bellevue, USA
+<i>Junior-Level für Prop- und Asset-Creation – ideal für Unreal-Engine-Art.</i>
+
+🟡 <b><a href="https://www.workwithindies.com/careers/torpor-games-ui-ux-designer-m-f-d">UI/UX Designer</a></b>
+Torpor Games · Berlin, Deutschland
+<i>Spannendes Indie-Studio; verknüpft 2D-Design mit Game-Entwicklung.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 

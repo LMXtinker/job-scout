@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-08T09:21:57+00:00",
- "candidates": 23,
- "scheduled_day": "2026-10-08",
- "model": "gemini-3.7-flash",
- "picked": 6,
+ "generated": "2026-10-09T09:27:37+00:00",
+ "candidates": 30,
+ "scheduled_day": "2026-10-09",
+ "model": "gemini-3.8-flash",
+ "picked": 7,
  "messages": 1,
  "tokens": {
-  "prompt": 4046,
-  "output": 371,
-  "thoughts": 2209,
-  "total": 6626
+  "prompt": 4872,
+  "output": 455,
+  "thoughts": 3619,
+  "total": 8946
  }
 }
