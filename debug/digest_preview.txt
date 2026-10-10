@@ -1,42 +1,74 @@
-<b>🎯 Job-Update · 09.10.</b>
-7 neue passende Stellen (0 × sehr passend 🟢)
-<i>aus 30 neuen Anzeigen</i>
+<b>🎯 Job-Update · 10.10.</b>
+15 neue passende Stellen (1 × sehr passend 🟢)
+<i>aus 48 neuen Anzeigen</i>
 
-💬 <i>Internationale Studios wie Embark oder Paradox schätzen saubere Workflows: Zeig im Showreel deine Texturierungs- und High-to-Low-Poly-Pipelines, um sofort aufzufallen!</i>
+💬 <i>Die Remote-Stelle bei Half Mermaid ist wie für dich gemacht! Zeig bei Bewerbungen für narrative Indie-Games, wie deine Environment-Art Atmosphären lebendig macht. 🌟</i>
 
-<b>📍 Wien</b>  ·  1
+<b>🌍 Remote</b>  ·  1
 
-🟡 <b><a href="https://www.karriere.at/jobs/10035225">Specialist Graphic Design &amp; Artwork Management</a></b>
-MAM Baby · Wien, Österreich
-<i>Grafik- und Layout-Rolle in Wien; nutzt deine 2D- und Design-Kompetenzen.</i>
+🟢 <b><a href="https://remotegamejobs.com/jobs/half-mermaid-productions-environment-artist-remote-job">Environment Artist</a></b>
+Half Mermaid Productions · Remote (Europa)
+<i>Perfekter Match für Mid-Level Environment Art im Indie-Bereich.</i>
 
-<b>🇦🇹 Österreich</b>  ·  2
+<b>✈️ Ausland</b>  ·  14
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/grafiker-in-m-w-d-at-wineworlds-4477612381">Grafiker:in</a></b>
-Wineworlds · Eisenstadt-Umgebung, Burgenland, Österreich
-<i>Kreative Grafik- und Gestaltungsrolle in Reichweite von Wien.</i>
-
-🟡 <b><a href="https://www.karriere.at/jobs/7891690">Graphic Designer</a></b>
-XAL · Graz, Österreich
-<i>Grafik- und Visuelle Gestaltung mit Homeoffice-Option in Österreich.</i>
-
-<b>✈️ Ausland</b>  ·  4
-
-🟡 <b><a href="https://hitmarker.net/jobs/embark-studios-3d-artist-5163045">3D Artist</a></b>
+🟡 <b><a href="https://se.linkedin.com/jobs/view/3d-artist-at-embark-studios-4475942791">3D Artist</a></b>
 Embark Studios · Stockholm, Schweden
-<i>Embark nutzt topaktuelle Realtime-Pipelines – ideal für 3D- &amp; Tech-Art.</i>
+<i>Renommiertes Studio für High-End-3D; passt zu deinem Realtime-Fokus.</i>
 
-🟡 <b><a href="https://hitmarker.net/jobs/paradox-interactive-3d-artist-5155304">3D Artist</a></b>
-Paradox Interactive · Tampere, Finnland
-<i>Renommierte Game-3D-Rolle; deine Modelling- und Asset-Skills passen top.</i>
+🟡 <b><a href="https://nl.linkedin.com/jobs/view/3d-artist-at-fooh-com-4477683005">3D Artist</a></b>
+FOOH.com · Deventer, Niederlande
+<i>Fokus auf CGI und 3D-Assets für visuelle Effekte und Social-CGI.</i>
 
-🟡 <b><a href="https://hitmarker.net/jobs/studio-wildcard-jr-prop-artist-5160712">Jr Prop Artist</a></b>
-Studio Wildcard · Bellevue, USA
-<i>Junior-Level für Prop- und Asset-Creation – ideal für Unreal-Engine-Art.</i>
+🟡 <b><a href="https://ro.linkedin.com/jobs/view/3d-motion-video-artist-at-gameloft-bucharest-4474767255">3D Motion Video Artist</a></b>
+Gameloft Bucharest · Bukarest, Rumänien
+<i>Gute Schnittstelle aus 3D-Art, Animation und Game-Marketing.</i>
 
-🟡 <b><a href="https://www.workwithindies.com/careers/torpor-games-ui-ux-designer-m-f-d">UI/UX Designer</a></b>
-Torpor Games · Berlin, Deutschland
-<i>Spannendes Indie-Studio; verknüpft 2D-Design mit Game-Entwicklung.</i>
+🟡 <b><a href="https://ro.linkedin.com/jobs/view/3d-visualization-specialist-with-english-language-at-bertrandt-group-4473352379">3D Visualization Specialist</a></b>
+Bertrandt Group · Sibiu, Rumänien
+<i>Passend für 3D-Visualisierung und Rendering-Pipelines.</i>
+
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/cinematic-character-artist-photorealistic-characters-at-luxoft-poland-4477662560">Cinematic Character Artist</a></b>
+Luxoft Poland · Danzig, Polen
+<i>Für fotorealistisches 3D-Character-Design in Realtime/Cinematics.</i>
+
+🟡 <b><a href="https://se.linkedin.com/jobs/view/concept-artist-at-snowprint-studios-4474611752">Concept Artist</a></b>
+Snowprint Studios · Stockholm, Schweden
+<i>Passt gut zu deiner Erfahrung in Concept Art und 2D-Game-Design.</i>
+
+🟡 <b><a href="https://mt.linkedin.com/jobs/view/game-2d-artist-animator-at-white-hat-studios-4475592881">Game 2D Artist &amp; Animator</a></b>
+White Hat Studios · Gzira, Malta
+<i>Nutzt deine 2D-Charakter- und Illustrations-Skills für Spiele.</i>
+
+🟡 <b><a href="https://ro.linkedin.com/jobs/view/game-artist-at-bigwave-4103745791">Game Artist</a></b>
+BIGWAVE · Cluj-Napoca, Rumänien
+<i>Allround-Rolle für 2D- und 3D-Game-Assets.</i>
+
+🟡 <b><a href="https://bg.linkedin.com/jobs/view/game-artist-at-aristocrat-4475779755">Game Artist</a></b>
+Aristocrat · Sofia, Bulgarien
+<i>Game-Art-Generalistenstelle für digitale Spielproduktionen.</i>
+
+🟡 <b><a href="https://bg.linkedin.com/jobs/view/game-artist-at-playtech-4477812197">Game Artist</a></b>
+Playtech · Sofia, Bulgarien
+<i>Erstellung von visuellen Assets für Gaming-Plattformen.</i>
+
+🟡 <b><a href="https://fr.linkedin.com/jobs/view/game-artist-sand-loop-at-voodoo-4473785460">Game Artist - Sand Loop</a></b>
+Voodoo · Paris, Frankreich
+<i>Mobile-Games-Studio mit Fokus auf schnelle 3D/2D-Asset-Erstellung.</i>
+
+🟡 <b><a href="https://fr.linkedin.com/jobs/view/infographiste-d%C3%A9veloppeur-3d-f-h-at-l-usine-nouvelle-4475200636">Infographiste développeur 3D</a></b>
+L'Usine Nouvelle · Bourges, Frankreich
+<i>Kombination aus 3D-Visualisierung und technischer Umsetzung.</i>
+
+🟡 <b><a href="https://nl.linkedin.com/jobs/view/technical-artist-at-breda-university-of-applied-sciences-4475115401">Technical Artist</a></b>
+Breda University of Applied Sciences · Breda, Niederlande
+<i>Spannende Tech-Art-Rolle im Hochschulumfeld an einer Top-Game-Uni.</i>
+
+=====
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/technischer-grafiker-m-w-d-f%C3%BCr-3d-visualisierung-und-dokumentation-at-bertrandt-group-4474962560">Technischer Grafiker für 3D-Visualisierung</a></b>
+Bertrandt Group · München, Deutschland
+<i>3D-Visualisierung und technische Aufbereitung im DACH-Raum.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
