@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-10T08:36:45+00:00",
- "jobs": 586,
- "new": 94,
- "recent": 510,
+ "generated": "2026-10-11T09:00:37+00:00",
+ "jobs": 429,
+ "new": 2,
+ "recent": 391,
  "sources": {
   "linkedin-at": {
-   "jobs": 142,
-   "errors": 6
+   "jobs": 128,
+   "errors": 7
   },
   "linkedin-remote-eu": {
-   "jobs": 145,
-   "errors": 17
+   "jobs": 0,
+   "errors": 36
   },
   "karriere.at": {
-   "jobs": 48,
+   "jobs": 49,
    "errors": 0
   },
   "ams-allejobs": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 4,
+   "jobs": 1,
    "errors": 0
   },
   "moon-studios": {
