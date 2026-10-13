@@ -1,268 +1,304 @@
 {
- "generated": "2026-10-12T09:21:44+00:00",
- "count": 32,
+ "generated": "2026-10-13T09:31:58+00:00",
+ "count": 34,
  "jobs": [
   {
-   "title": "(Junior) Frontend Developer with UI/UX Focus (m/w/x)",
-   "company": "BOC Group",
-   "location": "Wien, Wien, Österreich",
-   "posted": "2026-10-12",
-   "url": "https://at.linkedin.com/jobs/view/junior-frontend-developer-with-ui-ux-focus-m-w-x-at-boc-group-4478381627",
+   "title": "Technical Consultant Digital Analytics (Junior) - m/w/d - Vienna",
+   "company": "mohrstade",
+   "location": "Breitenfurt bei Wien, Niederösterreich, Österreich",
+   "posted": "2026-10-13",
+   "url": "https://at.linkedin.com/jobs/view/technical-consultant-digital-analytics-junior-m-w-d-vienna-at-mohrstade-4476068789",
    "source": "linkedin-at",
    "keyword": "Technical Artist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "SENIOR ART DIRECTOR (W/M/D)",
-   "company": "CAKE Group",
+   "title": "Managing Director Austria & CEE (m/f/d)",
+   "company": "EO Executives Austria",
+   "location": "Wien, Österreich",
+   "posted": "2026-10-12",
+   "url": "https://at.linkedin.com/jobs/view/managing-director-austria-cee-m-f-d-at-eo-executives-austria-4475694295",
+   "source": "linkedin-at",
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Werkstudent im Bereich Embedded C++ Software Engineering (m/w/d)",
+   "company": "Fronius Österreich",
+   "location": "Hagenberg, Niederösterreich, Österreich",
+   "posted": "2026-10-12",
+   "url": "https://at.linkedin.com/jobs/view/werkstudent-im-bereich-embedded-c%2B%2B-software-engineering-m-w-d-at-fronius-%C3%B6sterreich-4477521308",
+   "source": "linkedin-at",
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Universitätsassistent*in Praedoc",
+   "company": "Universität Wien",
    "location": "Wien, Wien, Österreich",
-   "posted": "2026-10-09",
-   "url": "https://at.linkedin.com/jobs/view/senior-art-director-w-m-d-at-cake-group-4475214238",
+   "posted": "2026-10-11",
+   "url": "https://at.linkedin.com/jobs/view/universit%C3%A4tsassistent-in-praedoc-at-university-of-vienna-4475670455",
+   "source": "linkedin-at",
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Multimedia Designer – E-commerce",
+   "company": "Jobgether",
+   "location": "Österreich",
+   "posted": "2026-10-13",
+   "url": "https://at.linkedin.com/jobs/view/multimedia-designer-%E2%80%93-e-commerce-at-jobgether-4477976292",
    "source": "linkedin-at",
    "keyword": "Concept Artist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Marketing Mitarbeiter (w/m/d) - Teilzeit 15 Stunden.",
+   "company": "Helvetia Versicherungen Österreich",
+   "location": "Wien, Wien, Österreich",
+   "posted": "2026-10-05",
+   "url": "https://at.linkedin.com/jobs/view/marketing-mitarbeiter-w-m-d-teilzeit-15-stunden-at-helvetia-insurance-austria-4475567730",
+   "source": "linkedin-at",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Social Media/Online-Marketingmanager (m/w/d) Vollzeit 38,5 h",
+   "company": "Star Agro",
+   "location": "Allerheiligen bei Wildon, Steiermark, Österreich",
+   "posted": "2026-10-05",
+   "url": "https://at.linkedin.com/jobs/view/social-media-online-marketingmanager-m-w-d-vollzeit-38-5-h-at-star-agro-4473640066",
+   "source": "linkedin-at",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Retail Experience Lead (m/w/d)",
+   "company": "A1 Telekom Austria AG",
+   "location": "Wien, Wien, Österreich",
+   "posted": "2026-10-06",
+   "url": "https://at.linkedin.com/jobs/view/retail-experience-lead-m-w-d-at-a1-telekom-austria-ag-4474064834",
+   "source": "linkedin-at",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "BIM-Modeller:in",
+   "company": "ILF Consulting Engineers in Austria",
+   "location": "Tirol, Österreich",
+   "posted": "2026-10-01",
+   "url": "https://at.linkedin.com/jobs/view/bim-modeller-in-at-ilf-consulting-engineers-in-austria-4282209831",
+   "source": "linkedin-at",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Full-Stack AI/ML Engineer",
+   "company": "Waterglass.ai",
+   "location": "Wien, Wien, Österreich",
+   "posted": "2026-10-12",
+   "url": "https://at.linkedin.com/jobs/view/full-stack-ai-ml-engineer-at-waterglass-4476013639",
+   "source": "linkedin-at",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "ERASMUS Product-Internship 2026/27",
+   "company": "People Recruitment Tools Europe | people.tools",
+   "location": "Wien, Wien, Österreich",
+   "posted": "2026-10-01",
+   "url": "https://at.linkedin.com/jobs/view/erasmus-product-internship-2026-27-at-people-recruitment-tools-europe-4472917952",
+   "source": "linkedin-at",
+   "keyword": "Game Design",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Studentische Anstellung im Bereich Entwicklung in der Eisenbahninfrastruktur (w/m/d) - 20 Stunden",
+   "company": "Knorr-Bremse",
+   "location": "Mödling, Niederösterreich, Österreich",
+   "posted": "2026-10-07",
+   "url": "https://at.linkedin.com/jobs/view/studentische-anstellung-im-bereich-entwicklung-in-der-eisenbahninfrastruktur-w-m-d-20-stunden-at-knorr-bremse-ag-4475437275",
+   "source": "linkedin-at",
+   "keyword": "Game Design",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Produktmanager (m/w/d) für Kletter- und Lifestylebekleidung",
+   "company": "Chillaz International GmbH",
+   "location": "Vomp, Tirol, Österreich",
+   "posted": "2026-10-02",
+   "url": "https://at.linkedin.com/jobs/view/produktmanager-m-w-d-f%C3%BCr-kletter-und-lifestylebekleidung-at-chillaz-international-gmbh-4474583927",
+   "source": "linkedin-at",
+   "keyword": "Game Design",
+   "first_seen": "2026-10-13"
   },
   {
    "title": "Lehrling Einrichtungsberater (m/w/d)",
-   "snippet": "Einblicke Videos Lehrling Einrichtungsberater (m/w/d) XXXLutz KG Heute veröffentlicht Mistelbach Lehre 1.026 € monatlich Planung von Wohnideen mit 3D-Software, Kundenberatung und Entwicklung individueller Lösungen. Erforderlich: Freude am Umgang mit Menschen. Bietet: Karrierechancen nach der Lehre und Prämien bei guter Leistung. Mehr anzeigen Merken",
-   "url": "https://www.karriere.at/jobs/7892263",
+   "snippet": "Einblicke Videos Lehrling Einrichtungsberater (m/w/d) XXXLutz KG Heute veröffentlicht Lieboch Lehre 1.026 € monatlich Planung von Wohnideen mit 3D-Software, Kundenberatung und Entwicklung individueller Lösungen. Freude am Umgang mit Menschen ist erforderlich. Bietet Lehre mit moderner Technik und Karrierechancen. Mehr anzeigen Merken",
+   "url": "https://www.karriere.at/jobs/7893595",
    "source": "karriere.at",
    "keyword": "3D Designer",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Wintersaison - Kids & Family Entertainer / Animateur (m/w/d)",
-   "snippet": "Wintersaison - Kids & Family Entertainer / Animateur (m/w/d) Lisi Family Hotel Kitzbühel",
-   "url": "https://www.stepstone.at/stellenangebote--Wintersaison-Kids-Family-Entertainer-Animateur-m-w-d-Kitzbuehel-Lisi-Family-Hotel--1007874-inline.html",
+   "title": "Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div)",
+   "snippet": "Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div) Infineon Technologies Austria AG Gestern veröffentlicht Villach Vollzeit, Teilzeit Studenten der Elektronik unterstützen die Halbleiter-Validierung. Erfahrung mit Mixed-Signal, RF, mmWave und Messgeräten (Oszilloskop, Spektrumanalysator) ist erforderlich. Matlab-Kenntnisse sind ein Plus. Möglichkeit zur ",
+   "url": "https://www.karriere.at/jobs/7893160",
+   "source": "karriere.at",
+   "keyword": "Game Design",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Teamleitung Grafik (m/w/d)",
+   "snippet": "Teamleitung Grafik (m/w/d) bei Geschützte Werkstätten - Integrative Betriebe Salzburg GmbH Unternehmen: Geschützte Werkstätten - Integrative Betriebe Salzburg GmbH Arbeitsort: 5671, Bruck an der Großglocknerstraße Bruck a. d. Glocknerstraße/ Vollzeit Bei uns entstehen Souvenirs, die mehr sind als Deko im Regal – sie sind kleine Botschafter unserer Region. Als Teamleitung Grafik führst du ein Team,",
+   "url": "https://jobs.ams.at/public/emps/jobs/17a1c78e-1b2d-3430-a7b3-5cd9241221f2",
+   "source": "ams-allejobs",
+   "keyword": "Illustrator",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Jungtechniker:in für 3D Anlagen- und Rohrleitungsplanung",
+   "snippet": "Jungtechniker:in für 3D Anlagen- und Rohrleitungsplanung bei ZAUNERGROUP Holding GmbH Unternehmen: ZAUNERGROUP Holding GmbH Arbeitsort: 4702, Wallern an der Trattnach Vollzeit | Wallern an der Trattnach Aufgaben -) Mitarbeit bei der 3D-Anlagen- und Rohrleitungsplanung für Industrieanlagen -) Erstellung und Bearbeitung von Anlagen-, Aufstellungs- und Rohrleitungsplänen -) Unterstützung bei der Erst",
+   "url": "https://jobs.ams.at/public/emps/jobs/27f161c3-d216-3a38-a5bf-f479ccbf33ab",
+   "source": "ams-allejobs",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Zerspanungstechnik Experte Dreherei (m/w/d)",
+   "snippet": "Zerspanungstechnik Experte Dreherei (m/w/d) RO-RA Aviation Systems GmbH Schörfling am Attersee Erfahrung im Umgang mit 3D-Koordinatenmessmaschinen von Vorteil vor 1 Tag",
+   "url": "https://www.stepstone.at/stellenangebote--Zerspanungstechnik-Experte-Dreherei-m-w-d-Schoerfling-am-Attersee-RO-RA-Aviation-Systems-GmbH--1005948-inline.html",
    "source": "stepstone",
-   "keyword": "Environment Artist",
-   "first_seen": "2026-10-12"
+   "keyword": "3D Artist",
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Technical Writer (all genders)",
-   "snippet": "Technical Writer (all genders) Lam Research Villach",
-   "url": "https://www.stepstone.at/stellenangebote--Technical-Writer-all-genders-Villach-Lam-Research--1007496-inline.html",
+   "title": "Radiologietechnologin/Radiologietechnologe im Herzkatheterlabor (m/w/x)",
+   "snippet": "Radiologietechnologin/Radiologietechnologe im Herzkatheterlabor (m/w/x) Kepler Universitätsklinikum GmbH Linz Bedienung der biplanen Durchleuchtungsanlagen und 3D Mapping Systeme inklusive Stimulator vor 2 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Radiologietechnologin-Radiologietechnologe-im-Herzkatheterlabor-m-w-x-Linz-Kepler-Universitaetsklinikum-GmbH--1008097-inline.html",
    "source": "stepstone",
-   "keyword": "Technical Artist",
-   "first_seen": "2026-10-12"
+   "keyword": "3D Artist",
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Technical Content Specialist (m/w/d) I Standort: Frohnleiten",
-   "snippet": "Technical Content Specialist (m/w/d) I Standort: Frohnleiten APS Group Frohnleiten Technical Content Specialist (m/w/d) vor 3 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Technical-Content-Specialist-m-w-d-I-Standort-Frohnleiten-Frohnleiten-APS-Group--1007369-inline.html",
-   "source": "stepstone",
-   "keyword": "Technical Artist",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Technical Sales Manager B2B (m/w/d)",
-   "snippet": "Technical Sales Manager B2B (m/w/d) Hill Woltron Management Partner GmbH Österreich, Norditalien oder Schweiz",
-   "url": "https://www.stepstone.at/stellenangebote--Technical-Sales-Manager-B2B-m-w-d-Oesterreich-Norditalien-oder-Schweiz-Hill-Woltron-Management-Partner-GmbH--1007364-inline.html",
-   "source": "stepstone",
-   "keyword": "Technical Artist",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Technical Program Manager - Engineering (all genders)",
-   "snippet": "Technical Program Manager - Engineering (all genders) Lam Research Villach 6+ years of continuous improvement or technical program management or related experience in a similar function mehr vor 5 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Technical-Program-Manager-Engineering-all-genders-Villach-Lam-Research--1007071-inline.html",
-   "source": "stepstone",
-   "keyword": "Technical Artist",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Senior Frontend Developer (w/m/d)",
-   "snippet": "Senior Frontend Developer (w/m/d) Fabasoft International Services GmbH Linz Teilweise Home-Office Du entwickelst unsere eigene UI Engine kontinuierlich weiter und schaffst damit die technologische Grundlage für die moderne und leistungsfähige Benutzeroberfläche der Fabasoft Solutions. mehr vor 1 Tag",
-   "url": "https://www.stepstone.at/stellenangebote--Senior-Frontend-Developer-w-m-d-Linz-Fabasoft-International-Services-GmbH--999404-inline.html",
-   "source": "stepstone",
-   "keyword": "Unreal Engine",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Marketing Manager:in – Public Sector (w/m/d)",
-   "snippet": "Marketing Manager:in – Public Sector (w/m/d) Fabasoft International Services GmbH Wien Du verfügst über Kenntnisse im Bereich Targeting, Content Marketing, Web und Social Media Marketing (z.B.: LinkedIn) sowie Search Engine Marketing. mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Marketing-Manager-in-Public-Sector-w-m-d-Wien-Fabasoft-International-Services-GmbH--1007829-inline.html",
+   "title": "Performance Marketing / Marketing Operations Manager (m/w/d)",
+   "snippet": "Performance Marketing / Marketing Operations Manager (m/w/d) SIMStation GmbH Vienna Teilweise Home-Office Schnelle Bewerbung Wir suchen eine zahlenorientierte, agile Persönlichkeit, die unsere Marketing-Inhalte in einen skalierbaren Pipeline-Engine verwandelt. mehr vor 1 Woche",
+   "url": "https://www.stepstone.at/stellenangebote--Performance-Marketing-Marketing-Operations-Manager-m-w-d-Vienna-SIMStation-GmbH--1002915-inline.html",
    "source": "stepstone",
    "keyword": "Unreal Engine",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Online Data Analyst - German speakers in Austria",
-   "snippet": "Online Data Analyst - German speakers in Austria Telus Digital Salzburg Research information using online maps, search engines, directories, and reliable sources vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Online-Data-Analyst-German-speakers-in-Austria-Salzburg-Telus-Digital--1007615-inline.html",
-   "source": "stepstone",
-   "keyword": "Unreal Engine",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Digital Marketing Manager:in Fundraising – Karenzvertretung (w/m/d)",
-   "snippet": "Digital Marketing Manager:in Fundraising – Karenzvertretung (w/m/d) St. Anna Kinderkrebsforschung Wien Sie planen, entwickeln und steuern Digital-Fundraising-Kampagnen – von der Idee über die Umsetzung bis zur Auswertung, unter anderem über Social Media, Newsletter und Search Engine Marketing (SEM). mehr vor 4 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Digital-Marketing-Manager-in-Fundraising-Karenzvertretung-w-m-d-Wien-St-Anna-Kinderkrebsforschung--1007362-inline.html",
-   "source": "stepstone",
-   "keyword": "Unreal Engine",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "IT-SUPPORTTECHNIKER (m/w/d) bei eurofunk Kappacher GmbH",
-   "snippet": "IT-SUPPORTTECHNIKER (m/w/d) bei eurofunk Kappacher GmbH eurofunk KAPPACHER GmbH St. Johann im Pongau Teilweise Home-Office Zone und Game. vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--IT-SUPPORTTECHNIKER-m-w-d-bei-eurofunk-Kappacher-GmbH-St-Johann-im-Pongau-eurofunk-KAPPACHER-GmbH--1007814-inline.html",
-   "source": "stepstone",
-   "keyword": "Game Artist",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Social Media Manager (m/w/d)",
-   "snippet": "Social Media Manager (m/w/d) NCA NEW CONCEPT AGENTUR GMBH Wien Teilweise Home-Office Schnelle Bewerbung NCA NEW CONCEPT AGENTUR GMBH - Die New Concept Agentur entwickelt zukunftsweisende Marketing- und Vertriebskonzepte für Juweliere und Fachhändler in der Uhren- und Schmuckbranche. mehr vor 4 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Social-Media-Manager-m-w-d-Wien-NCA-NEW-CONCEPT-AGENTUR-GMBH--1007332-inline.html",
+   "title": "Faso Merchandiser im Aussendienst Shop Concept Planer (m/w/d)",
+   "snippet": "Faso Merchandiser im Aussendienst Shop Concept Planer (m/w/d) XXXLutz KG Wels",
+   "url": "https://www.stepstone.at/stellenangebote--Faso-Merchandiser-im-Aussendienst-Shop-Concept-Planer-m-w-d-Wels-XXXLutz-KG--1006050-inline.html",
    "source": "stepstone",
    "keyword": "Concept Artist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Pfilchtpraktikum: Reiterhof (m/w/d)",
-   "snippet": "Pfilchtpraktikum: Reiterhof (m/w/d) Familien Natur Resort Moar Gut Großarl Genieße exklusive Rabatte auf Reitkurse, Spa-Erlebnisse, Restaurantbesuche und Lieblingsstücke aus dem Moar Gut Concept Store. mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Pfilchtpraktikum-Reiterhof-m-w-d-Grossarl-Familien-Natur-Resort-Moar-Gut--1007765-inline.html",
+   "title": "Sales Agent (m/w/d) B2B-Vertrieb",
+   "snippet": "Sales Agent (m/w/d) B2B-Vertrieb NCA NEW CONCEPT AGENTUR GMBH Wien Teilweise Home-Office Schnelle Bewerbung NCA NEW CONCEPT AGENTUR GMBH - Die NCA New Concept Agentur GmbH entwickelt innovative Marketing- und Vertriebskonzepte für Juweliere und Fachhändler aus der Uhren- und Schmuckbranche. mehr vor 5 Tagen",
+   "url": "https://www.stepstone.at/stellenangebote--Sales-Agent-m-w-d-B2B-Vertrieb-Wien-NCA-NEW-CONCEPT-AGENTUR-GMBH--1001390-inline.html",
    "source": "stepstone",
    "keyword": "Concept Artist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Sales Advisor (m/w/d) Wien",
-   "snippet": "Sales Advisor (m/w/d) Wien globe personal services GmbH Wien Philip Morris Talent Sourcing Concept vor 3 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Sales-Advisor-m-w-d-Wien-Wien-globe-personal-services-GmbH--1001451-inline.html",
+   "title": "AR-Specialist (w/m/d)",
+   "snippet": "AR-Specialist (w/m/d) greatgate gmbh Oberösterreich You won't simply be working on concepts or presentations. vor 19 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--AR-Specialist-w-m-d-Oberoesterreich-greatgate-gmbh--1008039-inline.html",
    "source": "stepstone",
    "keyword": "Concept Artist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Chef de Partie (m/w/d) Koch",
-   "snippet": "Chef de Partie (m/w/d) Koch Günter - Grape Hospitality OpCo GmbH Wien On the other hand, the group is developing its catering business by creating innovative concepts and integrating commercial brands within its hotels. mehr vor 4 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Chef-de-Partie-m-w-d-Koch-Wien-Guenter-Grape-Hospitality-OpCo-GmbH--1007228-inline.html",
+   "title": "Elektrotechniker (m/w/d) - Montage & Inbetriebnahme",
+   "snippet": "Elektrotechniker (m/w/d) - Montage & Inbetriebnahme CampConcept AT e.U. Paternion Schnelle Bewerbung CampConcept AT e.U. CampConcept plant und realisiert technische Infrastruktur für Camping- und Reisemobilstellplätze im gesamten DACH-Raum. mehr vor 32 Minuten NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Elektrotechniker-m-w-d-Montage-Inbetriebnahme-Paternion-CampConcept-AT-e-U--974490-inline.html",
    "source": "stepstone",
    "keyword": "Concept Artist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
    "title": "Junior Sales & Projects Specialist - l'atelier (m/f/d)",
-   "snippet": "Junior Sales & Projects Specialist - l'atelier (m/f/d) paper republic GmbH You've great drawing and visualization skills and can translate customer ideas into a clear and visual concept mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Junior-Sales-Projects-Specialist-latelier-m-f-d-paper-republic-GmbH--1007803-inline.html",
+   "snippet": "Junior Sales & Projects Specialist - l'atelier (m/f/d) paper republic GmbH Wien Teilweise Home-Office You've great drawing and visualization skills and can translate customer ideas into a clear and visual concept mehr vor 3 Tagen",
+   "url": "https://www.stepstone.at/stellenangebote--Junior-Sales-Projects-Specialist-latelier-m-f-d-Wien-paper-republic-GmbH--1007803-inline.html",
    "source": "stepstone",
    "keyword": "Concept Artist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Kosmetiker/in / Fußpfleger/in bei Vivea Hotel - Bad Traunstein",
-   "snippet": "Kosmetiker/in / Fußpfleger/in bei Vivea Hotel - Bad Traunstein ROLLING PIN Media GmbH Graz Förderung von individuellen Aus- und Weiterbildungen (z.B. Elektrotherapie, Mulligan Concept, Faszien Yoga, Nordic Walking Instructor und vieles mehr) mehr vor 4 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Kosmetiker-in-Fusspfleger-in-bei-Vivea-Hotel-Bad-Traunstein-Graz-ROLLING-PIN-Media-GmbH--1007184-inline.html",
-   "source": "stepstone",
-   "keyword": "Concept Artist",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Human Resources Generalist:in mit Schwerpunkt Recruiting (m/w/d)",
-   "snippet": "Human Resources Generalist:in mit Schwerpunkt Recruiting (m/w/d) ISG Personalmanagement GmbH Wien Teilweise Home-Office Human Resources Generalist:in - Wir bieten Ihnen eine vielfältige und interessante Herausforderung suchen Sie als Verstärkung für das Team in Bereich Human Resources als Human-Resources-Generalist:in mit Schwerpunkt Recruiting (m/w/d) mehr vor 3 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Human-Resources-Generalist-in-mit-Schwerpunkt-Recruiting-m-w-d-Wien-ISG-Personalmanagement-GmbH--1007378-inline.html",
+   "title": "Generalist (m/w/d) Customer Success // Customer Support (German Speaking)",
+   "snippet": "Generalist (m/w/d) Customer Success // Customer Support (German Speaking) reebuild GmbH Vienna Teilweise Home-Office Schnelle Bewerbung Als Junior Customer Success Generalist:in bei reebuild bist du die zentrale Anlaufstelle für unsere B2B-Kund:innen – Bauunternehmen und Projektentwickler:innen. Werde als Junior Customer Success Generalist:in Teil unseres revolutionierenden Teams! mehr vor 2 Stund",
+   "url": "https://www.stepstone.at/stellenangebote--Generalist-m-w-d-Customer-Success-Customer-Support-German-Speaking-Vienna-reebuild-GmbH--1008109-inline.html",
    "source": "stepstone",
    "keyword": "3D Generalist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "HR-Generalist:in mit Schwerpunkt Personaladministration (m/w/d)",
-   "snippet": "HR-Generalist:in mit Schwerpunkt Personaladministration (m/w/d) Medizinische Universität Wien Wien Das Personalmanagement sucht ab sofort, in Vollzeit (40 Wochenstunden) und unbefristet eine:n HR-Generalist:in mit Schwerpunkt Personaladministration (m/w/d). mehr vor 5 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--HR-Generalist-in-mit-Schwerpunkt-Personaladministration-m-w-d-Wien-Medizinische-Universitaet-Wien--1006764-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Generalist",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "HR-Manager*in (m/w/d)",
-   "snippet": "HR-Manager*in (m/w/d) Seher + Partner OG Bezirk Kirchdorf Teilweise Home-Office Mindestens 2 Jahre einschlägige Berufserfahrung in einer vergleichbaren HR-Generalisten-, HR-Manager- oder HR-Business-Partner-Funktion * Vielseitige Generalistenrolle mit Gestaltungsspielraum und direkter Zusammenarbeit mit mehr vor 5 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--HR-Managerin-m-w-d-Bezirk-Kirchdorf-Seher-Partner-OG--1006988-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Generalist",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Stock Production Member (m/f/d)",
-   "snippet": "Stock Production Member (m/f/d) paper republic GmbH Wien Based in the heart of the 9th district in Vienna, paper republic HQ spread over 1000sqm, bringing together production, warehouse, office and shop in the first district, making it a unique, fun, and beautiful place to work. * You'll assist us in the production, finishing, and quality control of our leather products * You'll support us in the ",
-   "url": "https://www.stepstone.at/stellenangebote--Stock-Production-Member-m-f-d-Wien-paper-republic-GmbH--1007291-inline.html",
+   "title": "Produktion in 3 Schichten (m/w/d)",
+   "snippet": "Produktion in 3 Schichten (m/w/d) staff24 Personalservice GmbH Linz",
+   "url": "https://www.stepstone.at/stellenangebote--Produktion-in-3-Schichten-m-w-d-Linz-staff24-Personalservice-GmbH--1007968-inline.html",
    "source": "stepstone",
    "keyword": "Virtual Production",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Production Planning Specialist (m/f/d)",
-   "snippet": "Production Planning Specialist (m/f/d) paper republic GmbH Production Planning Teilweise Home-Office",
-   "url": "https://www.stepstone.at/stellenangebote--Production-Planning-Specialist-m-f-d-Production-Planning-paper-republic-GmbH--1002175-inline.html",
+   "title": "Samstagskraft Produktion (m/w/d)",
+   "snippet": "Samstagskraft Produktion (m/w/d) TRANSFER Personalmanagement Wolfurt",
+   "url": "https://www.stepstone.at/stellenangebote--Samstagskraft-Produktion-m-w-d-Wolfurt-TRANSFER-Personalmanagement--1007980-inline.html",
    "source": "stepstone",
    "keyword": "Virtual Production",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Mitarbeiter Produktion im Wurst- und Fleischbereich (m/w/d)",
-   "snippet": "Mitarbeiter Produktion im Wurst- und Fleischbereich (m/w/d) SONNBERG BIOFLEISCH GmbH Unterweißenbach",
-   "url": "https://www.stepstone.at/stellenangebote--Mitarbeiter-Produktion-im-Wurst-und-Fleischbereich-m-w-d-Unterweissenbach-SONNBERG-BIOFLEISCH-GmbH--1007895-inline.html",
-   "source": "stepstone",
-   "keyword": "Virtual Production",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Konstrukteur/in (w/m/x)",
-   "snippet": "Konstrukteur/in (w/m/x) mbs engineering GmbH Bezirk Wr. Neustadt Wir bieten Ihnen ein Bruttomindestgehalt ab 3.808,83 € pro Monat. vor 3 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Konstrukteur-in-w-m-x-Bezirk-Wr-Neustadt-mbs-engineering-GmbH--1007545-inline.html",
+   "title": "Developer (m/w/d) (Frontend / Backend / Full Stack) (German Speaking)",
+   "snippet": "Developer (m/w/d) (Frontend / Backend / Full Stack) (German Speaking) reebuild GmbH Vienna Teilweise Home-Office Schnelle Bewerbung Nur Vollzeit – Standort Wien (AT), 3. vor 2 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Developer-m-w-d-Frontend-Backend-Full-Stack-German-Speaking-Vienna-reebuild-GmbH--1008107-inline.html",
    "source": "stepstone",
    "keyword": "3D Designer",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Automatisierungstechniker*in - Fokus: Gleichstromversorgungsanlagen",
-   "snippet": "Automatisierungstechniker*in - Fokus: Gleichstromversorgungsanlagen LINZ AG Linz Erste einschlägige Berufserfahrung (mind. 3 Jahre) im Bereich der Automatisierung (vorzugsweise SPS-Programmierung) Das Bruttogehalt liegt für Vollzeit bei EUR 3.633,14 monatlich mit Bereitschaft zur Überzahlung bei entsprechender Qualifikation und beruflicher Erfahrung. mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Automatisierungstechnikerin-Fokus-Gleichstromversorgungsanlagen-Linz-LINZ-AG--1007633-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Designer",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Anlagenplaner – Mechanical Engineer (m/w/d) – Vollzeit",
-   "snippet": "Anlagenplaner – Mechanical Engineer (m/w/d) – Vollzeit Fb Industry Automation GmbH Gleisdorf Attraktives Gehalt (KV-Monatsgehalt 2026) ab € 3.654,05 brutto/Monat bei Vollzeit für 2 Jahre Berufserfahrung. mehr vor 3 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Anlagenplaner-Mechanical-Engineer-m-w-d-Vollzeit-Gleisdorf-Fb-Industry-Automation-GmbH--962199-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Designer",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Full-Stack Developer",
-   "snippet": "Full-Stack Developer KSV1870 Gruppe Linz • Mindestens 3 Jahre Erfahrung in der Softwareentwicklung - Für die ausgeschriebene Position gilt ein Mindestgrundgehalt von 3.267,00 Euro brutto pro Monat in der Tätigkeitsfamilie IT-KV ST1 Einstiegsstufe bei Vollzeitanstellung. mehr vor 4 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Full-Stack-Developer-Linz-KSV1870-Gruppe--1007330-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Designer",
-   "first_seen": "2026-10-12"
-  },
-  {
-   "title": "Marketing & Graphic Design Allrounder (m/w/d)",
-   "snippet": "Marketing & Graphic Design Allrounder (m/w/d) job-point Gumpoldskirchen Schnelle Bewerbung Zur Erweiterung seines seit dem Jahr 2006 stets gesund wachsenden Teams suchen wir aktuell eine/n Marketing & Graphic Design Allrounder. * Grafik & Design: Sie gestalten u.a. ansprechende Werbemittel, Social-Media-Assets, Präsentationen, Flyer, Produktdatenblätter oder Website-Elemente im Einklang mit der Un",
-   "url": "https://www.stepstone.at/stellenangebote--Marketing-Graphic-Design-Allrounder-m-w-d-Gumpoldskirchen-job-point--1007171-inline.html",
-   "source": "stepstone",
-   "keyword": "Game Design",
-   "first_seen": "2026-10-12"
+   "title": "Principal 3D Environment Artist - Unpublished R&D Product",
+   "snippet": "R Riot Games Principal 3D Environment Artist - Unpublished R&D Product Los Angeles, CA, USA · 3D Full Time 12 hours ago",
+   "url": "https://hitmarker.net/jobs/riot-games-principal-3d-environment-artist-unpublished-r-d-product-5200755",
+   "source": "hitmarker",
+   "keyword": "Environment Artist",
+   "first_seen": "2026-10-13"
   },
   {
    "title": "3D Generalist",
-   "snippet": "L Lakshya Digital 3D Generalist Gurugram, HR, India +4 · 3D Contract 5 hours ago",
-   "url": "https://hitmarker.net/jobs/lakshya-digital-3d-generalist-5185764",
+   "snippet": "R Reality Games 3D Generalist El Realito, TAM, Mexico · 3D Full Time 1 year ago",
+   "url": "https://hitmarker.net/jobs/reality-games-3d-generalist-5187603",
    "source": "hitmarker",
    "keyword": "3D Generalist",
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
   },
   {
-   "title": "Decorative Accessories/Home Decor Designer - home decor brand - 100% remote - part-/full time",
-   "company": "Time to hire",
-   "location": "Remote – Marktbreit",
-   "posted": "2026-10-12",
-   "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/decorative-accessories-home-decor-designer-home-decor-brand-100-remote-part-full-time-marktbreit-474132",
-   "source": "arbeitnow",
-   "snippet": "We’re looking for a talented Interior Designer with a strong product and decor mindset to join Noro Arts (https://noro-arts.com/en-eu), an established direct-to-consumer home decor brand, on a long-term basis. Noro Arts creates distinctive wooden home decor for customers primarily in the US, with a ",
-   "first_seen": "2026-10-12"
+   "title": "Fallen Tree Games is hiring a Mid-Level 3D Artist (Environment Generalist) to join their team in the United Kingdom Learn More",
+   "snippet": "Fallen Tree Games is hiring a Mid-Level 3D Artist (Environment Generalist) to join their team in the United Kingdom Learn More",
+   "url": "https://www.workwithindies.com/careers/fallen-tree-games-mid-level-3d-artist-environment-generalist",
+   "source": "workwithindies",
+   "keyword": "",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Folded Reality is hiring a Game Designer to join their team in UTC +3 Learn More",
+   "snippet": "Folded Reality is hiring a Game Designer to join their team in UTC +3 Learn More",
+   "url": "https://www.workwithindies.com/careers/folded-reality-game-designer",
+   "source": "workwithindies",
+   "keyword": "",
+   "first_seen": "2026-10-13"
+  },
+  {
+   "title": "Spiele-Software-Tester (m/w/x)",
+   "snippet": "Spiele-Software-Tester (m/w/x) Rabcat Computer Graphics GmbH Heute veröffentlicht Wien Vollzeit Homeoffice ab 34.000 € jährlich Testen von HTML5-basierten Online-Games im Gambling-Bereich. Erstellung detaillierter Bug-Reports und Testfälle. Fortgeschrittene Englischkenntnisse sind erforderlich. Bietet Homeoffice und flexible Arbeitszeiten. Mehr anzeigen Merken Sollen wir dir neue Jobs für genau di",
+   "url": "https://www.karriere.at/jobs/10035743",
+   "source": "rabcat",
+   "keyword": "",
+   "first_seen": "2026-10-13"
   }
  ]
 }

@@ -74,25 +74,10 @@
    "title": "Jobangebote Illustrator - alle jobs - die Stellensuche des AMS"
   },
   "https://jobs.ams.at/public/emps/jobs?query=3D+Generalist": {
-   "links": 0,
-   "jobs": 0,
+   "links": 1,
+   "jobs": 1,
    "final_url": "https://jobs.ams.at/public/emps/jobs?query=3D%20Generalist",
-   "title": "Jobangebote 3d generalist - alle jobs - die Stellensuche des AMS",
-   "sample_links": [
-    "https://jobs.ams.at/public/emps/privatsphaere-einstellung",
-    "https://www.ams.at/organisation/ueber-ams/datenschutzbestimmungen",
-    "https://jobs.ams.at/public/emps/",
-    "https://www.ams.at/arbeitsuchende/arbeitslos-was-tun/jobsuche-online-und-mobil/ams-jobsuche-hilfe#einfuehrung-funktionsweise-und-darstellung",
-    "https://www.ams.at/arbeitsuchende/arbeitslos-was-tun/jobsuche-online-und-mobil/ams-jobsuche-hilfe#suchkriterien-filter",
-    "https://www.ams.at/arbeitsuchende/arbeitslos-was-tun/jobsuche-online-und-mobil/ams-jobsuche-hilfe#green-jobs",
-    "https://www.ams.at/arbeitsuchende/arbeitslos-was-tun/jobsuche-online-und-mobil/ams-jobsuche-hilfe",
-    "https://www.ams.at/organisation/kontaktmoeglichkeiten",
-    "https://www.ams.at/",
-    "https://www.ams.at/organisation/ueber-ams/impressum",
-    "https://www.ams.at/organisation/ueber-ams/datenschutzbestimmungen",
-    "https://jobs.ams.at/public/emps/privatsphaere-einstellung",
-    "https://www.ams.at/organisation/ueber-ams/barrierefreiheitserklaerung/barrierefreiheitserklaerung_jobsuche"
-   ]
+   "title": "Jobangebote 3d generalist - alle jobs - die Stellensuche des AMS"
   },
   "https://jobs.ams.at/public/emps/jobs?query=Realtime+Artist": {
    "links": 0,
@@ -116,8 +101,8 @@
    ]
   },
   "https://jobs.ams.at/public/emps/jobs?query=Virtual+Production": {
-   "links": 2,
-   "jobs": 2,
+   "links": 1,
+   "jobs": 1,
    "final_url": "https://jobs.ams.at/public/emps/jobs?query=Virtual%20Production",
    "title": "Jobangebote Virtual production - alle jobs - die Stellensuche des AMS"
   },
