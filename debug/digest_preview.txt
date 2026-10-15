@@ -1,44 +1,48 @@
-<b>🎯 Job-Update · 14.10.</b>
-8 neue passende Stellen (2 × sehr passend 🟢)
-<i>aus 29 neuen Anzeigen</i>
+<b>🎯 Job-Update · 15.10.</b>
+9 neue passende Stellen (4 × sehr passend 🟢)
+<i>aus 43 neuen Anzeigen</i>
 
-💬 <i>Realtime-Capture und Environment Art verschmelzen immer mehr – deine Unreal-Skills sind hier echtes Gold wert. Zeig in kurzen Clips, wie dynamisch du Licht und Kamera beherrschst! 🎬</i>
+💬 <i>Gleich mehrere Remote-Indies suchen heute Allrounder und VFX-Talente: Heb deinen Master in Visual Effects und deine Vielseitigkeit hervor – genau das hebt dich von reinen Spezialisten ab! 🎨</i>
 
-<b>🌍 Remote</b>  ·  3
+<b>🌍 Remote</b>  ·  7
 
-🟢 <b><a href="https://de.linkedin.com/jobs/view/environment-artist-at-techtive-games-4476023670">Environment Artist</a></b>
-Techtive Games · Deutschland
-<i>Perfekter Match für dein UE- und Environment-Profil im Games-Bereich.</i>
+🟢 <b><a href="https://www.workwithindies.com/careers/veelpoot-2d-character-concept-artist">2D Character Concept Artist</a></b>
+Veelpoot · Remote
+<i>Passt perfekt zu deiner Erfahrung im 2D-Charakterdesign und Concept Art.</i>
 
-🟢 <b><a href="https://hitmarker.net/jobs/keywords-studios-mid-level-game-capture-artist-unity-unreal-5212814">Mid-Level Game Capture Artist (Unity / Unreal)</a></b>
-Keywords Studios · Europa (Remote)
-<i>Game Capture in Unreal Engine bei Keywords Studios; passt ideal.</i>
+🟢 <b><a href="https://www.workwithindies.com/careers/veelpoot-3d-generalist">3D Generalist</a></b>
+Veelpoot · Remote
+<i>Direkte Zielrolle – deine breite 3D-Pipeline deckt das gesamte Spektrum ab.</i>
 
-🟡 <b><a href="https://ro.linkedin.com/jobs/view/technical-artist-ai-video-pipeline-at-pixaera-4474706443">Technical Artist (AI Video Pipeline)</a></b>
-Pixaera · Rumänien
-<i>Tech-Art im Games-/XR-Umfeld; Pipeline-Fokus beachten.</i>
+🟢 <b><a href="https://de.linkedin.com/jobs/view/technical-artist-at-booming-games-4476558120">Technical Artist</a></b>
+Booming Games · Pressig
+<i>Tech-Art im Games-Bereich passt ideal zu deiner Schnittstellen-Kompetenz.</i>
 
-<b>✈️ Ausland</b>  ·  5
+🟢 <b><a href="https://www.workwithindies.com/careers/eleon-co-vfx-artist">VFX Artist</a></b>
+Eleon Co · Remote
+<i>Trifft genau deinen Master in Realtime Art &amp; Visual Effects im Game-Bereich.</i>
 
-🟡 <b><a href="https://cy.linkedin.com/jobs/view/3d-character-artist-world-of-tanks-heat-at-wargaming-4476002874">3D Character Artist</a></b>
-Wargaming · Bezirk Nikosia, Zypern
-<i>3D-Character-Art für bekannten Titel; Standort Zypern vor Ort.</i>
+🟡 <b><a href="https://www.workwithindies.com/careers/eleon-co-3d-animator-blender">3D Animator (Blender)</a></b>
+Eleon Co · Remote
+<i>Dein Animations-Bachelor und Blender-Know-how bieten hier eine solide Basis.</i>
 
-🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-creative-artist-%E2%80%93-design-visualization-at-xiaomi-deutschland-4477511282">3D Creative Artist – Design Visualization</a></b>
-Xiaomi Deutschland · München
-<i>Spannende 3D-Design-Visualisierung, Standort München (Remote klären).</i>
+🟡 <b><a href="https://www.workwithindies.com/careers/veelpoot-3d-character-artist">3D Character Artist</a></b>
+Veelpoot · Remote
+<i>Gute Option, falls du deine Character-Skills im 3D-Bereich vertiefen willst.</i>
 
-🟡 <b><a href="https://pt.linkedin.com/jobs/view/archviz-at-masslab-4473683723">ArchViz Artist</a></b>
-MASSLAB · Porto, Portugal
-<i>ArchViz passt gut zu deinen 3D- und Echtzeit-Visualisierungs-Skills.</i>
+🟡 <b><a href="https://www.workwithindies.com/careers/veelpoot-level-designer">Level Designer</a></b>
+Veelpoot · Remote
+<i>Starke Schnittmenge mit deinen Environment- und Worldbuilding-Skills in UE.</i>
 
-🟡 <b><a href="https://ro.linkedin.com/jobs/view/technical-artist-at-superplay-4478579017">Technical Artist</a></b>
-SuperPlay · Bukarest, Rumänien
-<i>Technical Artist im Games-Studio; Standort Bukarest beachten.</i>
+<b>✈️ Ausland</b>  ·  2
 
-🟡 <b><a href="https://ro.linkedin.com/jobs/view/technical-artist-%40-ea-sports-fc-at-ea-sports-4453896892">Technical Artist</a></b>
-EA SPORTS · Bukarest, Rumänien
-<i>AAA-Tech-Art bei EA Sports; erfordert wohl Vor-Ort-Präsenz.</i>
+🟡 <b><a href="https://hitmarker.net/jobs/ubisoft-2d-3d-illustrator-rainbow-six-siege-5233803">2D-3D Illustrator</a></b>
+Ubisoft · Montréal, Kanada
+<i>Spannende 2D/3D-Kombi bei AAA-Titel; erfordert jedoch Umzug nach Kanada.</i>
+
+🟡 <b><a href="https://hitmarker.net/jobs/electronic-arts-concept-artist-environment-ea-sports-fc-3681575">Concept Artist</a></b>
+Electronic Arts · Vancouver, Kanada
+<i>Top Studio im Environment-Bereich, allerdings vor Ort in Vancouver.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
