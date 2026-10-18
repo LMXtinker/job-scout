@@ -313,6 +313,9 @@ def wait_for_send_time():
     now = dt.datetime.now(tz)
     hh, mm = map(int, str(DG.get("send_at", "08:00")).split(":"))
     target = now.replace(hour=hh, minute=mm, second=0, microsecond=0)
+    days = [d.lower()[:2] for d in DG.get("send_days", ["mo", "di", "mi", "do", "fr", "sa", "so"])]
+    if ["mo", "di", "mi", "do", "fr", "sa", "so"][now.weekday()] not in days:
+        print("Heute ist kein Versandtag (send_days)."); return False
     if load("digest_status.json", {}).get("scheduled_day", "") == now.date().isoformat():
         print("Heute schon gesendet – übersprungen."); return False
     if now < target - dt.timedelta(minutes=75):
@@ -363,7 +366,8 @@ def main():
     else:
         picked = []
     from zoneinfo import ZoneInfo
-    weekly = dt.datetime.now(ZoneInfo("Europe/Vienna")).weekday() == 0 or os.environ.get("WEEKLY", "") in ("1", "true")
+    wd = ["mo", "di", "mi", "do", "fr", "sa", "so"].index(str(DG.get("weekly_day", "mo")).lower()[:2])
+    weekly = dt.datetime.now(ZoneInfo("Europe/Vienna")).weekday() == wd or os.environ.get("WEEKLY", "") in ("1", "true")
     msgs, items = build_messages(picked, cands, len(cands), weekly)
     has_content = bool(items) or (weekly and len(msgs[0]) > 0 and "Wochenrückblick" in "".join(msgs))
     status["picked"] = len(items)
