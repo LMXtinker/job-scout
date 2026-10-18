@@ -1,80 +1,20 @@
-<b>🎯 Job-Update · 17.10.</b>
-16 neue passende Stellen (7 × sehr passend 🟢)
-<i>aus 38 neuen Anzeigen</i>
+<b>🎯 Job-Update · 18.10.</b>
+2 neue passende Stellen (0 × sehr passend 🟢)
+<i>aus 11 neuen Anzeigen</i>
 
-💬 <i>Mit Unreal Cinematic und Environment Art sind heute echte Traumrollen im Remote-Bereich dabei! Zeig in deinen Bewerbungen mutig deine cinematischen Lichtstimmungen. 🎬</i>
+💬 <i>Ob innovative 3D-Forschung an Hochschulen oder Tech-Art im Games-Bereich: Deine Vielseitigkeit eröffnet dir auch abseits klassischer Pfade spannende Türen. Bleib neugierig und dran! ✨</i>
 
-<b>🇦🇹 Österreich</b>  ·  3
+<b>📍 Wien</b>  ·  1
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/brand-graphic-designer-at-salus-alpha-4480349182">Brand &amp; Graphic Designer</a></b>
-salus alpha · Österreich
-<i>Passend für deine Grafikdesign- und Adobe-Kenntnisse in Österreich.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/university-assistant-predoctoral-project-h4des-haptic-4d-printing-for-enhanced-sensemaking-at-university-of-vienna-4480882014">University Assistant Predoctoral - Project H4DES</a></b>
+Universität Wien · Wien
+<i>Spannendes 3D-/Haptik-Forschungsprojekt; passt zu deinem MA und Hochschul-Interesse.</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/graphic-digital-media-designer-in-at-laufwerkstatt-4477055714">Graphic &amp; Digital Media Designer</a></b>
-Laufwerkstatt · Innsbruck, Tirol, Österreich
-<i>Solide Rolle für deine Grafik- und Digitaldesign-Kenntnisse in Tirol.</i>
+<b>✈️ Ausland</b>  ·  1
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/media-production-event-specialist-m-w-d-at-spar-ics-information-communication-services-4480339488">Media Production &amp; Event Specialist</a></b>
-SPAR ICS · Salzburg, Österreich
-<i>Medienproduktion und Events verbinden deine kreativen und Management-Skills.</i>
-
-<b>🌍 Remote</b>  ·  11
-
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/2d-generalist-artist-midcore-games-at-voodoo-4478527644">2D Generalist Artist - Midcore Games</a></b>
-Voodoo · Warschau, Polen
-<i>Super Fit für deine 2D-Game-Art-, Concept-Art- und Illustrationserfahrung.</i>
-
-🟢 <b><a href="https://www.workwithindies.com/careers/evo-interactive-3d-character-artist">3D Character Artist</a></b>
-Evo Interactive · Remote
-<i>Spannende Remote-Rolle für 3D-Modellierung, Texturierung und Art.</i>
-
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/3d-environment-artist-at-plarium-4477701550">3D Environment Artist</a></b>
-Plarium · Warschau, Polen
-<i>Deine Top-Zielrolle: Environment Art mit Maya, Blender und Substance.</i>
-
-🟢 <b><a href="https://hitmarker.net/jobs/gameloft-3d-motion-designer-video-editor-unreal-engine-after-effects-5272702">3D Motion Designer &amp; Video Editor (Unreal Engine)</a></b>
-Gameloft · Bukarest, Rumänien
-<i>Unreal Engine und AE treffen genau deinen VFX- und Motion-Design-Fokus.</i>
-
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/game-artist-at-aristocrat-4478871271">Game Artist</a></b>
-Aristocrat · Krakau, Polen
-<i>Vielseitige Game-Artist-Rolle für 2D- und 3D-Assets im Spielebereich.</i>
-
-🟢 <b><a href="https://dk.linkedin.com/jobs/view/motion-designer-3d-artist-at-wpp-production-4480382930">Motion Designer / 3D Artist</a></b>
-WPP Production · Kopenhagen, Dänemark
-<i>Starker Mix aus 3D-Art und Motion Design im internationalen Agenturumfeld.</i>
-
-🟢 <b><a href="https://www.workwithindies.com/careers/mysteria-studio-unreal-cinematic-designer">Unreal Cinematic Designer</a></b>
-Mysteria Studio · Remote
-<i>Perfekter Match für deine Unreal-Engine- und Realtime-VFX-Expertise.</i>
-
-🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-polygon-modeler-m-f-x-munich-germany-at-onvo-4478454541">3D Polygon Modeler</a></b>
-ONVO · München, Deutschland
-<i>Passend für deine Modeling- und Texturing-Skills in Blender und Maya.</i>
-
-🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-m-w-d-f%C3%BCr-produkt-und-interieur-visualisierungen-at-reuter-gruppe-4480328702">3D-Artist für Produkt- und Interieur-Visualisierungen</a></b>
-REUTER Gruppe · Mönchengladbach, Deutschland
-<i>Gute Option für 3D-Generalist-Skills und Interieur-Visualisierung.</i>
-
-🟡 <b><a href="https://pl.linkedin.com/jobs/view/cinematic-character-artist-photorealistic-characters-at-luxoft-poland-4479796452">Cinematic Character Artist</a></b>
-Luxoft Poland · Danzig, Polen
-<i>Spannend für fotorealistische Charaktererstellung und Cinematics.</i>
-
-=====
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/render-wrangler-at-illusorium-studios-4480526646">Render Wrangler</a></b>
-Illusorium Studios · Madrid, Spanien
-<i>Guter Einstieg in die 3D/VFX-Pipeline passend zu deinem Studienhintergrund.</i>
-
-<b>✈️ Ausland</b>  ·  2
-
-🟡 <b><a href="https://it.linkedin.com/jobs/view/animatore-3d-at-axl-spa-%E2%80%93-alti-profili-4477074330">Animatore 3D</a></b>
-AxL Spa · Modena, Italien
-<i>Passend zu deinen Grundlagen aus dem Bachelorstudium in Animation.</i>
-
-🟡 <b><a href="https://it.linkedin.com/jobs/view/junior-set-designer-i-special-projects-i-milan-at-balich-wonder-studio-4478439133">Junior Set Designer - Special Projects</a></b>
-Balich Wonder Studio · Mailand, Italien
-<i>Kreativprojekt an der Schnittstelle von Raumgestaltung und Eventkultur.</i>
+🟡 <b><a href="https://hitmarker.net/jobs/superplay-technical-artist-5278444">Technical Artist</a></b>
+SuperPlay · București, Rumänien
+<i>Tech-Art im Game-Studio passt fachlich perfekt; Vor-Ort-Setup in Bukarest prüfen.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
