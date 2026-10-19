@@ -1,20 +1,58 @@
-<b>🎯 Job-Update · 18.10.</b>
-2 neue passende Stellen (0 × sehr passend 🟢)
-<i>aus 11 neuen Anzeigen</i>
+<b>🎯 Wochenstart · Job-Update · 19.10.</b>
+5 neue passende Stellen (0 × sehr passend 🟢)
+<i>aus 13 neuen Anzeigen</i>
 
-💬 <i>Ob innovative 3D-Forschung an Hochschulen oder Tech-Art im Games-Bereich: Deine Vielseitigkeit eröffnet dir auch abseits klassischer Pfade spannende Türen. Bleib neugierig und dran! ✨</i>
+💬 <i>Ob Tech-Art an Games-Hochschulen oder Environment Art weltweit: Zeige in Bewerbungen besonders deine prozeduralen Workflows in Unreal. Dein Mix aus Kunst und Tech sticht heraus!</i>
 
-<b>📍 Wien</b>  ·  1
+<b>🌍 Remote</b>  ·  3
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/university-assistant-predoctoral-project-h4des-haptic-4d-printing-for-enhanced-sensemaking-at-university-of-vienna-4480882014">University Assistant Predoctoral - Project H4DES</a></b>
-Universität Wien · Wien
-<i>Spannendes 3D-/Haptik-Forschungsprojekt; passt zu deinem MA und Hochschul-Interesse.</i>
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/game-artist-at-aristocrat-4478873129">Game Artist</a></b>
+Aristocrat · Danzig, Voivod Pommern, Polen
+<i>Klassische Game-Art-Rolle für 2D- und 3D-Assets im Gaming-Bereich.</i>
 
-<b>✈️ Ausland</b>  ·  1
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/unity-ui-vfx-artist-at-fun-crafters-4476019833">Unity UI VFX Artist</a></b>
+Fun Crafters · Krakau, Malopolskie, Polen
+<i>Spannende VFX-Rolle; Fokus liegt hier allerdings auf Unity statt Unreal.</i>
 
-🟡 <b><a href="https://hitmarker.net/jobs/superplay-technical-artist-5278444">Technical Artist</a></b>
-SuperPlay · București, Rumänien
-<i>Tech-Art im Game-Studio passt fachlich perfekt; Vor-Ort-Setup in Bukarest prüfen.</i>
+🟡 <b><a href="https://it.linkedin.com/jobs/view/unreal-technical-artist-visualizzazione-automotive-at-wedoo-4478242858">Unreal Technical Artist</a></b>
+WEDOO · Turin, Piemont, Italien
+<i>Unreal-Tech-Art für Echtzeit-Visualisierung passt perfekt zu deinem Profil.</i>
+
+<b>✈️ Ausland</b>  ·  2
+
+🟡 <b><a href="https://hitmarker.net/jobs/virtuos-3d-environment-artist-5285024">3D Environment Artist</a></b>
+Virtuos · Chengdu, China
+<i>Deine absolute Traumrolle, erfordert allerdings Umzugsbereitschaft nach China.</i>
+
+🟡 <b><a href="https://nl.linkedin.com/jobs/view/technical-artist-at-breda-university-of-applied-sciences-4477053259">Technical Artist</a></b>
+Breda University of Applied Sciences · Breda, Nordbrabant, Niederlande
+<i>Spannende Rolle im Hochschulumfeld an einer renommierten Game-Uni.</i>
+
+<b>⭐ Wochenrückblick · noch offen</b>  ·  20
+<i>Die attraktivsten Funde der letzten zwei Wochen, die noch online sind</i>
+🟢 <a href="https://at.linkedin.com/jobs/view/game-experience-creator-m-w-d-at-strudle-media-and-services-4477316029">Game &amp; Experience Creator</a> – Strudel Media and Services · Wien, Österreich
+🟢 <a href="https://at.linkedin.com/jobs/view/technical-artist-m-f-d-at-merkur-group-4479844384">Technical Artist</a> – MERKUR GROUP · Wien, Österreich
+🟢 <a href="https://www.workwithindies.com/careers/makrp-game-artist-concept-3d">Game Artist (Concept + 3D)</a> – makRP · Anywhere
+🟢 <a href="https://hitmarker.net/jobs/hyperlab-game-artist-5125155">Game Artist</a> – Hyperlab · Remote
+🟢 <a href="https://www.workwithindies.com/careers/febucci-general-artist-3d">General Artist (3D)</a> – Febucci · Remote
+🟢 <a href="https://remotegamejobs.com/jobs/half-mermaid-productions-environment-artist-remote-job">Environment Artist</a> – Half Mermaid Productions · Remote (Europa)
+🟢 <a href="https://www.workwithindies.com/careers/veelpoot-2d-character-concept-artist">2D Character Concept Artist</a> – Veelpoot · Remote
+🟢 <a href="https://www.workwithindies.com/careers/veelpoot-3d-generalist">3D Generalist</a> – Veelpoot · Remote
+🟢 <a href="https://www.workwithindies.com/careers/eleon-co-vfx-artist">VFX Artist</a> – Eleon Co · Remote
+🟢 <a href="https://pl.linkedin.com/jobs/view/2d-generalist-artist-midcore-games-at-voodoo-4478527644">2D Generalist Artist - Midcore Games</a> – Voodoo · Warschau, Polen
+🟢 <a href="https://www.workwithindies.com/careers/evo-interactive-3d-character-artist">3D Character Artist</a> – Evo Interactive · Remote
+🟢 <a href="https://pl.linkedin.com/jobs/view/3d-environment-artist-at-plarium-4477701550">3D Environment Artist</a> – Plarium · Warschau, Polen
+🟢 <a href="https://hitmarker.net/jobs/gameloft-3d-motion-designer-video-editor-unreal-engine-after-effects-5272702">3D Motion Designer &amp; Video Editor (Unreal Engine)</a> – Gameloft · Bukarest, Rumänien
+🟢 <a href="https://dk.linkedin.com/jobs/view/motion-designer-3d-artist-at-wpp-production-4480382930">Motion Designer / 3D Artist</a> – WPP Production · Kopenhagen, Dänemark
+
+=====
+
+🟢 <a href="https://www.workwithindies.com/careers/mysteria-studio-unreal-cinematic-designer">Unreal Cinematic Designer</a> – Mysteria Studio · Remote
+🟡 <a href="https://at.linkedin.com/jobs/view/creative-production-coordinator-amazon-full-time-at-the-hummingbird-company-4473626895">Creative Production Coordinator</a> – The Hummingbird company · Wien
+🟡 <a href="https://www.karriere.at/jobs/10034957">Expert Trends &amp; Collections</a> – MAM Baby · Wien
+🟡 <a href="https://at.linkedin.com/jobs/view/graphic-designer-m-w-d-at-gauder-gmbh-4474053415">Graphic Designer</a> – Gauder GmbH · Wien
+🟡 <a href="https://www.karriere.at/jobs/10035225">Specialist Graphic Design &amp; Artwork Management</a> – MAM Baby · Wien, Österreich
+🟡 <a href="https://at.linkedin.com/jobs/view/university-assistant-predoctoral-project-h4des-haptic-4d-printing-for-enhanced-sensemaking-at-university-of-vienna-4480882014">University Assistant Predoctoral - Project H4DES</a> – Universität Wien · Wien
 
 🟢 sehr passend · 🟡 teilweise passend
 
