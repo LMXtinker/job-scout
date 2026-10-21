@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-20T07:42:07+00:00",
- "jobs": 700,
- "new": 96,
- "recent": 440,
+ "generated": "2026-10-21T07:46:35+00:00",
+ "jobs": 390,
+ "new": 31,
+ "recent": 439,
  "sources": {
   "linkedin-at": {
-   "jobs": 115,
-   "errors": 14
+   "jobs": 73,
+   "errors": 21
   },
   "linkedin-remote-eu": {
-   "jobs": 94,
-   "errors": 25
+   "jobs": 36,
+   "errors": 32
   },
   "karriere.at": {
-   "jobs": 48,
+   "jobs": 15,
    "errors": 0
   },
   "ams-allejobs": {
@@ -21,8 +21,8 @@
    "errors": 0
   },
   "stepstone": {
-   "jobs": 210,
-   "errors": 0
+   "jobs": 25,
+   "errors": 11
   },
   "hitmarker": {
    "jobs": 82,
@@ -33,7 +33,7 @@
    "errors": 0
   },
   "workwithindies": {
-   "jobs": 71,
+   "jobs": 79,
    "errors": 0
   },
   "remotegamejobs": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 5,
+   "jobs": 4,
    "errors": 0
   },
   "moon-studios": {
@@ -89,7 +89,7 @@
    "errors": 0
   },
   "fh-salzburg": {
-   "jobs": 6,
+   "jobs": 5,
    "errors": 0
   },
   "fh-stpoelten": {
