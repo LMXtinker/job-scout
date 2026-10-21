@@ -1,48 +1,32 @@
-<b>🎯 Job-Update · 20.10.</b>
-8 neue passende Stellen (0 × sehr passend 🟢)
-<i>aus 60 neuen Anzeigen</i>
+<b>🎯 Job-Update · 21.10.</b>
+5 neue passende Stellen (1 × sehr passend 🟢)
+<i>aus 13 neuen Anzeigen</i>
 
-💬 <i>Mit Techland und El Ranchito suchen echte Branchengrößen nach 3D- und Asset-Talenten! Lass dein Gespür für Licht und Texturen im Portfolio sprechen – Qualität setzt sich durch. 🌟</i>
+💬 <i>Spannende Remote-Chancen bei Indie-Studios wie Seedbound heute: Zeig bei 3D-Creature- und Character-Arbeiten deinen Sinn für organische Formen und lebendige Animationen! 🦎</i>
 
-<b>📍 Wien</b>  ·  2
+<b>🇦🇹 Österreich</b>  ·  1
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/grafikdesigner-in-at-ecombeat-4478262682">Grafikdesigner:in</a></b>
-ECOMBEAT · Wien
-<i>Grafikdesign-Rolle direkt in Wien; gute Nutzung deiner Adobe-Skills.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/2d-designer-at-jobgether-4480771069">2D Designer</a></b>
+Jobgether · Österreich
+<i>2D-Design-Rolle in Österreich; prüfen, wie viel Illustration gefragt ist.</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/grafikdesigner-in-m-w-d-at-frauenthal-handel-gruppe-gmbh-4478296066">Grafikdesigner:in</a></b>
-Frauenthal Handel Gruppe GmbH · Wien
-<i>Grafikdesign-Stelle in Wien für dein Profil im Bereich 2D und Visuals.</i>
+<b>🌍 Remote</b>  ·  4
 
-<b>🇦🇹 Österreich</b>  ·  3
+🟢 <b><a href="https://www.workwithindies.com/careers/seedbound-3d-creature-modeler-animator-blender">3D Creature Modeler &amp; Animator (Blender)</a></b>
+Seedbound · Remote
+<i>3D-Modellierung &amp; Animation in Blender passen hervorragend zu deinem Profil.</i>
 
-🟡 <b><a href="https://www.stepstone.at/stellenangebote--Graphic-Designer-all-genders-Graz-ST-XAL-GmbH--1008997-inline.html">Graphic Designer</a></b>
-XAL GmbH · Graz
-<i>Spannendes Umfeld an der Schnittstelle von Licht und Architekturdesign.</i>
+🟡 <b><a href="https://be.linkedin.com/jobs/view/3d-ai-content-visualiser-at-omcollective-4480468169">3D &amp; AI content visualiser</a></b>
+OMcollective · Metropolregion Gent
+<i>Spannende Schnittstelle aus 3D-Visualisierung und neuen Workflows.</i>
 
-🟡 <b><a href="https://www.stepstone.at/stellenangebote--Praktikum-Post-Production-Linz-OOE-Wexplore-Productions-GmbH--1008920-inline.html">Praktikum Post-Production</a></b>
-Wexplore Productions GmbH · Linz
-<i>Film-Postproduktion passt zu deinem VFX-Master; Einstiegs-/Praktikumslevel.</i>
+🟡 <b><a href="https://www.workwithindies.com/careers/dead-mage-pixel-art-animator">Pixel Art Animator</a></b>
+Dead Mage · Remote
+<i>Spannendes Indie-Projekt; erfordert Fokus auf 2D-Animation und Pixel-Art.</i>
 
-🟡 <b><a href="https://www.stepstone.at/stellenangebote--Praktikum-Pre-Production-Linz-OOE-Wexplore-Productions-GmbH--1009183-inline.html">Praktikum Pre-Production</a></b>
-Wexplore Productions GmbH · Linz
-<i>Pre-Production für Filmprojekte; passt gut zu Concept Art und Storytelling.</i>
-
-<b>🌍 Remote</b>  ·  1
-
-🟡 <b><a href="https://ie.linkedin.com/jobs/view/3d-animator-at-jobgether-4479968995">3D Animator</a></b>
-Jobgether · Irland
-<i>Passt gut zu deiner Animations-Ausbildung und 3D-Generalist-Erfahrung.</i>
-
-<b>✈️ Ausland</b>  ·  2
-
-🟡 <b><a href="https://pl.linkedin.com/jobs/view/3d-environment-artist-at-techland-4479975406">3D Environment Artist</a></b>
-Techland · Breslau
-<i>Top-Fit als Environment Artist bei renommiertem Games-Studio; Standort Breslau.</i>
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/asset-artist-banco-de-talento-para-futuras-oportunidades-at-el-ranchito-4478297957">Asset Artist</a></b>
-El Ranchito · Madrid
-<i>Perfekt für deine VFX- und 3D-Asset-Skills im renommierten Film/VFX-Umfeld.</i>
+🟡 <b><a href="https://www.workwithindies.com/careers/conradical-games-pixel-artist">Pixel Artist</a></b>
+Conradical Games · Remote
+<i>Indie-Game-Studio sucht 2D-Art; ideal, falls Pixel-Art dir liegt.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 

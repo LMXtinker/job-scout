@@ -1843,5 +1843,50 @@
   "region": "oesterreich",
   "fit": "mittel",
   "reason": "Pre-Production für Filmprojekte; passt gut zu Concept Art und Storytelling."
+ },
+ "https://www.workwithindies.com/careers/seedbound-3d-creature-modeler-animator-blender": {
+  "date": "2026-10-21",
+  "title": "3D Creature Modeler & Animator (Blender)",
+  "company": "Seedbound",
+  "location": "Remote",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "3D-Modellierung & Animation in Blender passen hervorragend zu deinem Profil."
+ },
+ "https://at.linkedin.com/jobs/view/2d-designer-at-jobgether-4480771069": {
+  "date": "2026-10-21",
+  "title": "2D Designer",
+  "company": "Jobgether",
+  "location": "Österreich",
+  "region": "oesterreich",
+  "fit": "mittel",
+  "reason": "2D-Design-Rolle in Österreich; prüfen, wie viel Illustration gefragt ist."
+ },
+ "https://be.linkedin.com/jobs/view/3d-ai-content-visualiser-at-omcollective-4480468169": {
+  "date": "2026-10-21",
+  "title": "3D & AI content visualiser",
+  "company": "OMcollective",
+  "location": "Metropolregion Gent",
+  "region": "remote",
+  "fit": "mittel",
+  "reason": "Spannende Schnittstelle aus 3D-Visualisierung und neuen Workflows."
+ },
+ "https://www.workwithindies.com/careers/dead-mage-pixel-art-animator": {
+  "date": "2026-10-21",
+  "title": "Pixel Art Animator",
+  "company": "Dead Mage",
+  "location": "Remote",
+  "region": "remote",
+  "fit": "mittel",
+  "reason": "Spannendes Indie-Projekt; erfordert Fokus auf 2D-Animation und Pixel-Art."
+ },
+ "https://www.workwithindies.com/careers/conradical-games-pixel-artist": {
+  "date": "2026-10-21",
+  "title": "Pixel Artist",
+  "company": "Conradical Games",
+  "location": "Remote",
+  "region": "remote",
+  "fit": "mittel",
+  "reason": "Indie-Game-Studio sucht 2D-Art; ideal, falls Pixel-Art dir liegt."
  }
 }
