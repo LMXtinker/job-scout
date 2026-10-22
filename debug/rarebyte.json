@@ -4,23 +4,24 @@
   "https://www.rarebyte.com/jobs.html": {
    "links": 0,
    "jobs": 0,
-   "final_url": "https://www.rarebyte.com/jobs.html",
+   "final_url": "https://www.rarebyte.com/jobs/",
    "title": "Rarebyte - Jobs",
    "sample_links": [
-    "https://www.rarebyte.com/imprint.html",
-    "https://www.rarebyte.com/index.html",
-    "https://www.rarebyte.com/jobs.html#menu",
-    "https://twitter.com/RarebyteGameDev",
+    "https://www.rarebyte.com/jobs/#main-content",
+    "https://www.rarebyte.com/",
+    "https://www.rarebyte.com/jobs/#menu",
+    "https://x.com/RarebyteGameDev",
     "https://www.twitch.tv/rarebyte",
     "https://www.facebook.com/rarebyte",
     "https://www.instagram.com/rarebyte",
-    "https://www.rarebyte.com/imprint.html",
-    "https://www.rarebyte.com/index.html",
-    "https://www.rarebyte.com/jobs.html",
-    "https://www.rarebyte.com/press",
-    "https://www.rarebyte.com/index%20ALT.html#cta",
-    "https://www.rarebyte.com/imprint.html",
-    "https://www.rarebyte.com/jobs.html#menu"
+    "https://www.rarebyte.com/imprint/",
+    "https://www.rarebyte.com/",
+    "https://www.rarebyte.com/games/",
+    "https://www.rarebyte.com/jobs/",
+    "https://www.rarebyte.com/press/",
+    "https://www.rarebyte.com/#cta",
+    "https://www.rarebyte.com/imprint/",
+    "https://www.rarebyte.com/jobs/#menu"
    ]
   }
  }
