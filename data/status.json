@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-22T07:42:07+00:00",
- "jobs": 623,
- "new": 86,
- "recent": 491,
+ "generated": "2026-10-23T07:39:18+00:00",
+ "jobs": 625,
+ "new": 65,
+ "recent": 500,
  "sources": {
   "linkedin-at": {
-   "jobs": 135,
-   "errors": 8
+   "jobs": 136,
+   "errors": 6
   },
   "linkedin-remote-eu": {
-   "jobs": 179,
-   "errors": 6
+   "jobs": 0,
+   "errors": 36
   },
   "karriere.at": {
    "jobs": 48,
@@ -21,11 +21,11 @@
    "errors": 0
   },
   "stepstone": {
-   "jobs": 25,
-   "errors": 11
+   "jobs": 200,
+   "errors": 0
   },
   "hitmarker": {
-   "jobs": 82,
+   "jobs": 80,
    "errors": 0
   },
   "gamesindustry.biz": {
@@ -37,7 +37,7 @@
    "errors": 0
   },
   "remotegamejobs": {
-   "jobs": 10,
+   "jobs": 11,
    "errors": 0
   },
   "gamejobsremote": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 4,
+   "jobs": 5,
    "errors": 0
   },
   "moon-studios": {
@@ -97,7 +97,7 @@
    "errors": 0
   },
   "technikum-wien": {
-   "jobs": 1,
+   "jobs": 2,
    "errors": 0
   },
   "fh-ooe": {
