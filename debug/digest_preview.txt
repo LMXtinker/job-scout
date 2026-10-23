@@ -1,70 +1,40 @@
-<b>🎯 Job-Update · 22.10.</b>
-14 neue passende Stellen (6 × sehr passend 🟢)
-<i>aus 44 neuen Anzeigen</i>
+<b>🎯 Job-Update · 23.10.</b>
+6 neue passende Stellen (0 × sehr passend 🟢)
+<i>aus 37 neuen Anzeigen</i>
 
-💬 <i>Ob Kunstinstallation in Wien oder Environment Art bei Techland: Deine Vielseitigkeit ist deine Stärke. Zeig im Portfolio gleich am Anfang deine stärksten Echtzeit-Welten! 🎨</i>
+💬 <i>Ob Kulturprojekte in Wien oder weltweite Game-Art: Deine Vielseitigkeit ist ein echter Trumpf. Bring bei 2D- und Designrollen deinen geschulten Blick für Bildaufbau ein! 🎨</i>
 
 <b>📍 Wien</b>  ·  1
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/assistant-art-production-installation-f-m-x-at-european-society-of-radiology-4479406949">Assistant Art Production &amp; Installation</a></b>
-European Society of Radiology · Wien, Österreich
-<i>Spannende Schnittstelle zu Kunst- und Ausstellungsinstallation direkt in Wien.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/produktionsmitarbeiter-in-show-festivals-at-barracuda-music-gmbh-4480046745">Produktionsmitarbeiter Show &amp; Festivals</a></b>
+Barracuda Music GmbH · Wien, Österreich
+<i>Spannend für deinen Hintergrund in Kultur- und Projektmanagement in Wien.</i>
 
-<b>🌍 Remote</b>  ·  12
+<b>🇦🇹 Österreich</b>  ·  2
 
-🟢 <b><a href="https://bg.linkedin.com/jobs/view/2d-artist-at-katara-gaming-4478983995">2D Artist</a></b>
-Katara Gaming · Sofia, Bulgarien
-<i>Passend für deine Concept-Art- und 2D-Game-Art-Erfahrung.</i>
+🟡 <b><a href="https://www.stepstone.at/stellenangebote--Grafikdesigner-in-mit-Schwerpunkt-Reinzeichnung-Wiener-Neudorf-REWE-Group-Oesterreich--1010895-inline.html">Grafikdesigner mit Schwerpunkt Reinzeichnung</a></b>
+REWE Group Österreich · Wiener Neudorf, Niederösterreich, Österreich
+<i>Solide Grafikdesign-Rolle im Raum Wien/NÖ; Fokus liegt auf Reinzeichnung.</i>
 
-🟢 <b><a href="https://de.linkedin.com/jobs/view/2d-grafiker-m-w-d-at-cipsoft-gmbh-4478682472">2D Grafiker</a></b>
-CipSoft GmbH · Regensburg, Deutschland
-<i>2D Game Art für etabliertes deutsches Studio mit Remote-Option.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/internship-motion-graphic-design-team-rottensteiner-at-red-bull-4482493581">Internship Motion Graphic Design</a></b>
+Red Bull · Salzburg, Österreich
+<i>Motion Design in Österreich; prüfbar, ob Praktikum für dich infrage kommt.</i>
 
-🟢 <b><a href="https://fi.linkedin.com/jobs/view/3d-artist-at-suomigamehub-4482124863">3D Artist</a></b>
-SuomiGameHUB · Tammerfors, Finnland
-<i>3D-Artist-Rolle im Games-Bereich, ideal für dein Generalisten-Profil.</i>
+<b>🌍 Remote</b>  ·  2
 
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/3d-environment-artist-at-techland-4479976358">3D Environment Artist</a></b>
-Techland · Breslau, Polen
-<i>Top Environment-Art-Rolle bei einem renommierten AAA-Games-Studio.</i>
+🟡 <b><a href="https://www.arbeitnow.com/jobs/companies/roman-mayer-gmbh/grafikdesigner-in-remote-frankfurt-am-main-121413">Grafikdesigner</a></b>
+Roman Mayer GmbH · Remote
+<i>Remote Grafikdesign im DACH-Raum; nutzt deine Skills in der Adobe Suite.</i>
 
-🟢 <b><a href="https://es.linkedin.com/jobs/view/3d-modeler-at-flowtec-group-4478271755">3D Modeler</a></b>
-Flowtec Group · Cadiz, Spanien
-<i>Reine 3D-Modellierungsrolle für Game-Assets und Props.</i>
-
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/illustrator-igaming-at-igt-4479408343">Illustrator (iGaming)</a></b>
-IGT · Warschau, Polen
-<i>Illustration und Asset-Erstellung im Gaming-Sektor.</i>
-
-🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-design-implementation-specialist-clo-at-clo-virtual-fashion-4453713747">3D Design &amp; Implementation Specialist, CLO</a></b>
-CLO Virtual Fashion · München, Deutschland
-<i>Interessant für 3D-Assets und digitale Material-/Textil-Pipelines.</i>
-
-🟡 <b><a href="https://ro.linkedin.com/jobs/view/3d-motion-designer-irc307218-at-globallogic-4481155666">3D Motion Designer</a></b>
-GlobalLogic · Rumänien
-<i>Guter Match für 3D-Animation, Asset-Kreation und Motion Design.</i>
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/artworker-dise%C3%B1ador-a-2d-at-twentyfourseven-4482139767">Artworker / Diseñador/a 2D</a></b>
-TwentyfourSeven · Madrid, Spanien
-<i>2D-Artwork und Vorlagenerstellung im Kreativ- und Medienumfeld.</i>
-
-🟡 <b><a href="https://www.linkedin.com/jobs/view/cgi-automotive-artist-at-indg-grip-4478987174">CGI Automotive Artist</a></b>
-INDG | Grip · Europäische Union
-<i>Fokus auf fotorealistisches 3D/CGI und Echtzeit-Produktvisualisierung.</i>
-
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/compositing-artist-%E2%80%93-the-yard-vfx-at-the-yard-vfx-4480721274">Compositing Artist – The Yard VFX</a></b>
-THE YARD VFX · Montpellier, Frankreich
-<i>Passend zu deinem VFX-Master und Know-how in digitalem Compositing.</i>
-
-🟡 <b><a href="https://ro.linkedin.com/jobs/view/video-artist-at-gameloft-bucharest-4480343283">Video Artist</a></b>
-Gameloft Bucharest · Bukarest, Rumänien
-<i>Video- und Asset-Erstellung für Games mit Motion- und 3D-Bezug.</i>
+🟡 <b><a href="https://www.workwithindies.com/careers/tahoma-studios-pixel-artist">Pixel Artist</a></b>
+Tahoma Studios · Remote
+<i>Remote 2D-Game-Art; passt gut zu deinen Indie- und Charakterdesign-Skills.</i>
 
 <b>✈️ Ausland</b>  ·  1
 
-🟡 <b><a href="https://hitmarker.net/jobs/voodoo-game-artist-sand-loop-5013569">3D Game Artist - Sand Loop</a></b>
-Voodoo · Paris, Frankreich
-<i>3D Game Art für Mobile/Casual Games; Vor-Ort-Rolle in Paris.</i>
+🟡 <b><a href="https://hitmarker.net/jobs/naughty-dog-character-artist-5352457">Character Artist</a></b>
+Naughty Dog · Santa Monica, CA, USA
+<i>Top-Studio für Game Art; erfordert jedoch Vor-Ort-Präsenz und US-Visum.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
