@@ -1,40 +1,22 @@
-<b>🎯 Job-Update · 23.10.</b>
-6 neue passende Stellen (0 × sehr passend 🟢)
-<i>aus 37 neuen Anzeigen</i>
+<b>🎯 Job-Update · 24.10.</b>
+3 neue passende Stellen (3 × sehr passend 🟢)
+<i>aus 16 neuen Anzeigen</i>
 
-💬 <i>Ob Kulturprojekte in Wien oder weltweite Game-Art: Deine Vielseitigkeit ist ein echter Trumpf. Bring bei 2D- und Designrollen deinen geschulten Blick für Bildaufbau ein! 🎨</i>
+💬 <i>Gleich zwei starke Unreal-Rollen und 2D-Environment heute im Remote-Angebot! Zeig bei Ride the Lion und Topdeck dein Gespür für Atmosphäre und stimmungsvolles Lighting. 💡</i>
 
-<b>📍 Wien</b>  ·  1
+<b>🌍 Remote</b>  ·  3
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/produktionsmitarbeiter-in-show-festivals-at-barracuda-music-gmbh-4480046745">Produktionsmitarbeiter Show &amp; Festivals</a></b>
-Barracuda Music GmbH · Wien, Österreich
-<i>Spannend für deinen Hintergrund in Kultur- und Projektmanagement in Wien.</i>
+🟢 <b><a href="https://www.workwithindies.com/careers/ride-the-lion-studios-environment-artist-ue4">Environment Artist (UE4)</a></b>
+Ride the Lion Studios · Remote
+<i>Perfekter Match für deine Unreal-Engine- und Environment-Design-Skills.</i>
 
-<b>🇦🇹 Österreich</b>  ·  2
+🟢 <b><a href="https://www.workwithindies.com/careers/topdeck-productions-experienced-2d-environment-artist">Experienced 2D Environment Artist</a></b>
+Topdeck Productions · Remote (EU/UK)
+<i>Starke Chance für deinen Mix aus 2D-Concept-Art und Environment-Verständnis.</i>
 
-🟡 <b><a href="https://www.stepstone.at/stellenangebote--Grafikdesigner-in-mit-Schwerpunkt-Reinzeichnung-Wiener-Neudorf-REWE-Group-Oesterreich--1010895-inline.html">Grafikdesigner mit Schwerpunkt Reinzeichnung</a></b>
-REWE Group Österreich · Wiener Neudorf, Niederösterreich, Österreich
-<i>Solide Grafikdesign-Rolle im Raum Wien/NÖ; Fokus liegt auf Reinzeichnung.</i>
-
-🟡 <b><a href="https://at.linkedin.com/jobs/view/internship-motion-graphic-design-team-rottensteiner-at-red-bull-4482493581">Internship Motion Graphic Design</a></b>
-Red Bull · Salzburg, Österreich
-<i>Motion Design in Österreich; prüfbar, ob Praktikum für dich infrage kommt.</i>
-
-<b>🌍 Remote</b>  ·  2
-
-🟡 <b><a href="https://www.arbeitnow.com/jobs/companies/roman-mayer-gmbh/grafikdesigner-in-remote-frankfurt-am-main-121413">Grafikdesigner</a></b>
-Roman Mayer GmbH · Remote
-<i>Remote Grafikdesign im DACH-Raum; nutzt deine Skills in der Adobe Suite.</i>
-
-🟡 <b><a href="https://www.workwithindies.com/careers/tahoma-studios-pixel-artist">Pixel Artist</a></b>
-Tahoma Studios · Remote
-<i>Remote 2D-Game-Art; passt gut zu deinen Indie- und Charakterdesign-Skills.</i>
-
-<b>✈️ Ausland</b>  ·  1
-
-🟡 <b><a href="https://hitmarker.net/jobs/naughty-dog-character-artist-5352457">Character Artist</a></b>
-Naughty Dog · Santa Monica, CA, USA
-<i>Top-Studio für Game Art; erfordert jedoch Vor-Ort-Präsenz und US-Visum.</i>
+🟢 <b><a href="https://www.workwithindies.com/careers/ride-the-lion-studios-lighting-artist-ue4">Lighting Artist (UE4)</a></b>
+Ride the Lion Studios · Remote
+<i>Trifft genau deine Unreal-Expertise und deinen Master in Realtime Art &amp; VFX.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
