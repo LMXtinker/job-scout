@@ -1,14 +1,122 @@
-<b>🎯 Job-Update · 25.10.</b>
-1 neue passende Stelle (1 × sehr passend 🟢)
-<i>aus 8 neuen Anzeigen</i>
+<b>🎯 Wochenstart · Job-Update · 26.10.</b>
+20 neue passende Stellen (7 × sehr passend 🟢)
+<i>aus 44 neuen Anzeigen</i>
 
-💬 <i>Mit der Stelle bei lightconstruct gibt es heute ein echtes Environment-Highlight im Remote-Bereich! Zeig in deiner Bewerbung clevere modulare Assets und deinen geschulten Blick für Details. 🌿</i>
+💬 <i>Von XR-Simulationen in Belgien bis hin zu VFX und 3D-Generalist-Rollen in der EU: Deine Kombination aus Unreal-Skills und VFX-Master öffnet dir viele Türen. Heb in Bewerbungen besonders deine Projekterfahrung hervor! 🚀</i>
 
-<b>🌍 Remote</b>  ·  1
+<b>🇦🇹 Österreich</b>  ·  1
 
-🟢 <b><a href="https://www.workwithindies.com/careers/lightconstruct-3d-environment-artist">3D Environment Artist</a></b>
-lightconstruct · Remote (CET ± 3h)
-<i>Perfekter Match: 3D Environment Artist remote in deiner Zeitzone.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/cinematic-ai-video-creator-generative-ai-dtc-ads-at-jobgether-4482940108">Cinematic AI Video Creator - Generative AI</a></b>
+Jobgether · Österreich
+<i>Kombiniert Cinematic Content &amp; KI-Tools im Bereich Digital Media.</i>
+
+<b>🌍 Remote</b>  ·  13
+
+🟢 <b><a href="https://be.linkedin.com/jobs/view/3d-artist-at-keystone-solutions-4481358610">3D Artist</a></b>
+Keystone Solutions · Brüssel, Belgien
+<i>Klassische 3D-Artist-Rolle im EU-Raum.</i>
+
+🟢 <b><a href="https://be.linkedin.com/jobs/view/3d-artist-at-ntek-software-solutions-4481671981">3D Artist</a></b>
+NTek Software Solutions · Brüssel, Belgien
+<i>3D-Artist-Stelle im Remote/EU-Bereich.</i>
+
+🟢 <b><a href="https://be.linkedin.com/jobs/view/3d-artist-xr-simulaties-at-engiflex-4481646039">3D Artist XR Simulaties</a></b>
+EngiFlex · Brüssel, Belgien
+<i>Hervorragender Match mit XR- und Echtzeit-Simulations-Hintergrund.</i>
+
+🟢 <b><a href="https://www.linkedin.com/jobs/view/3d-generalist-talent-pool-at-indg-grip-4480664895">3D Generalist (Talent Pool)</a></b>
+INDG | Grip · Europäische Union
+<i>Perfektes Match als Remote 3D Generalist in der EU.</i>
+
+🟢 <b><a href="https://de.linkedin.com/jobs/view/ai-vfx-artist-at-odeon-fiction-4481050909">AI / VFX Artist</a></b>
+Odeon Fiction · München, Deutschland
+<i>Passt ideal zu deinem Master in Visual Effects und Tech-Art.</i>
+
+🟢 <b><a href="https://be.linkedin.com/jobs/view/junior-multimedia-producer-3d-artist-at-keystone-solutions-4482472474">Junior Multimedia Producer / 3D Artist</a></b>
+Keystone Solutions · Brüssel, Belgien
+<i>Sehr gutes Match für Junior/Mid-Level mit 3D- und Multimedia-Fokus.</i>
+
+🟢 <b><a href="https://www.linkedin.com/jobs/view/vfx-compositor-talent-pool-at-indg-grip-4480670610">VFX Compositor (Talent Pool)</a></b>
+INDG | Grip · Europäische Union
+<i>Direkter Bezug zu deinem VFX-Master und Visual Effects Background.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-motion-designer-robotics-at-cell-labs-4480062385">3D &amp; Motion Designer | Robotics</a></b>
+Cell Labs · Berlin, Deutschland
+<i>Spannende Schnittstelle aus 3D, Motion Design und Technologie.</i>
+
+🟡 <b><a href="https://ie.linkedin.com/jobs/view/3d-designer-at-dangan-group-4481669468">3D Designer</a></b>
+Dangan Group · Dublin, Irland
+<i>Allgemeine 3D-Design-Rolle im EU-Ausland.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-3d-visualisierer-m-w-d-at-ares-gmbh-4481408998">3D-Artist / 3D-Visualisierer</a></b>
+Ares GmbH · Lünen, Deutschland
+<i>3D-Visualisierung und Asset-Erstellung passen gut zu 3D-Skills.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-m-w-d-f%C3%BCr-produkt-und-interieur-visualisierungen-at-reuter-gruppe-4482831722">3D-Artist für Produkt- und Interieur-Visualisierungen</a></b>
+REUTER Gruppe · Mönchengladbach, Deutschland
+<i>3D-Visualisierung von Räumen und Produkten im Realtime-Umfeld.</i>
+
+🟡 <b><a href="https://es.linkedin.com/jobs/view/generative-content-creator-at-moon-active-4482702893">Generative Content Creator</a></b>
+Moon Active · Spanien
+<i>Gaming-Studio sucht Content-Creator mit KI- und Visual-Art-Bezug.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/trading-card-produkt-designer-at-ultimate-dropz-gmbh-4478661889">Trading Card &amp; Produkt Designer</a></b>
+Ultimate Dropz GmbH · Dortmund, Deutschland
+<i>Interessanter Mix aus Illustration, Grafikdesign und Collectibles.</i>
+
+<b>✈️ Ausland</b>  ·  6
+
+=====
+
+🟡 <b><a href="https://lv.linkedin.com/jobs/view/2d-3d-concept-artist-at-estoty-4481907352">2D/3D Concept Artist</a></b>
+Estoty · Riga, Lettland
+<i>Starke Überschneidung mit 2D/3D Concept Art und Game Design.</i>
+
+🟡 <b><a href="https://pt.linkedin.com/jobs/view/designer-3d-eventos-sintra-at-europalco-4482462795">Designer 3D | Eventos</a></b>
+Europalco · Sintra, Portugal
+<i>3D-Design für Events und Raumgestaltung passt zu Kultur-Background.</i>
+
+🟡 <b><a href="https://it.linkedin.com/jobs/view/digital-graphic-e-3d-designer-at-lokhen-4481042709">Digital Graphic e 3D Designer</a></b>
+Lokhen · Matera, Italien
+<i>Kombination aus Grafikdesign und 3D-Visualisierung.</i>
+
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/game-artist-at-gamblingcareers-com-4483508672">Game Artist</a></b>
+GamblingCareers.com · Krakau, Polen
+<i>Passende Game-Artist-Rolle im EU-Ausland.</i>
+
+🟡 <b><a href="https://fr.linkedin.com/jobs/view/illustrator-graphiste-produits-junior-at-venum-4482442817">Illustrator / Graphiste Produits Junior</a></b>
+VENUM · Boulogne-Billancourt, Frankreich
+<i>Junior-Rolle für Illustration und Produkt-Grafikdesign.</i>
+
+🟡 <b><a href="https://bg.linkedin.com/jobs/view/technical-level-designer-at-ubisoft-sofia-4480677318">Technical Level Designer</a></b>
+Ubisoft Sofia · Sofia, Bulgarien
+<i>Technical Level Design verbindet Tech-Art und Environment-Skills.</i>
+
+<b>⭐ Wochenrückblick · noch offen</b>  ·  20
+<i>Die attraktivsten Funde der letzten zwei Wochen, die noch online sind</i>
+🟢 <a href="https://at.linkedin.com/jobs/view/technical-artist-m-f-d-at-merkur-group-4479844384">Technical Artist</a> – MERKUR GROUP · Wien, Österreich
+🟢 <a href="https://www.workwithindies.com/careers/eleon-co-vfx-artist">VFX Artist</a> – Eleon Co · Remote
+🟢 <a href="https://www.workwithindies.com/careers/evo-interactive-3d-character-artist">3D Character Artist</a> – Evo Interactive · Remote
+🟢 <a href="https://pl.linkedin.com/jobs/view/3d-environment-artist-at-plarium-4477701550">3D Environment Artist</a> – Plarium · Warschau, Polen
+🟢 <a href="https://hitmarker.net/jobs/gameloft-3d-motion-designer-video-editor-unreal-engine-after-effects-5272702">3D Motion Designer &amp; Video Editor (Unreal Engine)</a> – Gameloft · Bukarest, Rumänien
+🟢 <a href="https://www.workwithindies.com/careers/mysteria-studio-unreal-cinematic-designer">Unreal Cinematic Designer</a> – Mysteria Studio · Remote
+🟢 <a href="https://www.workwithindies.com/careers/seedbound-3d-creature-modeler-animator-blender">3D Creature Modeler &amp; Animator (Blender)</a> – Seedbound · Remote
+🟢 <a href="https://bg.linkedin.com/jobs/view/2d-artist-at-katara-gaming-4478983995">2D Artist</a> – Katara Gaming · Sofia, Bulgarien
+🟢 <a href="https://de.linkedin.com/jobs/view/2d-grafiker-m-w-d-at-cipsoft-gmbh-4478682472">2D Grafiker</a> – CipSoft GmbH · Regensburg, Deutschland
+🟢 <a href="https://fi.linkedin.com/jobs/view/3d-artist-at-suomigamehub-4482124863">3D Artist</a> – SuomiGameHUB · Tammerfors, Finnland
+🟢 <a href="https://pl.linkedin.com/jobs/view/3d-environment-artist-at-techland-4479976358">3D Environment Artist</a> – Techland · Breslau, Polen
+🟢 <a href="https://es.linkedin.com/jobs/view/3d-modeler-at-flowtec-group-4478271755">3D Modeler</a> – Flowtec Group · Cadiz, Spanien
+🟢 <a href="https://pl.linkedin.com/jobs/view/illustrator-igaming-at-igt-4479408343">Illustrator (iGaming)</a> – IGT · Warschau, Polen
+🟢 <a href="https://www.workwithindies.com/careers/ride-the-lion-studios-environment-artist-ue4">Environment Artist (UE4)</a> – Ride the Lion Studios · Remote
+🟢 <a href="https://www.workwithindies.com/careers/topdeck-productions-experienced-2d-environment-artist">Experienced 2D Environment Artist</a> – Topdeck Productions · Remote (EU/UK)
+🟢 <a href="https://www.workwithindies.com/careers/ride-the-lion-studios-lighting-artist-ue4">Lighting Artist (UE4)</a> – Ride the Lion Studios · Remote
+
+=====
+
+🟢 <a href="https://www.workwithindies.com/careers/lightconstruct-3d-environment-artist">3D Environment Artist</a> – lightconstruct · Remote (CET ± 3h)
+🟡 <a href="https://at.linkedin.com/jobs/view/university-assistant-predoctoral-project-h4des-haptic-4d-printing-for-enhanced-sensemaking-at-university-of-vienna-4480882014">University Assistant Predoctoral - Project H4DES</a> – Universität Wien · Wien
+🟡 <a href="https://at.linkedin.com/jobs/view/grafikdesigner-in-at-ecombeat-4478262682">Grafikdesigner:in</a> – ECOMBEAT · Wien
+🟡 <a href="https://at.linkedin.com/jobs/view/grafikdesigner-in-m-w-d-at-frauenthal-handel-gruppe-gmbh-4478296066">Grafikdesigner:in</a> – Frauenthal Handel Gruppe GmbH · Wien
 
 🟢 sehr passend · 🟡 teilweise passend
 
