@@ -3,15 +3,15 @@
   "Virtual Production: HTTP Error 429: Too Many Requests",
   "Virtual Production: HTTP Error 429: Too Many Requests",
   "3D Designer: HTTP Error 429: Too Many Requests",
-  "Game Design: HTTP Error 429: Too Many Requests",
+  "3D Designer: HTTP Error 429: Too Many Requests",
   "Game Design: HTTP Error 429: Too Many Requests",
   "Game Design: HTTP Error 429: Too Many Requests"
  ],
  "per_url": {
   "3D Artist@0": 10,
   "3D Artist@10": 10,
-  "3D Artist@20": 0,
-  "Environment Artist@0": 1,
+  "3D Artist@20": 2,
+  "Environment Artist@0": 2,
   "Environment Artist@10": 0,
   "Environment Artist@20": 0,
   "Technical Artist@0": 10,
@@ -34,9 +34,9 @@
   "3D Generalist@20": 10,
   "Realtime Artist@0": 10,
   "Realtime Artist@10": 10,
-  "Realtime Artist@20": 0,
-  "Virtual Production@0": 7,
-  "3D Designer@10": 10,
-  "3D Designer@20": 10
+  "Realtime Artist@20": 2,
+  "Virtual Production@0": 8,
+  "3D Designer@20": 10,
+  "Game Design@20": 4
  }
 }

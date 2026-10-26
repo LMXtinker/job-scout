@@ -1,23 +1,23 @@
 {
- "generated": "2026-10-25T07:39:16+00:00",
- "jobs": 433,
- "new": 14,
- "recent": 431,
+ "generated": "2026-10-26T07:53:12+00:00",
+ "jobs": 616,
+ "new": 63,
+ "recent": 430,
  "sources": {
   "linkedin-at": {
-   "jobs": 144,
+   "jobs": 143,
    "errors": 6
   },
   "linkedin-remote-eu": {
-   "jobs": 0,
-   "errors": 36
+   "jobs": 164,
+   "errors": 14
   },
   "karriere.at": {
-   "jobs": 50,
+   "jobs": 49,
    "errors": 0
   },
   "ams-allejobs": {
-   "jobs": 0,
+   "jobs": 25,
    "errors": 0
   },
   "stepstone": {
@@ -33,7 +33,7 @@
    "errors": 0
   },
   "workwithindies": {
-   "jobs": 80,
+   "jobs": 78,
    "errors": 0
   },
   "remotegamejobs": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 4,
+   "jobs": 2,
    "errors": 0
   },
   "moon-studios": {
@@ -105,12 +105,12 @@
    "errors": 0
   },
   "angewandte": {
-   "jobs": 3,
+   "jobs": 2,
    "errors": 0
   },
   "kunstuni-linz": {
-   "jobs": 0,
-   "errors": 1
+   "jobs": 2,
+   "errors": 0
   }
  }
 }

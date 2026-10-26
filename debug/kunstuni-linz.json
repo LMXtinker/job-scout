@@ -1,6 +1,11 @@
 {
- "errors": [
-  "https://www.kunstuni-linz.at/jobs: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.kunstuni-linz.at/jobs\", waiting until \"domcontentloaded\"\n"
- ],
- "per_url": {}
+ "errors": [],
+ "per_url": {
+  "https://www.kunstuni-linz.at/jobs": {
+   "links": 17,
+   "jobs": 2,
+   "final_url": "https://www.kunstuni-linz.at/jobs",
+   "title": "Kunstuniversität Linz: Startseite"
+  }
+ }
 }
