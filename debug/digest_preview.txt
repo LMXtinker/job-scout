@@ -1,52 +1,66 @@
-<b>🎯 Job-Update · 28.10.</b>
-9 neue passende Stellen (4 × sehr passend 🟢)
-<i>aus 31 neuen Anzeigen</i>
+<b>🎯 Job-Update · 29.10.</b>
+13 neue passende Stellen (1 × sehr passend 🟢)
+<i>aus 30 neuen Anzeigen</i>
 
-💬 <i>Ob Environment Art bei Techland und Bulkhead oder 2D-Game-Art direkt in Österreich: Halte dein Portfolio kompakt und zeige gleich zu Beginn deine stärksten interaktiven Szenen! 🎮</i>
+💬 <i>Mit der Tech-Art-Rolle bei Lingokids ist heute ein starkes Remote-Highlight dabei! Heb in deiner Bewerbung hervor, wie du Workflows optimierst und Technik mit Ästhetik verbindest. 🛠️</i>
 
 <b>📍 Wien</b>  ·  1
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/designer-print-social-ui-at-kreativagentur-ostwerk-4481891802">Designer - Print, Social &amp; UI</a></b>
-OSTWERK · Wien, Wien, Österreich
-<i>Grafik- und UI-Rolle direkt in Wien; gute Option für deine breiten Kreativskills.</i>
-
-<b>🇦🇹 Österreich</b>  ·  3
-
-🟢 <b><a href="https://at.linkedin.com/jobs/view/2d-game-artist-m-f-d-at-merkur-group-4481865469">2D Game Artist</a></b>
-MERKUR GROUP · Raaba, Steiermark, Österreich
-<i>Passende 2D-Game-Artist-Rolle in Österreich mit Raum für Asset- und Visual-Erfahrung.</i>
-
-🟡 <b><a href="https://www.karriere.at/jobs/10037234">Designer:in</a></b>
-J. Hornig GmbH · Kalsdorf bei Graz, Steiermark, Österreich
-<i>Grafik- und Mediengestaltung in der Steiermark; nutzt deine Adobe-Suite-Erfahrung.</i>
-
-🟡 <b><a href="https://jobs.ams.at/public/emps/jobs/f76439e9-e29e-346f-b466-ed64b06a6a96">Junior Spezialist Grafik</a></b>
-MPREIS Warenvertriebs GmbH · Völs, Tirol, Österreich
-<i>Junior-Grafikrolle in Österreich; solide Option für deine Design- und Layout-Kenntnisse.</i>
+🟡 <b><a href="https://www.karriere.at/jobs/10037378">Grafiker*in</a></b>
+consio Immobilien Dr. Frasl KG · Wien
+<i>Teilzeit-Grafik direkt in Wien; passend als flexibles Standbein für Web &amp; Print.</i>
 
 <b>🌍 Remote</b>  ·  4
 
-🟢 <b><a href="https://pl.linkedin.com/jobs/view/3d-environment-artist-at-techland-4479979279">3D Environment Artist</a></b>
-Techland · Breslau, Polen
-<i>Top-Zielrolle bei namhaftem Studio; perfekt für dein Unreal- &amp; Environment-Profil.</i>
+🟢 <b><a href="https://es.linkedin.com/jobs/view/game-technical-artist-full-remote-at-lingokids-4482726337">Game Technical Artist</a></b>
+Lingokids · Spanien (Remote)
+<i>Voll remote und im Kern deiner Tech-Art-Fähigkeiten; ideal für dein Profil.</i>
 
-🟢 <b><a href="https://de.linkedin.com/jobs/view/concept-ui-artist-m-w-d-at-whow-games-gmbh-4481895108">Concept &amp; UI Artist</a></b>
-WHOW Games GmbH · Hamburg, Deutschland
-<i>Passender Mix aus Concept Art und UI; trifft dein 2D- und Design-Profil.</i>
+🟡 <b><a href="https://www.arbeitnow.com/jobs/companies/paintgun/graphic-designer-freelance-berlin-400021">Graphic Designer (Freelance)</a></b>
+Paintgun · Berlin (Remote)
+<i>Remote-Freelance-Rolle; nutzt deine Fähigkeiten in Adobe Suite und Visuals.</i>
 
-🟢 <b><a href="https://be.linkedin.com/jobs/view/medior-multimedia-producer-3d-artist-at-keystone-solutions-4482465657">Medior Multimedia Producer / 3D Artist</a></b>
-Keystone Solutions · Brüssel, Belgien
-<i>Guter Match für 3D-Generalisten mit Multimedia- und Visualisierungs-Fokus.</i>
+🟡 <b><a href="https://de.linkedin.com/jobs/view/level-designer-at-tobspr-games-4484462961">Level Designer</a></b>
+tobspr Games · Deutschland (Remote)
+<i>Remote-Rolle im Indie-Bereich; dein Gespür für Spielwelten und Assets passt gut.</i>
 
-🟡 <b><a href="https://pl.linkedin.com/jobs/view/game-artist-at-aristocrat-4483262894">Game Artist</a></b>
-Aristocrat · Krakau, Polen
-<i>Spiele-Grafikrolle; passend für Game-Art-Generalisten im europäischen Raum.</i>
+🟡 <b><a href="https://ro.linkedin.com/jobs/view/trainee-technical-artist-at-co-society-4482520747">Trainee Technical Artist</a></b>
+Co. Society · Rumänien (Remote)
+<i>Guter Einstieg in Tech-Art; du bringst dafür bereits wertvolle Vorerfahrung mit.</i>
 
-<b>✈️ Ausland</b>  ·  1
+<b>✈️ Ausland</b>  ·  8
 
-🟡 <b><a href="https://hitmarker.net/jobs/bulkhead-environment-artist-5393615">Environment Artist</a></b>
-BULKHEAD · Derby, Großbritannien
-<i>Starke Unreal-Environment-Rolle; Standort UK, daher Klärung zu Visa/Vor-Ort nötig.</i>
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/3d-environment-artist-at-airport-training-simulator-4482516118">3D Environment Artist</a></b>
+Airport Training Simulator · Warschau, Polen
+<i>Environment Art für Serious Games und Simulationen; passt zu deinem 3D-Fokus.</i>
+
+🟡 <b><a href="https://es.linkedin.com/jobs/view/fx-artist-at-el-ranchito-4482558089">FX Artist</a></b>
+El Ranchito · Madrid, Spanien
+<i>VFX-Stelle bei renommiertem Studio; knüpft ideal an deinen Master-Schwerpunkt an.</i>
+
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/game-artist-at-aristocrat-4483265768">Game Artist</a></b>
+Aristocrat · Danzig, Polen
+<i>Klassische Game-Art-Rolle; deine Kombination aus 2D und 3D ist hier gefragt.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/game-artist-monetization-focus-12-months-contract-at-wooga-4484486928">Game Artist - Monetization Focus</a></b>
+Wooga · Berlin, Deutschland
+<i>2D/3D Game Art bei Wooga; profitiert von deinem vielseitigen Artwork-Hintergrund.</i>
+
+🟡 <b><a href="https://es.linkedin.com/jobs/view/rigger-at-ubisoft-barcelona-4482213335">Rigger</a></b>
+Ubisoft Barcelona · Barcelona, Spanien
+<i>Spezialisierte Tech-Rolle bei Ubisoft; grundlegendes Tech-Art-Wissen gefragt.</i>
+
+🟡 <b><a href="https://ro.linkedin.com/jobs/view/technical-interface-designer-%40-ea-sports-fc-at-ea-sports-4480663696">Technical Interface Designer</a></b>
+EA SPORTS · Bukarest, Rumänien
+<i>UI- und Tech-Art-Schnittstelle; verlangt technisches Feingefühl im Spielbau.</i>
+
+🟡 <b><a href="https://bg.linkedin.com/jobs/view/technical-level-designer-at-ubisoft-sofia-4482222035">Technical Level Designer</a></b>
+Ubisoft Sofia · Sofia, Bulgarien
+<i>Brücke zwischen Level-Gestaltung und Engine-Technik; Vor-Ort-Rolle in Sofia.</i>
+
+🟡 <b><a href="https://fr.linkedin.com/jobs/view/technologue-cr%C3%A9atif-responsable-technique-dans-la-cr%C3%A9ation-h-f-4483683271">Technologue créatif</a></b>
+CHAILLOT-THEATRE NATIONAL DE LA DANSE · Paris, Frankreich
+<i>Spannende Kultur-Schnittstelle; matcht deine Erfahrung in Ausstellung und Tech.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
