@@ -1,23 +1,23 @@
 {
- "generated": "2026-10-28T08:41:39+00:00",
- "jobs": 567,
- "new": 46,
- "recent": 473,
+ "generated": "2026-10-29T08:37:34+00:00",
+ "jobs": 563,
+ "new": 52,
+ "recent": 429,
  "sources": {
   "linkedin-at": {
-   "jobs": 115,
+   "jobs": 117,
    "errors": 10
   },
   "linkedin-remote-eu": {
-   "jobs": 144,
-   "errors": 16
+   "jobs": 141,
+   "errors": 15
   },
   "karriere.at": {
-   "jobs": 48,
-   "errors": 1
+   "jobs": 49,
+   "errors": 0
   },
   "ams-allejobs": {
-   "jobs": 25,
+   "jobs": 24,
    "errors": 0
   },
   "stepstone": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 4,
+   "jobs": 3,
    "errors": 0
   },
   "moon-studios": {
@@ -89,7 +89,7 @@
    "errors": 0
   },
   "fh-salzburg": {
-   "jobs": 4,
+   "jobs": 3,
    "errors": 0
   },
   "fh-stpoelten": {
