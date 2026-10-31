@@ -1,18 +1,38 @@
-<b>🎯 Job-Update · 30.10.</b>
-2 neue passende Stellen (1 × sehr passend 🟢)
-<i>aus 36 neuen Anzeigen</i>
+<b>🎯 Job-Update · 31.10.</b>
+7 neue passende Stellen (0 × sehr passend 🟢)
+<i>aus 19 neuen Anzeigen</i>
 
-💬 <i>Mit Atari wartet heute eine echte Branchen-Ikone auf dich! Zeig in deiner Bewerbung als Asset Designer deine Stärke, stilsichere 2D- und 3D-Game-Assets nahtlos zum Leben zu erwecken. 🕹️</i>
+💬 <i>Mit Trackman ist heute eine seltene Junior Environment Artist-Stelle dabei! Nutze die Chance und zeige, wie gekonnt du dichte Echtzeit-Atmosphäre mit sauberer 3D-Optimierung verbindest.</i>
 
-<b>🌍 Remote</b>  ·  2
+<b>✈️ Ausland</b>  ·  7
 
-🟢 <b><a href="https://gamejobsremote.com/jobs/atari-platform-games-asset-designer">Asset Designer: Platform Games</a></b>
-Atari · Remote
-<i>Ideale Remote-Rolle für Game-Assets; passt perfekt zu deinen 2D/3D-Generalist-Skills.</i>
+🟡 <b><a href="https://es.linkedin.com/jobs/view/2d-ui-artist-europa-universalis-v-at-paradox-interactive-4485358857">2D/UI Artist - Europa Universalis V</a></b>
+Paradox Interactive · Sitges, Spanien
+<i>Spannende 2D-Rolle bei Paradox; passt zu deinen Concept- und Illustrations-Skills.</i>
 
-🟡 <b><a href="https://remotegamejobs.com/jobs/super-spline-studios-experienced-gameplay-animator-3-month-freelance-contract-remote-job">Experienced Gameplay Animator</a></b>
-Super Spline Studios · Remote (UK / Europe)
-<i>Remote-Animation für Games; dein BA in Computeranimation bietet eine solide Basis.</i>
+🟡 <b><a href="https://fr.linkedin.com/jobs/view/3d-artist-at-gong-4484161739">3D Artist</a></b>
+GONG · Saint-Nazaire, Frankreich
+<i>Allgemeine 3D-Artist-Rolle; Fokus auf saubere Assets und Texturen einbringen.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-m-w-d-f%C3%BCr-produkt-und-interieur-visualisierungen-at-reuter-gruppe-4485319052">3D-Artist für Produkt- und Interieur-Visualisierungen</a></b>
+REUTER Gruppe · Mönchengladbach, Deutschland
+<i>3D-Visualisierung mit Fokus auf Interieur und Materialien – gute Schnittstelle.</i>
+
+🟡 <b><a href="https://de.linkedin.com/jobs/view/expert-innen-f%C3%BCr-xr-entwicklung-w-m-d-at-fernuniversit%C3%A4t-in-hagen-4484961189">Expert*innen für XR-Entwicklung</a></b>
+FernUniversität in Hagen · Hagen, Deutschland
+<i>XR-Entwicklung an einer Hochschule, passt zu deinem Serious-Games- &amp; XR-Master.</i>
+
+🟡 <b><a href="https://bg.linkedin.com/jobs/view/game-artist-at-aristocrat-4475787342">Game Artist</a></b>
+Aristocrat · Sofia, Bulgarien
+<i>Vielseitige Game-Art-Rolle; passend für deinen Mix aus 2D- und 3D-Erfahrung.</i>
+
+🟡 <b><a href="https://bg.linkedin.com/jobs/view/game-artist-animator-at-playtech-4484929891">Game Artist &amp; Animator</a></b>
+Playtech · Sofia, Bulgarien
+<i>Kombination aus Game Art und Animation; solide Schnittstelle für Generalisten.</i>
+
+🟡 <b><a href="https://dk.linkedin.com/jobs/view/junior-environmental-artist-at-trackman-4485399231">Junior Environmental Artist</a></b>
+Trackman · Hørsholm, Dänemark
+<i>Perfekter Rollenfit für den Einstieg als Environment Artist im Simulationsbereich.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
