@@ -1,82 +1,154 @@
 {
- "generated": "2026-11-01T09:22:26+00:00",
- "count": 9,
+ "generated": "2026-11-02T09:37:41+00:00",
+ "count": 16,
  "jobs": [
   {
-   "title": "Koordinator:in Online Marketing (m/w/d)",
-   "company": "NÖKU-Gruppe",
-   "location": "St. Pölten, Niederösterreich, Österreich",
-   "posted": "2026-10-30",
-   "url": "https://at.linkedin.com/jobs/view/koordinator-in-online-marketing-m-w-d-at-n%C3%B6ku-gruppe-4483427811",
+   "title": "(Junior) Project Designer (f/m/d)",
+   "company": "Doka",
+   "location": "Amstetten, Niederösterreich, Österreich",
+   "posted": "2026-11-01",
+   "url": "https://at.linkedin.com/jobs/view/junior-project-designer-f-m-d-at-doka-4485192964",
    "source": "linkedin-at",
-   "keyword": "Illustrator",
-   "first_seen": "2026-11-01"
+   "keyword": "3D Artist",
+   "first_seen": "2026-11-02"
   },
   {
-   "title": "Internship Design",
-   "snippet": "Einblicke Internship Design Red Bull Gestern veröffentlicht Elsbethen Praktika ab 2.221 € monatlich Gestalten Sie Grafiken für Bekleidungsstile. Erforderlich: Adobe Creative Suite (Photoshop, Illustrator) und Figma. Vorteil: Einblicke in die Modebranche. Mehr anzeigen Merken",
-   "url": "https://www.karriere.at/jobs/7899394",
+   "title": "Foto & Video Content Creator / Game Day Production (m/w/d)",
+   "company": "EV Vienna Capitals",
+   "location": "Wien, Wien, Österreich",
+   "posted": "2026-11-01",
+   "url": "https://at.linkedin.com/jobs/view/foto-video-content-creator-game-day-production-m-w-d-at-ev-vienna-capitals-4483991407",
+   "source": "linkedin-at",
+   "keyword": "3D Artist",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Praktikum/Abschlussarbeit in Design & Produktentwicklung (m/w/d)",
+   "company": "horntools",
+   "location": "Dornbirn, Vorarlberg, Österreich",
+   "posted": "2026-11-01",
+   "url": "https://at.linkedin.com/jobs/view/praktikum-abschlussarbeit-in-design-produktentwicklung-m-w-d-at-horntools-4483991542",
+   "source": "linkedin-at",
+   "keyword": "3D Artist",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Zahntechniker (m/w/d) im CAD/CAM Bereich",
+   "company": "CADstar",
+   "location": "Bischofshofen, Salzburg, Österreich",
+   "posted": "2026-11-01",
+   "url": "https://at.linkedin.com/jobs/view/zahntechniker-m-w-d-im-cad-cam-bereich-at-cadstar-4483995216",
+   "source": "linkedin-at",
+   "keyword": "3D Artist",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Machine Learning Engineer, EMEA",
+   "company": "Jumio Corporation",
+   "location": "St.Pölten und Umgebung",
+   "posted": "2026-10-31",
+   "url": "https://at.linkedin.com/jobs/view/machine-learning-engineer-emea-at-jumio-corporation-4442764027",
+   "source": "linkedin-at",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Senior Scientist in Atmospheric Data Assimilation",
+   "company": "Universität Wien",
+   "location": "Innere Stadt, Wien, Österreich",
+   "posted": "2026-11-01",
+   "url": "https://at.linkedin.com/jobs/view/senior-scientist-in-atmospheric-data-assimilation-at-university-of-vienna-4485922895",
+   "source": "linkedin-at",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Matte Painting Artist",
+   "company": "El Ranchito",
+   "location": "Madrid, Autonome Gemeinschaft Madrid, Spanien",
+   "posted": "2026-10-28",
+   "url": "https://es.linkedin.com/jobs/view/matte-painting-artist-at-el-ranchito-4482553211",
+   "source": "linkedin-remote-eu",
+   "keyword": "Environment Artist",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Automotive interior 3D CAS Modeler",
+   "company": "Bertrandt Group",
+   "location": "Sant’Agata Bolognese, Emilia Romagna, Italien",
+   "posted": "2026-10-30",
+   "url": "https://it.linkedin.com/jobs/view/automotive-interior-3d-cas-modeler-at-bertrandt-group-4484864707",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Designer",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Senior Game Designer",
+   "company": "Jobgether",
+   "location": "Niederlande",
+   "posted": "2026-10-30",
+   "url": "https://nl.linkedin.com/jobs/view/senior-game-designer-at-jobgether-4484833289",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Design",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Combat Game Designer",
+   "company": "Scopely",
+   "location": "Barcelona, Cataluña, Spanien",
+   "posted": "2026-10-29",
+   "url": "https://es.linkedin.com/jobs/view/combat-game-designer-at-scopely-4476926745",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Design",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "title": "Senior Product Developer Jersey & Sweat",
+   "snippet": "Senior Product Developer Jersey & Sweat AlphaTauri GmbH Heute veröffentlicht Elsbethen Vollzeit Homeoffice ab 2.509 € monatlich Produktentwicklung für Jersey und Sweat, inklusive Passform, Grafik und Dokumentation. Mindestens 3 Jahre Erfahrung in Produktentwicklung für Sportswear. Möglichkeit zur Optimierung von Kosten und Qualität. Mehr anzeigen Merken",
+   "url": "https://www.karriere.at/jobs/7903267",
    "source": "karriere.at",
    "keyword": "Illustrator",
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-02"
   },
   {
-   "title": "Digital Marketing Manager – Online & Offline (m/w/d)",
-   "snippet": "Einblicke Digital Marketing Manager – Online & Offline (m/w/d) DENZEL Gruppe vor 3 Tagen veröffentlicht Wien Vollzeit ab 54.600 € jährlich Entwicklung und Koordination digitaler Kommunikationsaufgaben. Erfordert 2-3 Jahre Erfahrung in der digitalen Marketingkommunikation und Kenntnisse in Grafikdesign-Programmen. Bietet die Möglichkeit, eine neue Marke aufzubauen. Mehr anzeigen Merken",
-   "url": "https://www.karriere.at/jobs/7901806",
+   "title": "Social Content Creator & Media Manager (m/w/d)",
+   "snippet": "Einblicke Social Content Creator & Media Manager (m/w/d) Stargate Group Werbeagentur GmbH Heute veröffentlicht Wien 3. Bezirk (Landstraße) Vollzeit Homeoffice ab 2.800 € monatlich Erstellung von Social-Media-Inhalten, Foto- und Videoproduktion, Schnitt und Postproduktion. Mehrjährige Erfahrung in Social Content, Video oder Fotografie erforderlich. Individuelles Budget für Fortbildungen und Coachin",
+   "url": "https://www.karriere.at/jobs/10034736",
    "source": "karriere.at",
    "keyword": "Illustrator",
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-02"
   },
   {
-   "title": "Designer - Wear",
-   "snippet": "Einblicke Designer - Wear Red Bull vor 3 Tagen veröffentlicht Elsbethen Vollzeit Homeoffice ab 2.334 € monatlich Entwicklung von Design- und Grafikkonzepten für Bekleidungskollektionen. Erstellung detaillierter Designpakete. 3+ Jahre Design-Erfahrung in Bekleidung/Mode. Adobe Illustrator/Photoshop Kenntnisse. Portfolio erforderlich. Mehr anzeigen Merken",
-   "url": "https://www.karriere.at/jobs/7898719",
-   "source": "karriere.at",
+   "title": "Grafik-Design & Content Manager_in",
+   "snippet": "Grafik-Design & Content Manager_in bei Paul Lange Austria GmbH Unternehmen: Paul Lange Austria GmbH Arbeitsort: 4600, Wels IHR AUFGABENGEBIET: -) Grafikdesign für Print- und Online-Medien -) Ansprechpartner für Druckereien und Werbemittellieferanten -) Gestaltung von Werbemittel für Messen und Events -) Gestaltung von Geschäfts- und Werbedrucksorten -) Erstellung und Pfl... Berufsgruppe: GrafikerI",
+   "url": "https://jobs.ams.at/public/emps/jobs/a8ea6385-400e-3db0-bb1d-8a0f59b53cfb",
+   "source": "ams-allejobs",
    "keyword": "Illustrator",
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-02"
   },
   {
-   "title": "(Junior) Grafiker:in TZ 30h (m/w/d)",
-   "snippet": "Einblicke (Junior) Grafiker:in TZ 30h (m/w/d) Schrack Technik GmbH vor 4 Tagen veröffentlicht Wien Teilzeit ab 1.800 € monatlich Gestaltung von Werbemitteln und Grafiken für Print- und Onlinekanäle. Adobe Creative Cloud (Illustrator, Photoshop, InDesign) ist erforderlich. Möglichkeit zur Weiterbildung und persönliches Mentoring. Mehr anzeigen Merken",
-   "url": "https://www.karriere.at/jobs/7901254",
-   "source": "karriere.at",
+   "title": "After Sales Engineer (m/w/x)",
+   "snippet": "After Sales Engineer (m/w/x) bei Personalservice Plus GmbH Unternehmen: Personalservice Plus GmbH Arbeitsort: 8041, Graz,07.Bez.:Liebenau Ihre Aufgaben: In Ihrer Rolle als Aftersales Engineer (m/w/x) vertreten Sie die kundenspezifischen Service- und Aftersales-Interessen bereits während der Fahrzeugentwicklung. Sie erstellen technische Dokumentationen, stellen relevante Daten bereit un... Berufsgr",
+   "url": "https://jobs.ams.at/public/emps/jobs/e169928c-06f8-3b44-bbb5-27342adbf130",
+   "source": "ams-allejobs",
    "keyword": "Illustrator",
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-02"
   },
   {
-   "title": "Metallfacharbeiter/in Laserschneidanlage (m/w/d)",
-   "snippet": "Metallfacharbeiter/in Laserschneidanlage (m/w/d) duomet GmbH Ybbsitz Als Familienbetrieb legen wir besonderen Wert auf einen respektvollen Umgangston und ein faires Miteinander. Die Motivation und Leistungsbereitschaft unseres Teams beschert uns Wachstumsraten über dem Branchenschnitt und wir bieten als Leitbetrieb der Metallindustrie topmoderne Arbeitsplätze in unse mehr vor 19 Stunden NEU",
-   "url": "https://www.stepstone.at/stellenangebote--Metallfacharbeiter-in-Laserschneidanlage-m-w-d-Ybbsitz-duomet-GmbH--1013020-inline.html",
+   "title": "Projektassistent / Technischer Zeichner (m/w/d)",
+   "snippet": "Projektassistent / Technischer Zeichner (m/w/d) ISG Personalmanagement GmbH Ried im Innkreis Projektassistent / Technischer Zeichner (m/w/d) ANGERHOFER GMBH, Ried i. Innkreis Unser Auftraggeber, ANGERHOFER GMBH, ist ein gefragter Spezialist im Anlagenbau (HKLS, Industriebau) und hat sich über Jahrzehnte einen sehr guten Namen für erstklassige technische Lösungen gemacht. mehr vor 19 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Projektassistent-Technischer-Zeichner-m-w-d-Ried-im-Innkreis-ISG-Personalmanagement-GmbH--1006383-inline.html",
    "source": "stepstone",
    "keyword": "3D Artist",
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-02"
   },
   {
-   "title": "Lead Outsourcing VFX Artist",
-   "snippet": "ES Escape Velocity Entertainment REMOTE Lead Outsourcing VFX Artist Remote — United States, Canada, Spain, United Kingdom, Czech Republic Not stated Lead Art & Animation Salary not disclosed",
-   "url": "https://gamejobsremote.com/jobs/escape-velocity-entertainment-lead-outsourcing-vfx-artist",
-   "source": "gamejobsremote",
+   "title": "Eine*n Senior Artist (m/w/d, 34 Wochenstunden, befristet auf 1 Jahr) - Transmediale Kunst",
+   "snippet": "Eine*n Senior Artist (m/w/d, 34 Wochenstunden, befristet auf 1 Jahr) - Transmediale Kunst Bewerbungsfrist: 02.11.2026 - 23.11.2026",
+   "url": "https://www.dieangewandte.at/jobs/jobdetail?job_id=317",
+   "source": "angewandte",
    "keyword": "",
-   "first_seen": "2026-11-01"
-  },
-  {
-   "title": "Lead Producer - Game Operations",
-   "snippet": "ES Escape Velocity Entertainment REMOTE Lead Producer - Game Operations Remote — United States & Canada, only ET time zone Not stated Lead Production Salary not disclosed",
-   "url": "https://gamejobsremote.com/jobs/escape-velocity-entertainment-lead-producer-game-operations",
-   "source": "gamejobsremote",
-   "keyword": "",
-   "first_seen": "2026-11-01"
-  },
-  {
-   "title": "Senior Product Designer - Growth",
-   "company": "Trustedhousesitters.com",
-   "location": "Remote – Remote",
-   "posted": "2026-11-01",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/trustedhousesitterscom/remote-senior-product-designer-growth-54230",
-   "source": "arbeitnow",
-   "snippet": "Fully Remote (UK based) | Competitive Salary + Bonus + Generous Equity | B Corp Certified TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a mission to make travel work better for pets, for their peopl",
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-02"
   }
  ]
 }
