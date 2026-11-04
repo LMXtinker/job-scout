@@ -2,10 +2,24 @@
  "errors": [],
  "per_url": {
   "https://karriere.fh-salzburg.ac.at/": {
-   "links": 8,
-   "jobs": 2,
+   "links": 7,
+   "jobs": 0,
    "final_url": "https://karriere.fh-salzburg.ac.at/",
-   "title": "Fachhochschule Salzburg"
+   "title": "Fachhochschule Salzburg",
+   "sample_links": [
+    "https://karriere.fh-salzburg.ac.at/datenschutz",
+    "https://www.fh-salzburg.ac.at/fhs/fh-als-arbeitgeberin",
+    "https://karriere.fh-salzburg.ac.at/eng",
+    "https://karriere.fh-salzburg.ac.at/stellenangebote.html",
+    "https://karriere.fh-salzburg.ac.at/jobalert.html",
+    "https://karriere.fh-salzburg.ac.at/Personalverrechnerin-de-j1144.html",
+    "https://karriere.fh-salzburg.ac.at/Researcher-wmx-Materialkreislaeufe-im-Bereich-Green-Engine-de-j1145.html",
+    "https://karriere.fh-salzburg.ac.at/Mitarbeiterin-im-Departmentoffice-de-j1136.html",
+    "https://www.rexx-systems.com/",
+    "https://karriere.fh-salzburg.ac.at/jobalert.html",
+    "https://www.fh-salzburg.ac.at/impressum",
+    "https://www.fh-salzburg.ac.at/fhs/fh-als-arbeitgeberin/bewerbungsverfahren#c406"
+   ]
   }
  }
 }
