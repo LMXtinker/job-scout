@@ -1,68 +1,26 @@
-<b>🎯 Job-Update · 06.11.</b>
-13 neue passende Stellen (2 × sehr passend 🟢)
-<i>aus 49 neuen Anzeigen</i>
+<b>🎯 Job-Update · 07.11.</b>
+4 neue passende Stellen (2 × sehr passend 🟢)
+<i>aus 25 neuen Anzeigen</i>
 
-💬 <i>Mit einer Remote-Rolle für 3D-Visualisierung und Grafikdesign-Chancen direkt in Wien ist heute ein vielseitiger Mix dabei! Präsentiere deine 3D-Renderings und Designarbeiten direkt vorne im Portfolio. 🎨</i>
-
-<b>📍 Wien</b>  ·  1
-
-🟢 <b><a href="https://at.linkedin.com/jobs/view/graphic-designer-m-w-d-at-gauder-gmbh-4485826227">Graphic Designer</a></b>
-Gauder GmbH · Wien, Wien, Österreich
-<i>Grafikdesign-Stelle direkt in Wien; deine 2D- und Design-Skills passen gut.</i>
-
-<b>🇦🇹 Österreich</b>  ·  3
-
-🟡 <b><a href="https://at.linkedin.com/jobs/view/grafik-social-media-b%C3%BCrodaministration-at-umwelt-bildungs-zentrum-steiermark-4485015210">Grafik / Social Media / Büroadministration</a></b>
-Umwelt-Bildungs-Zentrum Steiermark · Graz, Steiermark, Österreich
-<i>Grafik- und Kreativaufgaben im Bildungs-/Kulturbereich in Graz.</i>
-
-🟡 <b><a href="https://jobs.ams.at/public/emps/jobs/b392b131-3808-32ec-a077-3c37abf13b9e">Grafikdesigner &amp; Marketing-Projektkoordination</a></b>
-Egger Getränke GmbH &amp; Co OG · Unterradlberg, Österreich
-<i>Kombination aus Grafikdesign und Marketingkoordination in Niederösterreich.</i>
-
-🟡 <b><a href="https://at.linkedin.com/jobs/view/graphic-designer-team-rottensteiner-at-red-bull-4487772979">Graphic Designer - Team Rottensteiner</a></b>
-Red Bull · Salzburg, Salzburg, Österreich
-<i>Grafikdesign im Kreativumfeld bei Red Bull in Salzburg.</i>
+💬 <i>Ob stylische Motion-Szenen in Unreal Engine oder malerische Hintergründe im Indie-Bereich: Deine Bandbreite von Realtime bis 2D ist heute besonders gefragt. Zeig deinen geschulten Sinn für Bildwirkung!</i>
 
 <b>🌍 Remote</b>  ·  4
 
-🟢 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-m-w-d-f%C3%BCr-produkt-und-interieur-visualisierungen-at-reuter-gruppe-4488116750">3D-Artist für Produkt- und Interieur-Visualisierungen</a></b>
-REUTER Gruppe · Mönchengladbach
-<i>Passende 3D-Visualisierungsrolle im Remote-Bereich für deine Generalist-Skills.</i>
+🟢 <b><a href="https://www.workwithindies.com/careers/uni-dreams-background-artist">Background Artist</a></b>
+Uni Dreams · Remote
+<i>Perfekt für deine 2D-Environment- und Illustration-Skills im Indie-Bereich.</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/bild-ad-designer-m-w-d-at-jobgether-4486928582">Bild-Ad Designer</a></b>
-Jobgether · Österreich
-<i>Remote 2D/Design-Rolle mit Fokus auf visuelle Ad-Erstellung.</i>
+🟢 <b><a href="https://fr.linkedin.com/jobs/view/unreal-engine-motion-designer-mob-control-at-voodoo-4488446081">Unreal Engine Motion Designer</a></b>
+Voodoo · Paris, Frankreich
+<i>Top-Kombination aus Unreal Engine und Motion Design für Mobile Games.</i>
 
-🟡 <b><a href="https://www.arbeitnow.com/jobs/companies/4creatives-gmbh/bild-ad-designer-100-remote-freelancer-minijob-nordhorn-324691">Bild-Ad Designer – 100 % Remote</a></b>
-4creatives GmbH · Nordhorn
-<i>2D/Grafik-Design für Ads in 100% Remote-Anstellung oder Freelance.</i>
+🟡 <b><a href="https://www.workwithindies.com/careers/uni-dreams-2d-animator">2D Animator</a></b>
+Uni Dreams · Remote
+<i>Gute Remote-Option für deine 2D-Artist- und Charaktererfahrung.</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/%F0%9F%8E%AC-junior-video-content-creative-producer-f-m-x-100%25-remote-at-tomorrow-university-of-applied-sciences-4485820969">Junior Video Content &amp; Creative Producer</a></b>
-Tomorrow University of Applied Sciences · Österreich
-<i>Kreative Content-Rolle mit Video-Bezug, 100 % remote in Österreich.</i>
-
-<b>✈️ Ausland</b>  ·  5
-
-🟡 <b><a href="https://hitmarker.net/jobs/cypher-games-3d-artist-5512801">3D Artist</a></b>
-Cypher Games · Istanbul, Türkei
-<i>3D Artist Rolle bei Game-Studio in Istanbul (Ausland vor Ort).</i>
-
-🟡 <b><a href="https://hitmarker.net/jobs/vertigo-games-3d-artist-5513387">3D Artist</a></b>
-Vertigo Games · Istanbul, Türkei
-<i>3D Artist bei VR/Games-Studio Vertigo Games in Istanbul.</i>
-
-🟡 <b><a href="https://hitmarker.net/jobs/side-3d-artist-5513364">3D Artist</a></b>
-Side · Kuala Lumpur, Malaysia
-<i>3D Artist Rolle bei Side in Kuala Lumpur (Ausland vor Ort).</i>
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/artista-generalista-de-cg-at-el-ranchito-4485833803">Artista Generalista de CG</a></b>
-El Ranchito · Madrid, Spanien
-<i>Spannende VFX/CG-Generalist-Rolle bei El Ranchito vor Ort in Madrid.</i>
-
-🟡 <b><a href="https://hitmarker.net/jobs/virtuos-concept-artist-5513399">Concept Artist</a></b>
-Virtuos · Kyiv, Ukraine
-<i>Concept Art Position bei Virtuos (Ausland vor Ort).</i>
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/game-artist-at-gamblingcareers-com-4488457886">Game Artist</a></b>
+GamblingCareers.com · Danzig, Polen
+<i>Klassische 2D/3D-Game-Art-Rolle, allerdings im iGaming-Umfeld.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 

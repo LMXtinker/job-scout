@@ -2950,5 +2950,41 @@
   "region": "remote",
   "fit": "mittel",
   "reason": "Kreative Content-Rolle mit Video-Bezug, 100 % remote in Österreich."
+ },
+ "https://www.workwithindies.com/careers/uni-dreams-background-artist": {
+  "date": "2026-11-07",
+  "title": "Background Artist",
+  "company": "Uni Dreams",
+  "location": "Remote",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "Perfekt für deine 2D-Environment- und Illustration-Skills im Indie-Bereich."
+ },
+ "https://fr.linkedin.com/jobs/view/unreal-engine-motion-designer-mob-control-at-voodoo-4488446081": {
+  "date": "2026-11-07",
+  "title": "Unreal Engine Motion Designer",
+  "company": "Voodoo",
+  "location": "Paris, Frankreich",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "Top-Kombination aus Unreal Engine und Motion Design für Mobile Games."
+ },
+ "https://www.workwithindies.com/careers/uni-dreams-2d-animator": {
+  "date": "2026-11-07",
+  "title": "2D Animator",
+  "company": "Uni Dreams",
+  "location": "Remote",
+  "region": "remote",
+  "fit": "mittel",
+  "reason": "Gute Remote-Option für deine 2D-Artist- und Charaktererfahrung."
+ },
+ "https://pl.linkedin.com/jobs/view/game-artist-at-gamblingcareers-com-4488457886": {
+  "date": "2026-11-07",
+  "title": "Game Artist",
+  "company": "GamblingCareers.com",
+  "location": "Danzig, Polen",
+  "region": "remote",
+  "fit": "mittel",
+  "reason": "Klassische 2D/3D-Game-Art-Rolle, allerdings im iGaming-Umfeld."
  }
 }
