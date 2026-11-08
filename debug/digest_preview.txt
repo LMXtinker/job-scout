@@ -1,26 +1,24 @@
-<b>🎯 Job-Update · 07.11.</b>
-4 neue passende Stellen (2 × sehr passend 🟢)
-<i>aus 25 neuen Anzeigen</i>
+<b>🎯 Job-Update · 08.11.</b>
+3 neue passende Stellen (0 × sehr passend 🟢)
+<i>aus 7 neuen Anzeigen</i>
 
-💬 <i>Ob stylische Motion-Szenen in Unreal Engine oder malerische Hintergründe im Indie-Bereich: Deine Bandbreite von Realtime bis 2D ist heute besonders gefragt. Zeig deinen geschulten Sinn für Bildwirkung!</i>
+💬 <i>Mit der Creative-Technologist-Rolle in Salzburg ist heute eine spannende Tech-Art-Schnittstelle dabei! Zeig bei solchen Positionen, wie gekonnt du kreative Workflows mit technischem Know-how optimierst. 🛠️</i>
 
-<b>🌍 Remote</b>  ·  4
+<b>🇦🇹 Österreich</b>  ·  1
 
-🟢 <b><a href="https://www.workwithindies.com/careers/uni-dreams-background-artist">Background Artist</a></b>
-Uni Dreams · Remote
-<i>Perfekt für deine 2D-Environment- und Illustration-Skills im Indie-Bereich.</i>
+🟡 <b><a href="https://www.karriere.at/jobs/7904351">Creative Technologist</a></b>
+Red Bull · Salzburg
+<i>Spannende Tech-Art-Schnittstelle zur Workflow-Optimierung in Österreich.</i>
 
-🟢 <b><a href="https://fr.linkedin.com/jobs/view/unreal-engine-motion-designer-mob-control-at-voodoo-4488446081">Unreal Engine Motion Designer</a></b>
-Voodoo · Paris, Frankreich
-<i>Top-Kombination aus Unreal Engine und Motion Design für Mobile Games.</i>
+<b>✈️ Ausland</b>  ·  2
 
-🟡 <b><a href="https://www.workwithindies.com/careers/uni-dreams-2d-animator">2D Animator</a></b>
-Uni Dreams · Remote
-<i>Gute Remote-Option für deine 2D-Artist- und Charaktererfahrung.</i>
+🟡 <b><a href="https://pt.linkedin.com/jobs/view/archviz-at-masslab-4485542286">Archviz Artist</a></b>
+MASSLAB · Porto, Portugal
+<i>Architekturvisualisierung deckt sich gut mit deinen 3D- und Rendering-Skills.</i>
 
-🟡 <b><a href="https://pl.linkedin.com/jobs/view/game-artist-at-gamblingcareers-com-4488457886">Game Artist</a></b>
-GamblingCareers.com · Danzig, Polen
-<i>Klassische 2D/3D-Game-Art-Rolle, allerdings im iGaming-Umfeld.</i>
+🟡 <b><a href="https://nl.linkedin.com/jobs/view/motion-designer-at-timeblend-app-4488140975">Motion Designer</a></b>
+timeblend.app · Randstad, Niederlande
+<i>Motion-Design-Rolle; prüfe vorab den konkreten 3D- und Echtzeit-Bezug.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
