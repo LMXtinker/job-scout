@@ -1,378 +1,686 @@
 {
- "generated": "2026-11-09T09:55:01+00:00",
- "count": 42,
+ "generated": "2026-11-10T09:58:50+00:00",
+ "count": 73,
  "jobs": [
   {
-   "title": "3D Design Intern (f/m/d)",
-   "company": "Nuki Home Solutions GmbH",
-   "location": "Graz, Steiermark, Österreich",
-   "posted": "2026-11-09",
-   "url": "https://at.linkedin.com/jobs/view/3d-design-intern-f-m-d-at-nuki-home-solutions-gmbh-4488827686",
+   "title": "AI Video Specialist - VFX & Seamless Transitions for Immersive Film",
+   "company": "Attraktion! Group of Companies",
+   "location": "Oberösterreich, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/ai-video-specialist-vfx-seamless-transitions-for-immersive-film-at-attraktion%21-group-of-companies-4487447447",
    "source": "linkedin-at",
    "keyword": "3D Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Motion & Video Designer (f/m/d)",
-   "company": "Nuki Home Solutions GmbH",
-   "location": "Graz, Steiermark, Österreich",
+   "title": "Studentische Mitarbeit Visual Design (20 h/Woche)",
+   "company": "Knorr-Bremse",
+   "location": "Kematen an der Ybbs, Niederösterreich, Österreich",
    "posted": "2026-11-09",
-   "url": "https://at.linkedin.com/jobs/view/motion-video-designer-f-m-d-at-nuki-home-solutions-gmbh-4488832512",
+   "url": "https://at.linkedin.com/jobs/view/studentische-mitarbeit-visual-design-20-h-woche-at-knorr-bremse-ag-4487915712",
    "source": "linkedin-at",
    "keyword": "3D Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Creative Designer:in für Social Media Content - Fokus Video | 20-35 h (m/w/d)",
+   "company": "KPTN",
+   "location": "Graz, Steiermark, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/creative-designer-in-f%C3%BCr-social-media-content-fokus-video-20-35-h-m-w-d-at-kptn-4487445555",
+   "source": "linkedin-at",
+   "keyword": "3D Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Bitmovin",
+   "location": "Wien, Österreich",
+   "posted": "2026-11-03",
+   "url": "https://at.linkedin.com/jobs/view/software-engineer-intern-at-bitmovin-4486891086",
+   "source": "linkedin-at",
+   "keyword": "Technical Artist",
+   "first_seen": "2026-11-10"
   },
   {
    "title": "Technical Consultant Digital Analytics (Junior) - m/w/d - Vienna",
    "company": "mohrstade",
    "location": "Breitenfurt bei Wien, Niederösterreich, Österreich",
-   "posted": "2026-11-09",
-   "url": "https://at.linkedin.com/jobs/view/technical-consultant-digital-analytics-junior-m-w-d-vienna-at-mohrstade-4487106884",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/technical-consultant-digital-analytics-junior-m-w-d-vienna-at-mohrstade-4487427366",
    "source": "linkedin-at",
    "keyword": "Technical Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
    "title": "Technical Consultant Digital Analytics (Senior) - m/w/d - Vienna",
    "company": "mohrstade",
    "location": "Breitenfurt bei Wien, Niederösterreich, Österreich",
-   "posted": "2026-11-09",
-   "url": "https://at.linkedin.com/jobs/view/technical-consultant-digital-analytics-senior-m-w-d-vienna-at-mohrstade-4487115682",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/technical-consultant-digital-analytics-senior-m-w-d-vienna-at-mohrstade-4487415886",
    "source": "linkedin-at",
    "keyword": "Technical Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "IT-Supervisor (m/w/d)",
-   "company": "Sirius-ES",
-   "location": "Wels, Oberösterreich, Österreich",
-   "posted": "2026-11-06",
-   "url": "https://at.linkedin.com/jobs/view/it-supervisor-m-w-d-at-sirius-es-4486204732",
+   "title": "Manager:in Agentic UX Development (w/m/d)",
+   "company": "Fabasoft",
+   "location": "Linz (Stadt), Oberösterreich, Österreich",
+   "posted": "2026-11-09",
+   "url": "https://at.linkedin.com/jobs/view/manager-in-agentic-ux-development-w-m-d-at-fabasoft-4488835404",
+   "source": "linkedin-at",
+   "keyword": "Technical Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Geschäftsführer:in (w/m/d)",
+   "company": "Deloitte",
+   "location": "Wien, Österreich",
+   "posted": "2026-11-09",
+   "url": "https://at.linkedin.com/jobs/view/gesch%C3%A4ftsf%C3%BChrer-in-w-m-d-at-deloitte-4488882225",
    "source": "linkedin-at",
    "keyword": "Unreal Engine",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Software Developer – AI for Analog Layout Automation",
-   "company": "Siemens EDA (Siemens Digital Industries Software)",
+   "title": "Senior Project Manager - Sports",
+   "company": "LOOP®",
+   "location": "Salzburg, Salzburg, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/senior-project-manager-sports-at-loop%C2%AE-4489435593",
+   "source": "linkedin-at",
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior Project Manager - Sports",
+   "company": "LOOP®",
    "location": "Wien, Wien, Österreich",
-   "posted": "2026-11-06",
-   "url": "https://at.linkedin.com/jobs/view/software-developer-%E2%80%93-ai-for-analog-layout-automation-at-siemens-eda-siemens-digital-industries-software-4487309778",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/senior-project-manager-sports-at-loop%C2%AE-4489452062",
    "source": "linkedin-at",
-   "keyword": "Realtime Artist",
-   "first_seen": "2026-11-09"
+   "keyword": "Unreal Engine",
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Konstrukteur und Fertigungsbetreuer (m/w/d) – Schienenfahrzeuge",
-   "company": "efinio IT & Engineering",
-   "location": "Wien, Wien, Österreich",
-   "posted": "2026-10-30",
-   "url": "https://at.linkedin.com/jobs/view/konstrukteur-und-fertigungsbetreuer-m-w-d-%E2%80%93-schienenfahrzeuge-at-efinio-it-engineering-4483458019",
+   "title": "Creative Designer | Logos",
+   "company": "Jobgether",
+   "location": "Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/creative-designer-logos-at-jobgether-4487454395",
    "source": "linkedin-at",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
+   "keyword": "Game Artist",
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Konstrukteur Mechanik (m/w/d)",
-   "company": "ACTIVE SOLUTION GmbH",
-   "location": "Baden, Niederösterreich, Österreich",
-   "posted": "2026-11-08",
-   "url": "https://at.linkedin.com/jobs/view/konstrukteur-mechanik-m-w-d-at-active-solution-gmbh-4486685714",
+   "title": "Digital Designer (m/w/x)",
+   "company": "Solid & Bold",
+   "location": "Salzburg, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/digital-designer-m-w-x-at-solid-bold-4489420596",
    "source": "linkedin-at",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
+   "keyword": "Game Artist",
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Konstrukteur - Betriebs&shy;mittel- und Vorrichtungs&shy;technik*",
-   "company": "HARGASSNER France",
-   "location": "Weng im Innkreis, Oberösterreich, Österreich",
+   "title": "Digital Designer (m/w/x)",
+   "company": "Solid & Bold",
+   "location": "Salzburg, Salzburg, Österreich",
+   "posted": "2026-11-09",
+   "url": "https://at.linkedin.com/jobs/view/digital-designer-m-w-x-at-solid-bold-4487153766",
+   "source": "linkedin-at",
+   "keyword": "Game Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Creative Content Manager (all genders)",
+   "company": "CURA COSMETICS GROUP",
+   "location": "Innsbruck, Tirol, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/creative-content-manager-all-genders-at-cura-cosmetics-group-4488312129",
+   "source": "linkedin-at",
+   "keyword": "Concept Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Design & Assistenz Einkauf",
+   "company": "FUSSL Modestraße",
+   "location": "Ort im Innkreis, Oberösterreich, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/design-assistenz-einkauf-at-fussl-modestra%C3%9Fe-4489425178",
+   "source": "linkedin-at",
+   "keyword": "Concept Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Statik / konstruktiver Ingenieurbau für nationale und internationale Industrie (m/w/d)",
+   "company": "BHM INGENIEURE - Engineering & Consulting GmbH",
+   "location": "Feldkirch, Vorarlberg, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/statik-konstruktiver-ingenieurbau-f%C3%BCr-nationale-und-internationale-industrie-m-w-d-at-bhm-ingenieure-engineering-consulting-gmbh-4487444491",
+   "source": "linkedin-at",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Mechanical Design Engineer - Special Purpose Machinery (m/w/d)",
+   "company": "WHC Heads Austria",
+   "location": "Hörsching, Oberösterreich, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/mechanical-design-engineer-special-purpose-machinery-m-w-d-at-whc-heads-austria-4487442881",
+   "source": "linkedin-at",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Konstrukteur Maschinenbau (w/m/x)",
+   "company": "BEKO Solutions GmbH",
+   "location": "Steyr, Oberösterreich, Österreich",
+   "posted": "2026-11-09",
+   "url": "https://at.linkedin.com/jobs/view/konstrukteur-maschinenbau-w-m-x-at-beko-solutions-gmbh-4487691654",
+   "source": "linkedin-at",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Social Media Videographer & Editor",
+   "company": "LOOP®",
+   "location": "Salzburg, Salzburg, Österreich",
+   "posted": "2026-11-10",
+   "url": "https://at.linkedin.com/jobs/view/social-media-videographer-editor-at-loop%C2%AE-4489444356",
+   "source": "linkedin-at",
+   "keyword": "Virtual Production",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Masterarbeit: Verbesserung der GNSS-Robustheit und Jamming-Detektion",
+   "company": "Kapsch Group",
+   "location": "Innere Stadt, Wien, Österreich",
    "posted": "2026-11-05",
-   "url": "https://at.linkedin.com/jobs/view/konstrukteur-betriebs-shy-mittel-und-vorrichtungs-shy-technik-at-hargassner-france-4487591252",
+   "url": "https://at.linkedin.com/jobs/view/masterarbeit-verbesserung-der-gnss-robustheit-und-jamming-detektion-at-kapsch-group-4485862125",
    "source": "linkedin-at",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Technische Leitung Medienzentrum (m/w/d) E 12 TVöD",
-   "company": "Bundeswehr Standort",
-   "location": "Neubiberg",
-   "posted": "2026-10-26",
-   "url": "https://de.linkedin.com/jobs/view/technische-leitung-medienzentrum-m-w-d-e-12-tv%C3%B6d-4483873326",
-   "source": "linkedin-remote-eu",
-   "keyword": "Virtual Production",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Social media y editor/a de vídeo (IA y Performance)",
-   "company": "Órbitas",
-   "location": "Spanien",
-   "posted": "2026-11-06",
-   "url": "https://es.linkedin.com/jobs/view/social-media-y-editor-a-de-v%C3%ADdeo-ia-y-performance-at-%C3%B3rbitas-4488123243",
-   "source": "linkedin-remote-eu",
-   "keyword": "Virtual Production",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Dessinateur Projeteur 3D (Junior/Expérimenté) H/F",
-   "company": "Ortec Group",
-   "location": "Tours, Centre-Val de Loire, Frankreich",
-   "posted": "2026-11-08",
-   "url": "https://fr.linkedin.com/jobs/view/dessinateur-projeteur-3d-junior-exp%C3%A9riment%C3%A9-h-f-at-ortec-group-4462867067",
-   "source": "linkedin-remote-eu",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "BIM Modelleur / Technisch Ontwerper - Kracht Recruitment",
-   "company": "Jobster",
-   "location": "Leiden, Südholland, Niederlande",
-   "posted": "2026-11-06",
-   "url": "https://nl.linkedin.com/jobs/view/bim-modelleur-technisch-ontwerper-kracht-recruitment-at-jobster-4486938046",
-   "source": "linkedin-remote-eu",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "BIM modelleur",
-   "company": "WSP in Nederland",
-   "location": "Region Arnhem/Nijmegen",
-   "posted": "2026-11-08",
-   "url": "https://nl.linkedin.com/jobs/view/bim-modelleur-at-wsp-in-the-netherlands-4339833574",
-   "source": "linkedin-remote-eu",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Combat Game Designer (F/M/NB)",
-   "company": "Ubisoft Bordeaux",
-   "location": "Bordeaux, Neu-Aquitanien, Frankreich",
-   "posted": "2026-11-06",
-   "url": "https://fr.linkedin.com/jobs/view/combat-game-designer-f-m-nb-at-ubisoft-bordeaux-4486252640",
-   "source": "linkedin-remote-eu",
    "keyword": "Game Design",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "(Senior) Game Designer - Systems & Economy (f/m/d)",
-   "company": "Iteration One GmbH",
-   "location": "Karlsruhe",
+   "title": "E-Learning & Digital Learning Specialist (m/w/d) - Teilzeit 70-80%",
+   "company": "Rauch Fruchtsäfte",
+   "location": "Rankweil, Vorarlberg, Österreich",
+   "posted": "2026-11-09",
+   "url": "https://at.linkedin.com/jobs/view/e-learning-digital-learning-specialist-m-w-d-teilzeit-70-80%25-at-rauch-fruchts%C3%A4fte-4487172378",
+   "source": "linkedin-at",
+   "keyword": "Game Design",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Product / UX Designer",
+   "company": "Genetec",
+   "location": "Wien, Wien, Österreich",
+   "posted": "2026-11-05",
+   "url": "https://at.linkedin.com/jobs/view/product-ux-designer-at-genetec-4487764362",
+   "source": "linkedin-at",
+   "keyword": "Game Design",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior Render Artist",
+   "company": "Charged Monkey",
+   "location": "Prag, Tschechien",
+   "posted": "2026-11-02",
+   "url": "https://cz.linkedin.com/jobs/view/senior-render-artist-at-charged-monkey-4486168051",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Game UI Artist (2D)",
+   "company": "Dark Cloud Games",
+   "location": "Lissabon, Lissabon, Portugal",
    "posted": "2026-11-07",
-   "url": "https://de.linkedin.com/jobs/view/senior-game-designer-systems-economy-f-m-d-at-iteration-one-gmbh-4486654239",
+   "url": "https://pt.linkedin.com/jobs/view/game-ui-artist-2d-at-dark-cloud-games-4486255035",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "UI Artist | New Games",
+   "company": "King",
+   "location": "Barcelona, Cataluña, Spanien",
+   "posted": "2026-11-06",
+   "url": "https://es.linkedin.com/jobs/view/ui-artist-new-games-at-king-4471110519",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Game Artist",
+   "company": "GamblingCareers.com",
+   "location": "Danzig, Voivod Pommern, Polen",
+   "posted": "2026-11-08",
+   "url": "https://pl.linkedin.com/jobs/view/game-artist-at-gamblingcareers-com-4488775524",
+   "source": "linkedin-remote-eu",
+   "keyword": "Concept Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Konzeptdesigner:in",
+   "company": "CBR Fashion Group",
+   "location": "Metropolregion Hannover-Braunschweig-Göttingen-Wolfsburg",
+   "posted": "2026-11-09",
+   "url": "https://de.linkedin.com/jobs/view/konzeptdesigner-in-at-cbr-fashion-group-4487693271",
+   "source": "linkedin-remote-eu",
+   "keyword": "Concept Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Styliste Graphiste Senior Flou & Tailleur",
+   "company": "Confidentiel",
+   "location": "Paris, Île-de-France, Frankreich",
+   "posted": "2026-11-09",
+   "url": "https://fr.linkedin.com/jobs/view/styliste-graphiste-senior-flou-tailleur-at-confidentiel-4487142825",
+   "source": "linkedin-remote-eu",
+   "keyword": "Concept Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Technical Writer and Graphic Designer (m/f/d)",
+   "company": "Tintschl Unternehmensgruppe",
+   "location": "Immenstaad am Bodensee",
+   "posted": "2026-11-09",
+   "url": "https://de.linkedin.com/jobs/view/technical-writer-and-graphic-designer-m-f-d-at-tintschl-unternehmensgruppe-4488873133",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Live Ops Artist (Diseñador/a Gráfico/a)",
+   "company": "Space Go",
+   "location": "Sant Cugat del Vallès, Cataluña, Spanien",
+   "posted": "2026-11-09",
+   "url": "https://es.linkedin.com/jobs/view/live-ops-artist-dise%C3%B1ador-a-gr%C3%A1fico-a-at-space-go-4487141802",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Game Artist",
+   "company": "GamblingCareers.com",
+   "location": "Krakau, Malopolskie, Polen",
+   "posted": "2026-11-09",
+   "url": "https://pl.linkedin.com/jobs/view/game-artist-at-gamblingcareers-com-4488814475",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Graphic Designer - categoria protetta L.68/99",
+   "company": "Archimede - Agenzia per il lavoro -filiale di Udine",
+   "location": "Correggio, Emilia Romagna, Italien",
+   "posted": "2026-11-06",
+   "url": "https://it.linkedin.com/jobs/view/graphic-designer-categoria-protetta-l-68-99-at-archimede-agenzia-per-il-lavoro-filiale-di-udine-4488420839",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Grafik Desinger",
+   "company": "Greif Concept Management",
+   "location": "Hamburg",
+   "posted": "2026-11-08",
+   "url": "https://de.linkedin.com/jobs/view/grafik-desinger-at-greif-concept-management-4486688720",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Grafikdesigner (m/w/d)",
+   "company": "eFLY Marketplace Services GmbH",
+   "location": "Stuttgart",
+   "posted": "2026-11-09",
+   "url": "https://de.linkedin.com/jobs/view/grafikdesigner-m-w-d-at-efly-marketplace-services-gmbh-4487129881",
+   "source": "linkedin-remote-eu",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "3D Content Creative",
+   "company": "dentsu",
+   "location": "Madrid, Autonome Gemeinschaft Madrid, Spanien",
+   "posted": "2026-11-09",
+   "url": "https://es.linkedin.com/jobs/view/3d-content-creative-at-dentsu-4487943324",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "ONVO 3D Polygon Modeler (m/f/x) -Munich, Germany",
+   "company": "NIO",
+   "location": "München",
+   "posted": "2026-11-10",
+   "url": "https://de.linkedin.com/jobs/view/onvo-3d-polygon-modeler-m-f-x-munich-germany-at-nio-4478454541",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior 3D Artist (f/m/x)",
+   "company": "Sii Poland",
+   "location": "Łódź, Lodzkie, Polen",
+   "posted": "2026-11-09",
+   "url": "https://pl.linkedin.com/jobs/view/senior-3d-artist-f-m-x-at-sii-poland-4487422184",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior 3D Artist (f/m/x)",
+   "company": "Sii Poland",
+   "location": "Warschau, Voivod Masowien, Polen",
+   "posted": "2026-11-09",
+   "url": "https://pl.linkedin.com/jobs/view/senior-3d-artist-f-m-x-at-sii-poland-4487414633",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "3D Artist / CGI Visualiser – Interiors (Superyachts)",
+   "company": "Studio ZEA",
+   "location": "Utrecht, Utrecht, Niederlande",
+   "posted": "2026-11-10",
+   "url": "https://nl.linkedin.com/jobs/view/3d-artist-cgi-visualiser-%E2%80%93-interiors-superyachts-4488893622",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "3D & Visual Content Artist",
+   "company": "Alta Ares",
+   "location": "Paris, Île-de-France, Frankreich",
+   "posted": "2026-11-09",
+   "url": "https://fr.linkedin.com/jobs/view/3d-visual-content-artist-at-alta-ares-4489159368",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Environment Artist",
+   "company": "Coffee Stain North",
+   "location": "Stockholm, Provinz Stockholm, Schweden",
+   "posted": "2026-11-10",
+   "url": "https://se.linkedin.com/jobs/view/environment-artist-at-coffee-stain-north-4487452808",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Grafik 3D",
+   "company": "Awena Agencja Reklamowa",
+   "location": "Warschau, Voivod Masowien, Polen",
+   "posted": "2026-11-05",
+   "url": "https://pl.linkedin.com/jobs/view/grafik-3d-at-awena-agencja-reklamowa-4485836153",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Generalist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior Producer",
+   "company": "WIR SIND UMBRELLA COLLECTIVE",
+   "location": "Budapest, Ungarn",
+   "posted": "2026-11-05",
+   "url": "https://hu.linkedin.com/jobs/view/senior-producer-at-we-are-umbrella-collective-4485822712",
+   "source": "linkedin-remote-eu",
+   "keyword": "Virtual Production",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Junior (BIM) modelleur",
+   "company": "Sweco",
+   "location": "Alkmaar, Nordholland, Niederlande",
+   "posted": "2026-11-09",
+   "url": "https://nl.linkedin.com/jobs/view/junior-bim-modelleur-at-sweco-4487900604",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Designer",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Dessinateur projeteur Aéronautique - SolidWorks H/F",
+   "company": "CTS Consulting & Technical Support",
+   "location": "Bordeaux, Neu-Aquitanien, Frankreich",
+   "posted": "2026-11-09",
+   "url": "https://fr.linkedin.com/jobs/view/dessinateur-projeteur-a%C3%A9ronautique-solidworks-h-f-at-cts-consulting-technical-support-4487948914",
+   "source": "linkedin-remote-eu",
+   "keyword": "3D Designer",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Senior Game Economy Designer",
+   "company": "Tripledot Studios",
+   "location": "Warschau, Voivod Masowien, Polen",
+   "posted": "2026-11-09",
+   "url": "https://pl.linkedin.com/jobs/view/senior-game-economy-designer-at-tripledot-studios-4489153348",
    "source": "linkedin-remote-eu",
    "keyword": "Game Design",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Software Test Engineer (f/m/x)",
-   "snippet": "Software Test Engineer (f/m/x) Anton Paar GmbH Graz Teilweise Home-Office Schnelle Bewerbung Is quality your passion? Are automated tests your expertise? Then help us shape the future of measurement technology software! As a Software Test Engineer (f/m/x), you will develop automation solutions, optimize test processes, and ensure the highest software quality. Apply now! mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Software-Test-Engineer-f-m-x-Graz-Anton-Paar-GmbH--1012773-inline.html",
+   "title": "Game Designer (Match-3)",
+   "company": "VOKI Games",
+   "location": "Polen",
+   "posted": "2026-10-29",
+   "url": "https://pl.linkedin.com/jobs/view/game-designer-match-3-at-voki-games-4473769244",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Design",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Lead Level Designer",
+   "company": "Old Skull Games",
+   "location": "Villeurbanne, Auvergne-Rhône-Alpes, Frankreich",
+   "posted": "2026-11-05",
+   "url": "https://fr.linkedin.com/jobs/view/lead-level-designer-at-old-skull-games-4487748346",
+   "source": "linkedin-remote-eu",
+   "keyword": "Game Design",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Berufspraktikant:in Grafik",
+   "snippet": "Einblicke Berufspraktikant:in Grafik Raiffeisen Oberösterreich Gestern veröffentlicht Linz Teilzeit Homeoffice ab 2.420,37 € monatlich Merken",
+   "url": "https://www.karriere.at/jobs/7906109",
+   "source": "karriere.at",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Assistant to the Board*",
+   "snippet": "Assistant to the Board* KTM AG Gestern veröffentlicht Mattighofen Vollzeit Homeoffice ab 54.359,08 € jährlich Unterstützung des Vorstands bei Organisation und Administration. Erfordert mehrjährige Erfahrung als Executive Assistant und sehr gute MS Office-Kenntnisse. Bietet Mitgestaltungsmöglichkeiten und flexible Arbeitszeitmodelle. Mehr anzeigen Merken",
+   "url": "https://www.karriere.at/jobs/7907165",
+   "source": "karriere.at",
+   "keyword": "Virtual Production",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Grafiker/in (m/w/d)",
+   "snippet": "Grafiker/in (m/w/d) bei VICTORIA AWARDS Unternehmen: VICTORIA AWARDS Arbeitsort: 1080, Wien,Josefstadt Sie haben eine solide Ausbildung und mehrere Jahre Erfahrung als Grafiker_in und haben vielleicht schon Erfahrung mit 3D-Druck, UV-Druck, Lasergravur und/oder Metallgravur . Sollte Ihnen die Erfahrung fehlen, bringen Sie die Bereitschaft mit, sich in... Berufsgruppe: GrafikerIn Dienstverhältnis: ",
+   "url": "https://jobs.ams.at/public/emps/jobs/6325e051-262a-30bd-bb3a-2f5ee9d30b02",
+   "source": "ams-allejobs",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Mitarbeiter/in (m/w/d) für Auftragsabwicklung und Verkauf",
+   "snippet": "Mitarbeiter/in (m/w/d) für Auftragsabwicklung und Verkauf bei VICTORIA AWARDS Unternehmen: VICTORIA AWARDS Arbeitsort: 1080, Wien,Josefstadt Sie sollten die Fähigkeit und den Willen haben, unsere Kunden gut zu beraten und deren Aufträge von A-Z erfolgreich abzuwickeln. Dazu gehören Verhandlungen mit Lieferanten, Einkauf, Kalkulation, Koordination der Abteilungen im Haus, Qualitätskontroll... Beruf",
+   "url": "https://jobs.ams.at/public/emps/jobs/55d9048c-0661-3f4d-90a2-523388788057",
+   "source": "ams-allejobs",
+   "keyword": "Illustrator",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Kundenbetreuung Verkauf Badezimmerausstattung (m/w/d)",
+   "snippet": "Kundenbetreuung Verkauf Badezimmerausstattung (m/w/d) Tenne Bad & Fliesen Vösendorf Wir sind eine große Familie! Bei Tenne leben wir eine vertrauensvolle und wertschätzende Zusammenarbeit, die sich stets im Arbeitsalltag wiederfindet. Flache Hierarchien sowie offene und direkte Kommunikationswege sind bei uns wesentlich für ein gegenseitiges Vertrauen und ein starkes, kollegiales M mehr vor 2 Stun",
+   "url": "https://www.stepstone.at/stellenangebote--Kundenbetreuung-Verkauf-Badezimmerausstattung-m-w-d-Voesendorf-Tenne-Bad-Fliesen--1014854-inline.html",
+   "source": "stepstone",
+   "keyword": "3D Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Grillchef (m/w/d) BOXWOOD - The Art oft Steak",
+   "snippet": "Grillchef (m/w/d) BOXWOOD - The Art oft Steak Buxbaum Hospitality Wien Die Buxbaum Hospitality Group ist ein innovatives Gastronomieunternehmen aus Wien. Buxbaum - Fine Dining Restaurant Boxwood - High End Steakhouse Bojito - Latin inspired cocktail bar Buxbaum Boutique Hotel- 4* Boutiquehotel Anstellungsart: Vollzeit mehr vor 14 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Grillchef-m-w-d-BOXWOOD-The-Art-oft-Steak-Wien-Buxbaum-Hospitality--1011759-inline.html",
    "source": "stepstone",
    "keyword": "Environment Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Inhouse Consultant",
-   "snippet": "Inhouse Consultant AT&S Austria Technologie & Systemtechnik AG Leoben AT&S is a leading global manufacturer of high-end IC substrates and printed circuit boards. AT&S industrializes leading-edge technologies for its core business segments Mobile Devices & Substrates, Automotive & Aerospace, Industrial and Medical and high-performance computing for AI a mehr vor 10 Stunden NEU",
-   "url": "https://www.stepstone.at/stellenangebote--Inhouse-Consultant-Leoben-ATS-Austria-Technologie-Systemtechnik-AG--970753-inline.html",
+   "title": "Final Quality Check Engineer (w/m/d)",
+   "snippet": "Final Quality Check Engineer (w/m/d) DEWETRON GmbH Grambach Schnelle Bewerbung Wir bei DEWETRON haben ein großes Ziel: messbar andere Messtechnik. Mit jeder Menge Leidenschaft gehen wir als Team die Extrameile, um unsere KundInnen in den unterschiedlichsten Industrien, wie E-Mobilität, Erneuerbare Energien oder der Luft- und Raumfahrt bestmöglich zu unterstützen. Bei uns zählt mehr vor 17 Stunden ",
+   "url": "https://www.stepstone.at/stellenangebote--Final-Quality-Check-Engineer-w-m-d-Grambach-DEWETRON-GmbH--1008046-inline.html",
    "source": "stepstone",
    "keyword": "Environment Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Operations Associate (m/w/d)",
-   "snippet": "Operations Associate (m/w/d) LiMe GmbH Vienna Schnelle Bewerbung Lime is the largest global shared micromobility business, operating in close to 30 countries across five continents. We’re on a mission to build a future where transportation is shared, affordable and carbon-free. Our electric bikes and scooters have powered more than one billion rides in cities aro mehr vor 19 Stunden NEU",
-   "url": "https://www.stepstone.at/stellenangebote--Operations-Associate-m-w-d-Vienna-LiMe-GmbH--1014657-inline.html",
+   "title": "Endpoint Automation Engineer (all genders)",
+   "snippet": "Endpoint Automation Engineer (all genders) Lam Research Villach At Lam Research, we create equipment that drives technological advancements in the semiconductor industry. Our innovative solutions enable chipmakers to power progress in nearly all aspects of modern life, and it takes each member of our team to make it possible. Across our organization, our employe mehr vor 10 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Endpoint-Automation-Engineer-all-genders-Villach-Lam-Research--996999-inline.html",
    "source": "stepstone",
    "keyword": "Environment Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Principal Engineer R&D - Build-up Process",
-   "snippet": "Principal Engineer R&D - Build-up Process AT&S Austria Technologie & Systemtechnik AG Leoben AT&S is a leading global manufacturer of high-end IC substrates and printed circuit boards. AT&S industrializes leading-edge technologies for its core business segments Mobile Devices & Substrates, Automotive & Aerospace, Industrial and Medical and high-performance computing for AI a mehr vor 10 Stunden NE",
-   "url": "https://www.stepstone.at/stellenangebote--Principal-Engineer-RD-Build-up-Process-Leoben-ATS-Austria-Technologie-Systemtechnik-AG--1001656-inline.html",
+   "title": "Electrical & Automation Maintenance Engineer",
+   "snippet": "Electrical & Automation Maintenance Engineer AT&S Austria Technologie & Systemtechnik AG Leoben AT&S is a leading global manufacturer of high-end IC substrates and printed circuit boards. AT&S industrializes leading-edge technologies for its core business segments Mobile Devices & Substrates, Automotive & Aerospace, Industrial and Medical and high-performance computing for AI a mehr vor 11 Stunden",
+   "url": "https://www.stepstone.at/stellenangebote--Electrical-Automation-Maintenance-Engineer-Leoben-ATS-Austria-Technologie-Systemtechnik-AG--1001940-inline.html",
    "source": "stepstone",
    "keyword": "Environment Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Housekeeping Attendant (Public Areas) (m/w/d)",
-   "snippet": "Housekeeping Attendant (Public Areas) (m/w/d) Radisson RED Innsbruck Innsbruck Radisson Hotel Group is one of the world's largest hotel groups with ten distinctive hotel brands, and more than 1,500 hotels in operation and under development in 95+ countries. The Group's overarching brand promise is Every Moment Matters with a signature Yes I Can! service ethos. People are mehr vor 1 Tag",
-   "url": "https://www.stepstone.at/stellenangebote--Housekeeping-Attendant-Public-Areas-m-w-d-Innsbruck-Radisson-RED-Innsbruck--988576-inline.html",
+   "title": "EDI / E-Invoicing Integration Engineer (f/m/d) - with fluent German",
+   "snippet": "EDI / E-Invoicing Integration Engineer (f/m/d) - with fluent German ecosio GmbH Austria, Germany, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax so",
+   "url": "https://www.stepstone.at/stellenangebote--EDI-E-Invoicing-Integration-Engineer-f-m-d-with-fluent-German-Austria-Germany-Spain-UK-Italy-Hungary-Portugal-Croatia-Remote-ecosio-GmbH--940987-inline.html",
    "source": "stepstone",
    "keyword": "Environment Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "In-House Legal Counsel & Governance Officer (all genders)",
-   "snippet": "In-House Legal Counsel & Governance Officer (all genders) PMC International GmbH Wien Our client, Vienna International School – Austria, seeks a In-House Legal Counsel & Governance Officer (all genders) Full-time (38.5 hours/week) - as soon as possible Shape the Legal & Governance Landscape of a Leading International School Are you an experienced legal pr mehr vor 16 Stunden NEU",
-   "url": "https://www.stepstone.at/stellenangebote--In-House-Legal-Counsel-Governance-Officer-all-genders-Wien-PMC-International-GmbH--1004857-inline.html",
-   "source": "stepstone",
-   "keyword": "Environment Artist",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Commis de Cuisine (m/w/d) Winterseason 2026/27",
-   "snippet": "Commis de Cuisine (m/w/d) Winterseason 2026/27 TOP Hotel Hochgurgl Obergurgl Wenn Du ein Teil unseres Teams im TOP Hotel Hochgurgl werden möchtest Wenn Du Dich für die internationale Hotellerie und Gastronomie begeisterst Wenn Pioniergeist, Mut, Ausdauer und Kreativität Dich auszeichnen Wenn Du Lust auf die Arbeit mit einem dynamischen Team hast Dann bewirb Dich für unser To mehr vor 13 Stunden NE",
-   "url": "https://www.stepstone.at/stellenangebote--Commis-de-Cuisine-m-w-d-Winterseason-2026-27-Obergurgl-TOP-Hotel-Hochgurgl--993072-inline.html",
-   "source": "stepstone",
-   "keyword": "Environment Artist",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Trainer*in für Workshops an Schulen (m/w/d) - Tirol, Vorarlberg, Kärnten, Oberösterreich",
-   "snippet": "Trainer*in für Workshops an Schulen (m/w/d) - Tirol, Vorarlberg, Kärnten, Oberösterreich Three Coins GmbH Vienna Schnelle Bewerbung Du möchtest junge Menschen dabei unterstützen, Entscheidungen bewusster zu treffen und Risikosituationen im Alltag besser einzuschätzen? Dann bist du bei uns genau richtig! Ab 2027 starten wir ein österreichweites Bildungsprogramm zur Förderung von Risikokompetenz bei",
-   "url": "https://www.stepstone.at/stellenangebote--Trainerin-fuer-Workshops-an-Schulen-m-w-d-Tirol-Vorarlberg-Kaernten-Oberoesterreich-Vienna-Three-Coins-GmbH--1014548-inline.html",
-   "source": "stepstone",
-   "keyword": "Game Artist",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Host Service & Reception (m/w/d) Teilzeit",
-   "snippet": "Host Service & Reception (m/w/d) Teilzeit Ruby GmbH Wien Arbeiten nach Lean Luxury Philosophie mit Ruby Spirit im Herzen. Wir wünschen uns ein Team, in dem die unterschiedlichsten Menschen ihren Platz finden, weil Vielfalt und Anderssein uns wichtig sind. Du sollst bei uns du selbst sein. Jeder bringt seinen eigenen Rhythmus und seine eigene Melodie mit. mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Host-Service-Reception-m-w-d-Teilzeit-Wien-Ruby-GmbH--1014506-inline.html",
-   "source": "stepstone",
-   "keyword": "Game Artist",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Werkstattmitarbeiter für technische Montage | Quereinstieg möglich (m/w/d)",
-   "snippet": "Werkstattmitarbeiter für technische Montage | Quereinstieg möglich (m/w/d) CampConcept AT e.U. Paternion CampConcept plant und realisiert technische Infrastruktur für Camping- und Reisemobilstellplätze im gesamten DACH-Raum. Einen Teil der dafür eingesetzten Technik entwickeln und produzieren wir selbst. In unserer Werkstatt in Neu-Feffernitz entstehen unter anderem Stromversorgungssäulen, Verteil",
-   "url": "https://www.stepstone.at/stellenangebote--Werkstattmitarbeiter-fuer-technische-Montage-Quereinstieg-moeglich-m-w-d-Paternion-CampConcept-AT-e-U--996827-inline.html",
+   "title": "Online-Redakteur (m/w/d) Schmuck & Uhren | Online, Social Media & KI-gestützte Content-Produktion",
+   "snippet": "Online-Redakteur (m/w/d) Schmuck & Uhren | Online, Social Media & KI-gestützte Content-Produktion NCA NEW CONCEPT AGENTUR GMBH Wien Teilweise Home-Office Schnelle Bewerbung NCA New Concept Agentur GmbH 38,5 Stunden/Woche | Feste Anstellung | Wien Du denkst journalistisch, erkennst relevante Themen und kannst komplexe Zusammenhänge verständlich und zielgruppengerecht aufbereiten? Du interessierst D",
+   "url": "https://www.stepstone.at/stellenangebote--Online-Redakteur-m-w-d-Schmuck-Uhren-Online-Social-Media-KI-gestuetzte-Content-Produktion-Wien-NCA-NEW-CONCEPT-AGENTUR-GMBH--1014887-inline.html",
    "source": "stepstone",
    "keyword": "Concept Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Stellvertretender Restaurantleiter (w/m/d)",
-   "snippet": "Stellvertretender Restaurantleiter (w/m/d) Familien Natur Resort Moar Gut Großarl Werde Teil unseres Teams im besten Familien Natur Resort Europas! Erstklassige Servicequalität in allen Hotelbereichen ist die oberste Priorität in unserem familiengeführten 5 Sterne Hotel. Herzlichkeit & Freundlichkeit, Motivation & Pflichtbewusstsein, Begeisterung & Feinfühligkei mehr vor 1 Tag",
-   "url": "https://www.stepstone.at/stellenangebote--Stellvertretender-Restaurantleiter-w-m-d-Grossarl-Familien-Natur-Resort-Moar-Gut--1004664-inline.html",
+   "title": "Solution Design - Network (m/w/d)",
+   "snippet": "Solution Design - Network (m/w/d) SanData IT-Gruppe Wien Seit über 40 Jahren stehen wir als inhabergeführtes IT-Systemhaus für Unabhängigkeit, Verlässlichkeit und maßgeschneiderte IT-Lösungen. Unser Unternehmen wächst stetig – mit unseren Kunden, unseren Partnern und unserem Expert:innen Team. An zahlreichen Vertriebs- und Service-Standorten sind wir in d mehr vor 23 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Solution-Design-Network-m-w-d-Wien-SanData-IT-Gruppe--1014753-inline.html",
    "source": "stepstone",
    "keyword": "Concept Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Junior Mechanical / Fluids Engineer (all genders)",
-   "snippet": "Junior Mechanical / Fluids Engineer (all genders) Lam Research Villach At Lam Research, we create equipment that drives technological advancements in the semiconductor industry. Our innovative solutions enable chipmakers to power progress in nearly all aspects of modern life, and it takes each member of our team to make it possible. Across our organization, our employe mehr vor 1 Tag",
-   "url": "https://www.stepstone.at/stellenangebote--Junior-Mechanical-Fluids-Engineer-all-genders-Villach-Lam-Research--1011600-inline.html",
-   "source": "stepstone",
-   "keyword": "Concept Artist",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "HR Generalist (m/w/d)",
-   "snippet": "HR Generalist (m/w/d) ISG Personalmanagement GmbH Amstetten HR Generalist (m/w/d) Personalmanagement | Employee Life Cycle | Direkte Zusammenarbeit mit der GeschäftsführungAmstetten | Teilzeit | 30 Wochenstunden Menschen begleiten. Verantwortung übernehmen. Zukunft gemeinsam gestalten. Unser Auftraggeber, ÖTSCHER Berufskleidung G& mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--HR-Generalist-m-w-d-Amstetten-ISG-Personalmanagement-GmbH--1014386-inline.html",
+   "title": "Projektleiter mit Option zum Abteilungsleiter (m/w/d) Verkehrsanlagen",
+   "snippet": "Projektleiter mit Option zum Abteilungsleiter (m/w/d) Verkehrsanlagen BERNARD Gruppe ZT GmbH Graz, Köln, München Teilweise Home-Office Die Veränderung ist konstant, ständig stellen wir uns neuen Herausforderungen. Dafür brauchen wir kluge Köpfe, die mit Engagement dabei sind. Die BERNARD Gruppe ist ein familiengeführtes, fachlich spezialisiertes Unternehmen für Ingenieurdienstleistungen. Mit 700 M",
+   "url": "https://www.stepstone.at/stellenangebote--Projektleiter-mit-Option-zum-Abteilungsleiter-m-w-d-Verkehrsanlagen-Graz-Koeln-Muenchen-BERNARD-Gruppe-ZT-GmbH--983392-inline.html",
    "source": "stepstone",
    "keyword": "3D Generalist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Projektentwickler:in Wohn- und Kommunalbau (w/m/d)",
-   "snippet": "Projektentwickler:in Wohn- und Kommunalbau (w/m/d) Jobheld e-search GmbH Innsbruck In dieser vielseitigen Position prüfen Sie Liegenschaften hinsichtlich ihrer wirtschaftlichen Bebaubarkeit und entwickeln Wohnbauprojekte sowie kommunale Bauvorhaben. Wir freuen uns auf Ihre Bewerbung! mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Projektentwickler-in-Wohn-und-Kommunalbau-w-m-d-Innsbruck-Jobheld-e-search-GmbH--1014367-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Generalist",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Data Engineer (f/m/x)",
-   "snippet": "Data Engineer (f/m/x) NETCONOMY GmbH Graz, Vienna, Pörtschach Teilweise Home-Office Over the past 25 years, NETCONOMY has grown from a startup into a team of 500 people across 10 European locations. We believe in the power of agile and cross-functional collaboration, bringing together people from diverse backgrounds to build outstanding digital solutions. mehr vor 2 Tagen",
-   "url": "https://www.stepstone.at/stellenangebote--Data-Engineer-f-m-x-Graz-Vienna-Poertschach-NETCONOMY-GmbH--1011167-inline.html",
+   "title": "Solution Architect - Steuerungs- & Energiesysteme (m/w/x)",
+   "snippet": "Solution Architect - Steuerungs- & Energiesysteme (m/w/x) BearingPoint GmbH Wien BearingPoint ist eine unabhängige Management- und Technologieberatung mit europäischen Wurzeln und globaler Reichweite, die Unternehmen mithilfe moderner Technologien transformiert. Wir unterstützen Unternehmen bei der Transformation, indem wir fundiertes Branchenwissen mit starken Kompetenzen in St mehr vor 2 Stunden",
+   "url": "https://www.stepstone.at/stellenangebote--Solution-Architect-Steuerungs-Energiesysteme-m-w-x-Wien-BearingPoint-GmbH--1014851-inline.html",
    "source": "stepstone",
    "keyword": "Realtime Artist",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Teamlead in der elektrotechnischen Fertigung (m/w/d)",
-   "snippet": "Teamlead in der elektrotechnischen Fertigung (m/w/d) IFAS Personalmanagement GmbH Linz Arbeitsort: Linz Gehalt: ab EUR 4.500,- Arbeitszeit: Vollzeit Branche: Industrie / handwerkliches Gewerbe Arbeitsbeginn: ab sofort Ihr nächster Karriereschritt verbindet Elektrotechnik, Leadership und industrielle Fertigung! Sie möchten nicht nur Prozesse begleiten, sondern aktiv gestalten mehr vor 1 Tag",
-   "url": "https://www.stepstone.at/stellenangebote--Teamlead-in-der-elektrotechnischen-Fertigung-m-w-d-Linz-IFAS-Personalmanagement-GmbH--1011408-inline.html",
+   "title": "Senior Embedded Linux Developer (all genders)",
+   "snippet": "Senior Embedded Linux Developer (all genders) VIEWPOINTSYSTEM GmbH Vienna Would you like to advance the technologies of tomorrow and work with a great team of international colleagues? Then you've come to the right place! We are a young deep‑tech company that creates and produces internationally awarded smart glasses. Our headquarters are in Vienna, where we develop and m mehr vor 2 Stunden NEU",
+   "url": "https://www.stepstone.at/stellenangebote--Senior-Embedded-Linux-Developer-all-genders-Vienna-VIEWPOINTSYSTEM-GmbH--1014855-inline.html",
+   "source": "stepstone",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Teamleitung Fertigung Ofenbau (m/w/d)",
+   "snippet": "Teamleitung Fertigung Ofenbau (m/w/d) Starlinger & Co. Ges. m. b. H. Weissenbach an der Triesting Teamleitung Fertigung Ofenbau (m/w/d) Starlinger ist Vorreiter für Maschinen und Prozesstechnologie in der internationalen Kreislaufwirtschaft für Verpackungslösungen aus Kunststoff. Wir sind von unserer Mission überzeugt, nehmen fachliche wie persönliche Herausforderungen an und glauben an mehr vor 2",
+   "url": "https://www.stepstone.at/stellenangebote--Teamleitung-Fertigung-Ofenbau-m-w-d-Weissenbach-an-der-Triesting-Starlinger-Co-Ges-m-b-H--1014795-inline.html",
    "source": "stepstone",
    "keyword": "Virtual Production",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Projektingenieur:in Hochbau",
-   "snippet": "Projektingenieur:in Hochbau ASFINAG 2320 Schwechat-Mannswörth Teilweise Home-Office Wir verbinden Regionen und Menschen im Herzen Europas als verlässlicher, innovativer und nachhaltiger Mobilitätspartner. Als ASFINAG planen, finanzieren, bauen, erhalten, betreiben und bemauten wir mit unseren rund 3.000 Mitarbeitenden über 2.200 Kilometer Autobahnen und Schnellstraßen. Dabei zählen mehr vor 1 Tag",
-   "url": "https://www.stepstone.at/stellenangebote--Projektingenieur-in-Hochbau-2320-Schwechat-Mannswoerth-ASFINAG--1011412-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Automatisierungstechniker*in (m/w/d)",
-   "snippet": "Automatisierungstechniker*in (m/w/d) IVM Technical Consultants Wien IVM spezialisiert sich seit 40 Jahren auf die Ziele ihrer Projektpartner*innen und ihrer Kunden im technischen Umfeld. Mit Hilfe unserer technisch affinen Wissensträger*innen schaffen wir jeden Wunsch zu erfüllen. Werden Sie Consultant bei IVM und arbeiten Sie an spannenden Projekten bei den Top Unt mehr vor 1 Tag",
-   "url": "https://www.stepstone.at/stellenangebote--Automatisierungstechnikerin-m-w-d-Wien-IVM-Technical-Consultants--1011464-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "(Junior-) Projektingenieur:in Pharma Central Europe (CE) für den Industrierohrleitungsbau auf Baustellen in Europa",
-   "snippet": "(Junior-) Projektingenieur:in Pharma Central Europe (CE) für den Industrierohrleitungsbau auf Baustellen in Europa Zaunergroup Wallern an der Trattnach Unser Team ist von der Planung bis zur Ausführung und Dokumentation mitten im Geschehen und trägt entscheidend zum Erfolg unserer Projekte in ganz Europa bei. Wenn Sie Teil eines starken Teams werden möchten, das gemeinsam an innovativen Lösungen a",
-   "url": "https://www.stepstone.at/stellenangebote--Junior-Projektingenieur-in-Pharma-Central-Europe-CE-fuer-den-Industrierohrleitungsbau-auf-Baustellen-in-Europa-Wallern-an-der-Trattnach-Zaunergroup--992320-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Konstrukteur mit Auslandsbereitschaft (w/m/d)",
-   "snippet": "Konstrukteur mit Auslandsbereitschaft (w/m/d) Anton Paar GmbH Graz Schnelle Bewerbung Sie möchten innovative Messgeräte nicht nur konstruieren, sondern Ihre Expertise auch international einbringen? Entwickeln Sie am Headquarter in Graz anspruchsvolle mechanische Lösungen von der ersten Idee bis zur Serie – mit der Perspektive, Ihr Know-how künftig auch an einem unserer internationale mehr vor 2 Ta",
-   "url": "https://www.stepstone.at/stellenangebote--Konstrukteur-mit-Auslandsbereitschaft-w-m-d-Graz-Anton-Paar-GmbH--1012765-inline.html",
-   "source": "stepstone",
-   "keyword": "3D Designer",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Assistant to Head of Product Compliance (all genders)",
-   "snippet": "Assistant to Head of Product Compliance (all genders) BORA Gruppe Österreich Niederndorf bei Kufstein BORA entwickelt und produziert Premium-Kücheneinbaugeräte mit intelligenten Technologien, hohem Designanspruch und echter Leidenschaft. Vom revolutionären Kochfeldabzug über den Profi-Dampfbackofen BORA X BO bis hin zu Kühl- und Gefriersystemen sowie Beleuchtung: Unser Portfolio wächst stetig – ge",
-   "url": "https://www.stepstone.at/stellenangebote--Assistant-to-Head-of-Product-Compliance-all-genders-Niederndorf-bei-Kufstein-BORA-Gruppe-Oesterreich--1007518-inline.html",
+   "title": "Web & Graphic Design Allrounder (m/w/d)",
+   "snippet": "Web & Graphic Design Allrounder (m/w/d) job-point Gumpoldskirchen Schnelle Bewerbung Als bestens vernetzter Rund-um-Dienstleister für die Pharma- und Medizinprodukteindustrie besetzen wir die unterschiedlichsten, attraktiven Positionen in diesen sich kontinuierlich erfolgreich entwickelnden Zukunftsbranchen. Unser stetiges Ziel? Immer die Erreichung des best fit - für Sie, für das U mehr vor 3 Tag",
+   "url": "https://www.stepstone.at/stellenangebote--Web-Graphic-Design-Allrounder-m-w-d-Gumpoldskirchen-job-point--1007171-inline.html",
    "source": "stepstone",
    "keyword": "Game Design",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Operativer Einkäufer (m/w/d)",
-   "snippet": "Operativer Einkäufer (m/w/d) BORA Gruppe Österreich Niederndorf bei Kufstein BORA entwickelt und produziert Premium-Kücheneinbaugeräte mit intelligenten Technologien, hohem Designanspruch und echter Leidenschaft. Vom revolutionären Kochfeldabzug über den Profi-Dampfbackofen BORA X BO bis hin zu Kühl- und Gefriersystemen sowie Beleuchtung: Unser Portfolio wächst stetig – gena mehr vor 1 Tag",
-   "url": "https://www.stepstone.at/stellenangebote--Operativer-Einkaeufer-m-w-d-Niederndorf-bei-Kufstein-BORA-Gruppe-Oesterreich--1007544-inline.html",
-   "source": "stepstone",
-   "keyword": "Game Design",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Associate Art Producer (SPX)",
-   "snippet": "Virtuos Associate Art Producer (SPX) Ho Chi Minh City, Vietnam · Game Production Full Time 7 hours ago",
-   "url": "https://hitmarker.net/jobs/virtuos-associate-art-producer-spx-5535152",
+   "title": "Technical Artist",
+   "snippet": "Machina Games Technical Artist Istanbul, Turkey · Technical Art Full Time 1 month ago",
+   "url": "https://hitmarker.net/jobs/machina-games-technical-artist-5393727",
    "source": "hitmarker",
-   "keyword": "Virtual Production",
-   "first_seen": "2026-11-09"
+   "keyword": "Technical Artist",
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Mediengestalter/in Digital und Print mit Schwerpunkt Kundenberatung (mwd)",
-   "company": "Bugaga Werbeagentur e.K.",
-   "location": "Remote – Berlin",
-   "posted": "2026-11-09",
-   "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mit-schwerpunkt-kundenberatung-mwd-berlin-286845",
-   "source": "arbeitnow",
-   "snippet": "Wir sind eine dynamische Werbemittelagentur aus Hamburg HafenCity und als agiles Unternehmen sind wir permanent auf der Suche nach neuen Talenten wie dich! Aufgaben Mit Promobedarf - unserem Onlineshop für Werbeartikel - versorgen wir unsere Kunden schnell und zuverlässig mit Werbemitteln aller Art.",
-   "first_seen": "2026-11-09"
+   "title": "Roblox UGC Artist",
+   "snippet": "Sawhorse Productions Roblox UGC Artist Los Angeles, CA, USA · 3D Freelance · USD $35 to $45 / hour 1 day ago",
+   "url": "https://hitmarker.net/jobs/sawhorse-productions-roblox-ugc-artist-5548541",
+   "source": "hitmarker",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "2D Game Developer (Defold) (Remote-Worldwide)",
-   "company": "Your Software Supplier",
-   "location": "Remote – Amsterdam",
-   "posted": "2026-11-09",
-   "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/2d-game-developer-defold-remote-worldwide-amsterdam-139626",
-   "source": "arbeitnow",
-   "snippet": "This job is with our partner Micro1. Scope of Work Develop and modify 2D games using the Defold game engine. Work with Lua scripting, game objects, components, and animations. Create and improve game mechanics, player controls, and UI elements. Debug issues and optimize game performance. Complete ad",
-   "first_seen": "2026-11-09"
+   "title": "Senior Technical Artist",
+   "snippet": "Lightspeed Studios Senior Technical Artist Irvine, CA, USA +1 location · Technical Art Full Time · USD $97,500 to $232,300 / year 1 day ago",
+   "url": "https://hitmarker.net/jobs/lightspeed-studios-senior-technical-artist-5545599",
+   "source": "hitmarker",
+   "keyword": "Realtime Artist",
+   "first_seen": "2026-11-10"
   },
   {
-   "title": "Wien Neu (Senior) Lecturer/Researcher im Bereich Elektrotechnik/Elektronik und IoT (m/w/d) Fakultät Electronic Engineering & Entrepreneurship",
-   "snippet": "Wien Neu (Senior) Lecturer/Researcher im Bereich Elektrotechnik/Elektronik und IoT (m/w/d) Fakultät Electronic Engineering & Entrepreneurship",
-   "url": "https://technikum-wien.softgarden.io/job/67965207/-Senior-Lecturer-Researcher-im-Bereich-Elektrotechnik-Elektronik-und-IoT-m-w-d-?jobDbPVId=290024653",
-   "source": "technikum-wien",
+   "title": "Game Designer (Apex Legends)",
+   "snippet": "Electronic Arts Game Designer (Apex Legends) Chatsworth, CA, USA · Technical Design Full Time · USD $104,400 to $157,400 / year 3 hours ago",
+   "url": "https://hitmarker.net/jobs/electronic-arts-game-designer-apex-legends-5547769",
+   "source": "hitmarker",
+   "keyword": "Game Design",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Beck Interactive Partners is hiring a Game Scout to join their team in CT ± 3 hours Learn More",
+   "snippet": "Beck Interactive Partners is hiring a Game Scout to join their team in CT ± 3 hours Learn More",
+   "url": "https://www.workwithindies.com/careers/beck-interactive-partners-game-scout",
+   "source": "workwithindies",
    "keyword": "",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Eleon Co is hiring a 3D Character Artist to work from Anywhere Learn More",
+   "snippet": "Eleon Co is hiring a 3D Character Artist to work from Anywhere Learn More",
+   "url": "https://www.workwithindies.com/careers/eleon-co-3d-character-artist",
+   "source": "workwithindies",
+   "keyword": "",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "42 Bits is hiring a Mission Designer to join their team in Jüchen, DE Learn More",
+   "snippet": "42 Bits is hiring a Mission Designer to join their team in Jüchen, DE Learn More",
+   "url": "https://www.workwithindies.com/careers/42-bits-mission-designer",
+   "source": "workwithindies",
+   "keyword": "",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Project Manager (3D & Tech Art) NEW Envar Studio Remote - Can start day latest at CET 08:00 Art and Animation Freelance Salary not listed",
+   "snippet": "Project Manager (3D & Tech Art) NEW Envar Studio Remote - Can start day latest at CET 08:00 Art and Animation Freelance Salary not listed",
+   "url": "https://remotegamejobs.com/jobs/envar-studio-project-manager-3d-tech-art-remote-job",
+   "source": "remotegamejobs",
+   "keyword": "",
+   "first_seen": "2026-11-10"
   }
  ]
 }

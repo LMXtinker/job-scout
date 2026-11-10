@@ -18,15 +18,6 @@
     "https://ars.electronica.art/news/de",
     "https://ars.electronica.art/aeblog/de",
     "https://ars.electronica.art/podcast/de",
-    "https://ars.electronica.art/negotiatinghumanity/de",
-    "https://ars.electronica.art/negotiatinghumanity/de/program/",
-    "https://ars.electronica.art/negotiatinghumanity/de/time-locations/",
-    "https://ars.electronica.art/negotiatinghumanity/de/services/",
-    "https://ars.electronica.art/negotiatinghumanity/de/tickets/",
-    "https://ars.electronica.art/festival/de/commissionedprojects/",
-    "https://ars.electronica.art/stateoftheartist/de",
-    "https://ars.electronica.art/festival/de/archive/",
-    "https://ars.electronica.art/festival/de/about/",
     "https://ars.electronica.art/center/de",
     "https://ars.electronica.art/center/de/tickets/",
     "https://ars.electronica.art/center/de/exhibitions/",
@@ -38,6 +29,11 @@
     "https://ars.electronica.art/center/de/eventservice/",
     "https://www.esero.at/de",
     "https://ars.electronica.art/center/de/partners/",
+    "https://ars.electronica.art/festival/de",
+    "https://ars.electronica.art/festival/de/commissionedprojects/",
+    "https://ars.electronica.art/stateoftheartist/de",
+    "https://ars.electronica.art/festival/de/archive/",
+    "https://ars.electronica.art/festival/de/about/",
     "https://ars.electronica.art/prix/de",
     "https://ars.electronica.art/prix/de/categories/",
     "https://ars.electronica.art/prix/de/faq/",
@@ -66,7 +62,11 @@
     "https://starts-prize.aec.at/de",
     "https://ars.electronica.art/citizenscience/de",
     "https://ars.electronica.art/news/de/opencalls/",
-    "https://ars.electronica.art/archive/de"
+    "https://ars.electronica.art/archive/de",
+    "https://ars.electronica.art/mediaservice/de",
+    "https://ars.electronica.art/2026/de",
+    "https://ars.electronica.art/",
+    "https://ars.electronica.art/about/de/"
    ]
   }
  }
