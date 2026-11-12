@@ -3337,5 +3337,86 @@
   "region": "remote",
   "fit": "mittel",
   "reason": "Spannende Level-Art-Rolle im Games-Bereich; prüfe die genauen Remote-Optionen."
+ },
+ "https://www.arbeitnow.com/jobs/companies/techtive-games-gmbh/environment-artist-berlin-207029": {
+  "date": "2026-11-12",
+  "title": "Environment Artist",
+  "company": "Techtive Games GmbH",
+  "location": "Berlin / Remote",
+  "region": "remote",
+  "fit": "hoch",
+  "reason": "Passt perfekt: Environment Art im Game-Bereich mit Unreal Engine (Remote DACH)."
+ },
+ "https://nl.linkedin.com/jobs/view/dwanimations-zoekt-3d-artist-at-3ddy-4489035221": {
+  "date": "2026-11-12",
+  "title": "3D Artist",
+  "company": "DWAnimations / 3ddy",
+  "location": "Leerdam, Niederlande",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "3D-Artist Position in den Niederlanden für 3D-Visualisierung & Animation."
+ },
+ "https://hitmarker.net/jobs/bulkhead-concept-artist-5582671": {
+  "date": "2026-11-12",
+  "title": "Concept Artist",
+  "company": "BULKHEAD",
+  "location": "Manchester, UK",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Concept Art Rolle bei Game-Studio; erfordert Fokus auf 2D/3D-Previs."
+ },
+ "https://jobs.ams.at/public/emps/jobs/6d93d660-d4ec-3dd0-877a-50edc9464560": {
+  "date": "2026-11-12",
+  "title": "Mitarbeiter Marketing & Grafikdesign",
+  "company": "PDM Touristik GmbH",
+  "location": "Wien",
+  "region": "wien",
+  "fit": "mittel",
+  "reason": "Grafikdesign-Stelle direkt in Wien; ideal als Ergänzung zu visuellen Skillsets."
+ },
+ "https://de.linkedin.com/jobs/view/technical-animator-f-d-m-at-hologate-4488229597": {
+  "date": "2026-11-12",
+  "title": "Technical Animator",
+  "company": "HOLOGATE",
+  "location": "München, Deutschland",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Spannendes XR/Location-based Entertainment Studio mit Tech-Art-Bezug."
+ },
+ "https://pl.linkedin.com/jobs/view/technical-artist-at-starhunter-4488295163": {
+  "date": "2026-11-12",
+  "title": "Technical Artist",
+  "company": "StarHunter",
+  "location": "Polen",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Passt gut zu deiner Tech-Art-Erfahrung; Auslandsrolle in der EU."
+ },
+ "https://es.linkedin.com/jobs/view/technical-artist-12-month-contract-madrid-spain-at-keywords-studios-4489919768": {
+  "date": "2026-11-12",
+  "title": "Technical Artist - 12 Month Contract",
+  "company": "Keywords Studios",
+  "location": "Madrid, Spanien",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Tech-Artist-Vertrag in Madrid; passt inhaltlich gut zu deinen Skills."
+ },
+ "https://fr.linkedin.com/jobs/view/vfx-artist-unreal-at-game-path-4489968620": {
+  "date": "2026-11-12",
+  "title": "VFX Artist (Unreal)",
+  "company": "Game Path",
+  "location": "Bordeaux, Frankreich",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Starke Übereinstimmung mit Echtzeit- & VFX-Master, allerdings Standort Frankreich."
+ },
+ "https://de.linkedin.com/jobs/view/volumetric-studio-operator-and-ai-specialist-m-f-d-at-volucap-4487480358": {
+  "date": "2026-11-12",
+  "title": "Volumetric Studio Operator & AI Specialist",
+  "company": "Volucap",
+  "location": "Potsdam, Deutschland",
+  "region": "ausland",
+  "fit": "mittel",
+  "reason": "Volumetrisches 3D-Studio (XR/Realtime-Bezug), gute Schnittstelle für 3D-Artists."
  }
 }
