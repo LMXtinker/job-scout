@@ -1,50 +1,48 @@
-<b>🎯 Job-Update · 12.11.</b>
+<b>🎯 Job-Update · 13.11.</b>
 9 neue passende Stellen (1 × sehr passend 🟢)
-<i>aus 38 neuen Anzeigen</i>
+<i>aus 33 neuen Anzeigen</i>
 
-💬 <i>Mit der Remote-Stelle als Environment Artist bei Techtive Games ist heute ein echter Volltreffer dabei! Zeig in deiner Bewerbung am besten direkt deinen besten Realtime-Breakdown aus Unreal Engine. 🎯</i>
+💬 <i>Mit der 3D-Visualisierungsstelle in Wien und spannenden Level-Art-Rollen in Europa ist heute wieder ein toller Mix dabei. Hebe im Portfolio besonders deine Realtime-Szenen aus Unreal Engine hervor! 🚀</i>
 
-<b>📍 Wien</b>  ·  1
+<b>📍 Wien</b>  ·  2
 
-🟡 <b><a href="https://jobs.ams.at/public/emps/jobs/6d93d660-d4ec-3dd0-877a-50edc9464560">Mitarbeiter Marketing &amp; Grafikdesign</a></b>
-PDM Touristik GmbH · Wien
-<i>Grafikdesign-Stelle direkt in Wien; ideal als Ergänzung zu visuellen Skillsets.</i>
+🟢 <b><a href="https://at.linkedin.com/jobs/view/landscape-architect-3d-visualization-specialist-w-m-d-%C3%B6sterreich-at-kompan-global-4489217129">Landscape Architect / 3D Visualization Specialist</a></b>
+KOMPAN Global · Wien, Österreich
+<i>Starke Kombination aus 3D-Visualisierung und Realtime-Kontext direkt in Wien.</i>
 
-<b>🌍 Remote</b>  ·  1
-
-🟢 <b><a href="https://www.arbeitnow.com/jobs/companies/techtive-games-gmbh/environment-artist-berlin-207029">Environment Artist</a></b>
-Techtive Games GmbH · Berlin / Remote
-<i>Passt perfekt: Environment Art im Game-Bereich mit Unreal Engine (Remote DACH).</i>
+🟡 <b><a href="https://www.karriere.at/jobs/7909376">Mitarbeiter Unternehmenskommunikation - Corporate Design</a></b>
+FH Campus Wien · Wien, Österreich
+<i>Kreative Grafik- und Designrolle im Hochschulkontext direkt in Wien.</i>
 
 <b>✈️ Ausland</b>  ·  7
 
-🟡 <b><a href="https://nl.linkedin.com/jobs/view/dwanimations-zoekt-3d-artist-at-3ddy-4489035221">3D Artist</a></b>
-DWAnimations / 3ddy · Leerdam, Niederlande
-<i>3D-Artist Position in den Niederlanden für 3D-Visualisierung &amp; Animation.</i>
+🟡 <b><a href="https://fr.linkedin.com/jobs/view/3d-game-artist-sand-loop-at-voodoo-4473785460">3D Game Artist - Sand Loop</a></b>
+Voodoo · Paris, Frankreich
+<i>Guter Fit für 3D Game Art bei einem bekannten Mobile-Games-Studio.</i>
 
-🟡 <b><a href="https://hitmarker.net/jobs/bulkhead-concept-artist-5582671">Concept Artist</a></b>
-BULKHEAD · Manchester, UK
-<i>Concept Art Rolle bei Game-Studio; erfordert Fokus auf 2D/3D-Previs.</i>
+🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-m-w-d-f%C3%BCr-produkt-und-interieur-visualisierungen-at-reuter-gruppe-4490594223">3D-Artist für Produkt- und Interieur-Visualisierungen</a></b>
+REUTER Gruppe · Mönchengladbach, Deutschland
+<i>Fokus auf 3D-Visualisierung und Renderings, passend für 3D-Generalist-Skills.</i>
 
-🟡 <b><a href="https://de.linkedin.com/jobs/view/technical-animator-f-d-m-at-hologate-4488229597">Technical Animator</a></b>
-HOLOGATE · München, Deutschland
-<i>Spannendes XR/Location-based Entertainment Studio mit Tech-Art-Bezug.</i>
+🟡 <b><a href="https://ie.linkedin.com/jobs/view/junior-level-2d-artist-ftc-12-months-at-storytoys-4490099806">Junior Level 2D Artist</a></b>
+StoryToys · Irland
+<i>Passgenaue Junior-Stelle für 2D-Game-Art im Kinder- und Games-Bereich.</i>
 
-🟡 <b><a href="https://pl.linkedin.com/jobs/view/technical-artist-at-starhunter-4488295163">Technical Artist</a></b>
-StarHunter · Polen
-<i>Passt gut zu deiner Tech-Art-Erfahrung; Auslandsrolle in der EU.</i>
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/level-artist-at-game-companies-4488273301">Level Artist</a></b>
+Game Companies · Breslau, Polen
+<i>Spezifische Level-Art-Position im Games-Bereich; Standort Polen.</i>
 
-🟡 <b><a href="https://es.linkedin.com/jobs/view/technical-artist-12-month-contract-madrid-spain-at-keywords-studios-4489919768">Technical Artist - 12 Month Contract</a></b>
-Keywords Studios · Madrid, Spanien
-<i>Tech-Artist-Vertrag in Madrid; passt inhaltlich gut zu deinen Skills.</i>
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/level-artist-at-techland-4489257452">Level Artist</a></b>
+Techland · Warschau, Polen
+<i>Exzellente Level-Artist-Stelle im AAA-Bereich; Standort Warschau.</i>
 
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/vfx-artist-unreal-at-game-path-4489968620">VFX Artist (Unreal)</a></b>
-Game Path · Bordeaux, Frankreich
-<i>Starke Übereinstimmung mit Echtzeit- &amp; VFX-Master, allerdings Standort Frankreich.</i>
+🟡 <b><a href="https://pl.linkedin.com/jobs/view/level-artist-at-techland-4489270152">Level Artist</a></b>
+Techland · Breslau, Polen
+<i>Level-Art-Position bei Techland am Standort Breslau.</i>
 
-🟡 <b><a href="https://de.linkedin.com/jobs/view/volumetric-studio-operator-and-ai-specialist-m-f-d-at-volucap-4487480358">Volumetric Studio Operator &amp; AI Specialist</a></b>
-Volucap · Potsdam, Deutschland
-<i>Volumetrisches 3D-Studio (XR/Realtime-Bezug), gute Schnittstelle für 3D-Artists.</i>
+🟡 <b><a href="https://fr.linkedin.com/jobs/view/technicien-motion-capture-h-f-at-asobo-studio-4490395162">Technicien Motion Capture</a></b>
+Asobo Studio · Bordeaux, Frankreich
+<i>Spannende Schnittstellenrolle für Tech Art und Realtime-Animation bei Asobo.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
