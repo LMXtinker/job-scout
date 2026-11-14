@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-13T09:40:29+00:00",
- "jobs": 724,
- "new": 64,
- "recent": 499,
+ "generated": "2026-11-14T09:03:52+00:00",
+ "jobs": 630,
+ "new": 24,
+ "recent": 436,
  "sources": {
   "linkedin-at": {
-   "jobs": 133,
-   "errors": 7
+   "jobs": 126,
+   "errors": 8
   },
   "linkedin-remote-eu": {
-   "jobs": 95,
-   "errors": 24
+   "jobs": 29,
+   "errors": 33
   },
   "karriere.at": {
-   "jobs": 50,
+   "jobs": 51,
    "errors": 0
   },
   "ams-allejobs": {
-   "jobs": 24,
+   "jobs": 0,
    "errors": 0
   },
   "stepstone": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 4,
+   "jobs": 5,
    "errors": 0
   },
   "moon-studios": {
@@ -61,7 +61,7 @@
    "errors": 0
   },
   "thq-nordic": {
-   "jobs": 9,
+   "jobs": 7,
    "errors": 0
   },
   "mipumi": {
