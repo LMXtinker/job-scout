@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-14T09:03:52+00:00",
- "jobs": 630,
- "new": 24,
- "recent": 436,
+ "generated": "2026-11-15T09:34:08+00:00",
+ "jobs": 564,
+ "new": 28,
+ "recent": 395,
  "sources": {
   "linkedin-at": {
-   "jobs": 126,
-   "errors": 8
+   "jobs": 68,
+   "errors": 21
   },
   "linkedin-remote-eu": {
-   "jobs": 29,
-   "errors": 33
+   "jobs": 0,
+   "errors": 36
   },
   "karriere.at": {
-   "jobs": 51,
+   "jobs": 49,
    "errors": 0
   },
   "ams-allejobs": {
-   "jobs": 0,
+   "jobs": 24,
    "errors": 0
   },
   "stepstone": {
@@ -41,7 +41,7 @@
    "errors": 0
   },
   "gamejobsremote": {
-   "jobs": 2,
+   "jobs": 1,
    "errors": 0
   },
   "remotive": {

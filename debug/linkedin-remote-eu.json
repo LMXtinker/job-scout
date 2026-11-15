@@ -2,9 +2,11 @@
  "errors": [
   "3D Artist: HTTP Error 429: Too Many Requests",
   "3D Artist: HTTP Error 429: Too Many Requests",
+  "3D Artist: HTTP Error 429: Too Many Requests",
   "Environment Artist: HTTP Error 429: Too Many Requests",
   "Environment Artist: HTTP Error 429: Too Many Requests",
   "Environment Artist: HTTP Error 429: Too Many Requests",
+  "Technical Artist: HTTP Error 429: Too Many Requests",
   "Technical Artist: HTTP Error 429: Too Many Requests",
   "Technical Artist: HTTP Error 429: Too Many Requests",
   "Unreal Engine: HTTP Error 429: Too Many Requests",
@@ -32,11 +34,8 @@
   "3D Designer: HTTP Error 429: Too Many Requests",
   "3D Designer: HTTP Error 429: Too Many Requests",
   "Game Design: HTTP Error 429: Too Many Requests",
+  "Game Design: HTTP Error 429: Too Many Requests",
   "Game Design: HTTP Error 429: Too Many Requests"
  ],
- "per_url": {
-  "3D Artist@20": 10,
-  "Technical Artist@20": 10,
-  "Game Design@20": 10
- }
+ "per_url": {}
 }
