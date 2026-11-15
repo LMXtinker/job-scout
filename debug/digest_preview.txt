@@ -1,33 +1,5 @@
-<b>🎯 Job-Update · 14.11.</b>
-4 neue passende Stellen (2 × sehr passend 🟢)
-<i>aus 13 neuen Anzeigen</i>
+<b>🎯 Job-Update · 15.11.</b>
+0 neue passende Stellen (0 × sehr passend 🟢)
+<i>aus 16 neuen Anzeigen</i>
 
-💬 <i>Mit einer 3D-Visualisierungsstelle direkt in Wien und flexiblen Remote-Optionen sind heute wieder starke Chancen dabei! Zeige im Portfolio am besten direkt deine eindrucksvollsten Realtime-Szenen. 🎨</i>
-
-<b>📍 Wien</b>  ·  1
-
-🟢 <b><a href="https://www.karriere.at/jobs/10039104">Landscape Architect / 3D Visualization Specialist</a></b>
-KOMPAN Austria GmbH · Wien
-<i>Perfekter Fit für 3D-Visualisierung und Realtime-Art direkt in Wien.</i>
-
-<b>🇦🇹 Österreich</b>  ·  1
-
-🟡 <b><a href="https://at.linkedin.com/jobs/view/digital-designer%C2%B7in-m-w-x-at-solid-bold-4488940323">Digital Designer</a></b>
-Solid &amp; Bold · Salzburg
-<i>Spannende Design-Rolle in Österreich mit Bezug zu Kreativprojekten.</i>
-
-<b>🌍 Remote</b>  ·  1
-
-🟢 <b><a href="https://www.workwithindies.com/careers/lovingly-sourced-3d-generalist">3D Generalist</a></b>
-lovingly sourced · Remote
-<i>Passt ideal zu deinen 3D-Generalist-Skills und liegt in deiner Zeitzone.</i>
-
-<b>✈️ Ausland</b>  ·  1
-
-🟡 <b><a href="https://nl.linkedin.com/jobs/view/vfx-artist-paper-io-2-at-voodoo-4446309054">VFX Artist - Paper.io 2</a></b>
-Voodoo · Amsterdam
-<i>Realtime-VFX im Games-Bereich passt gut zu deinen Realtime-Skills.</i>
-
-🟢 sehr passend · 🟡 teilweise passend
-
-PS: Lucas loves you &lt;3
+💬 <i>Heute ist kein passendes Match dabei – nutze den Tag für dich! Vielleicht hast du Lust, ein neues UE5-Feature wie PCG auszuprobieren oder dich beim nächsten Wiener Game-Dev-Stammtisch zu vernetzen? ☕</i>
