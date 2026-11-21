@@ -1,18 +1,56 @@
-<b>🎯 Job-Update · 20.11.</b>
-2 neue passende Stellen (1 × sehr passend 🟢)
-<i>aus 16 neuen Anzeigen</i>
+<b>🎯 Job-Update · 21.11.</b>
+10 neue passende Stellen (5 × sehr passend 🟢)
+<i>aus 31 neuen Anzeigen</i>
 
-💬 <i>Mit Optionen für visuelles Storytelling und Content Creation direkt in Wien zeigt sich heute wieder, wie gut deine breite kreative Basis ankommt. Bring deine visuellen Ideen voll ein! 🎨</i>
+💬 <i>Heute ist ein starker Mix aus 3D-Art und akademischen Chancen in Österreich dabei! Dein Profil an der Schnittstelle von Technik und Kunst ist selten – heb das in deinen Unterlagen besonders hervor. 🚀</i>
 
-<b>📍 Wien</b>  ·  2
+<b>📍 Wien</b>  ·  1
 
-🟢 <b><a href="https://www.stepstone.at/stellenangebote--Digital-Content-Creator-Grafikerin-m-w-d-Fokus-KI-Visuelles-Storytelling-Teilzeit-20-30h-Wien-Time-Travel-in-Vienna-Betriebs-GmbH--1016778-inline.html">Digital Content Creator &amp; Grafiker(in) - KI &amp; Visuelles Storytelling</a></b>
-Time Travel in Vienna Betriebs GmbH · Wien, Österreich
-<i>Visuelles Storytelling und Grafik für Kultur-Attraktion in Wien.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/marketing-communications-specialist-all-genders-%E2%80%93-fokus-content-events-at-pmc-international-gmbh-4489464972">Marketing &amp; Communications Specialist – Fokus Content &amp; Events</a></b>
+PMC International GmbH · Wien
+<i>Kreative Rolle in Wien; passt gut zu deiner Weiterbildung im Kulturmanagement.</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/performance-marketing-creative-specialist-m-f-d-at-paper-republic-4492148495">Performance Marketing Creative Specialist</a></b>
-paper republic · Wien, Österreich
-<i>Kreativer Design- und Content-Job direkt in Wien.</i>
+<b>🇦🇹 Österreich</b>  ·  2
+
+🟡 <b><a href="https://at.linkedin.com/jobs/view/university-assistant-without-doctorate-m-f-d-at-university-of-graz-4489418303">University assistant without doctorate</a></b>
+Universität Graz · Graz
+<i>Wissenschaftliche Mitarbeit ohne Doktorat; ideal für deine Lehr-Ambitionen.</i>
+
+🟡 <b><a href="https://at.linkedin.com/jobs/view/universit%C3%A4tsassistent-in-at-universit%C3%A4t-klagenfurt-4492132500">Universitätsassistent:in</a></b>
+Universität Klagenfurt · Klagenfurt am Wörthersee
+<i>Lehr- und Forschungsstelle; passt zu deinem Wunsch nach akademischer Arbeit.</i>
+
+<b>🌍 Remote</b>  ·  6
+
+🟢 <b><a href="https://nl.linkedin.com/jobs/view/3d-artist-at-jobgether-4492126402">3D Artist</a></b>
+Jobgether · Niederlande
+<i>Klassische 3D-Artist-Rolle im EU-Remote-Bereich; ideal für dein Skillset.</i>
+
+🟢 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-m-w-d-f%C3%BCr-produkt-und-interieur-visualisierungen-at-reuter-gruppe-4492782977">3D-Artist für Produkt- und Interieur-Visualisierungen</a></b>
+REUTER Gruppe · Mönchengladbach
+<i>Fokus auf Visualisierung; nutzt deine Stärken in Maya/Blender und Substance.</i>
+
+🟢 <b><a href="https://fr.linkedin.com/jobs/view/g%C3%A9n%C3%A9raliste-3d-at-dvna-4490409948">Généraliste 3D</a></b>
+DVNA · Montreuil
+<i>3D-Generalist-Rolle; deckt deine breite Palette von Modeling bis Rendering ab.</i>
+
+🟢 <b><a href="https://fr.linkedin.com/jobs/view/infographiste-3d-en-architecture-et-design-h-f-at-talents-commerciaux-4492985335">Infographiste 3D en architecture et design</a></b>
+Talents Commerciaux · Cannes
+<i>3D-Visualisierung für Architektur/Design; passt zu deiner Realtime-Expertise.</i>
+
+🟢 <b><a href="https://gamejobsremote.com/jobs/joyteractive-level-designer-picture-blast-66d2a9e0">Level Designer - Picture Blast Solitaire</a></b>
+Joyteractive · Remote
+<i>Level Design im Game-Bereich; gute Schnittmenge zu Environment Art in Unreal.</i>
+
+🟡 <b><a href="https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179">UI Designer - Casual Games (Freelance Remote)</a></b>
+SOFTGAMES · Remote
+<i>UI/2D-Fokus; nutzt deine Erfahrung in Illustration und Charakterdesign.</i>
+
+<b>✈️ Ausland</b>  ·  1
+
+🟡 <b><a href="https://hitmarker.net/jobs/sciplay-technical-artist-5665360">Technical Artist</a></b>
+SciPlay · Bengaluru
+<i>Perfekter Rollen-Fit als Technical Artist, jedoch Standort außerhalb der EU.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
