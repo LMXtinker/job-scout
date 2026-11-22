@@ -2,10 +2,14 @@
  "errors": [],
  "per_url": {
   "https://www.kunstuni-linz.at/jobs": {
-   "links": 17,
-   "jobs": 2,
+   "links": 0,
+   "jobs": 0,
    "final_url": "https://www.kunstuni-linz.at/jobs",
-   "title": "Kunstuniversität Linz: Startseite"
+   "title": "Oops, an error occurred!",
+   "sample_links": [
+    "https://typo3.org/community/contribute/donate/",
+    "https://typo3.org/"
+   ]
   }
  }
 }

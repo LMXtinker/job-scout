@@ -2,11 +2,10 @@
  "errors": [],
  "per_url": {
   "https://www.dieangewandte.at/jobs": {
-   "links": 0,
-   "jobs": 0,
+   "links": 5,
+   "jobs": 2,
    "final_url": "https://www.dieangewandte.at/jobs",
-   "title": "500 Internal Server Error",
-   "sample_links": []
+   "title": "Jobs - dieAngewandte"
   }
  }
 }
