@@ -1,40 +1,46 @@
-<b>🎯 Job-Update · 22.11.</b>
-7 neue passende Stellen (3 × sehr passend 🟢)
-<i>aus 23 neuen Anzeigen</i>
+<b>🎯 Wochenstart · Job-Update · 23.11.</b>
+2 neue passende Stellen (1 × sehr passend 🟢)
+<i>aus 6 neuen Anzeigen</i>
 
-💬 <i>Mit vielseitigen 3D-Design-Optionen und spannenden Tech-Art-Chancen im europäischen Raum bieten sich heute tolle Möglichkeiten. Hebe deine Realtime-Skills aus der Unreal Engine stolz hervor! 🎨</i>
+💬 <i>Ob Lehre an der FH Vorarlberg oder Realtime 3D-Assets in UE5 per Remote-Freelance: Deine Kombination aus Technik und Gestaltung eröffnet dir vielseitige Türen. Weiter so! 🚀</i>
 
-<b>🌍 Remote</b>  ·  4
+<b>🇦🇹 Österreich</b>  ·  1
 
-🟢 <b><a href="https://ie.linkedin.com/jobs/view/3d-artist-at-jobgether-4492131028">3D Artist</a></b>
-Jobgether · Irland
-<i>Starke Übereinstimmung mit deinen 3D-Generalist- und Artist-Skills.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/lecturer-digital-product-design-interactive-narration-at-fhv-vorarlberg-university-of-applied-sciences-4491628646">Lecturer Digital Product Design &amp; Interactive Narration</a></b>
+FHV - Vorarlberg University of Applied Sciences · Dornbirn, Vorarlberg, Österreich
+<i>Lehre im Bereich Interaktive Narration an einer FH passt zum akademischen Profil.</i>
 
-🟢 <b><a href="https://gr.linkedin.com/jobs/view/3d-designer-at-epaphy-4488944407">3D Designer</a></b>
-EPAPHY · Athen, Attika, Griechenland
-<i>3D-Design-Rolle in der EU mit flexibler Remote-Option.</i>
+<b>🌍 Remote</b>  ·  1
 
-🟢 <b><a href="https://pt.linkedin.com/jobs/view/3d-designer-at-pepper-brand-taste-4491571373">3D Designer</a></b>
-Pepper - Brand Taste · Oeiras, Lissabon, Portugal
-<i>Kreative 3D-Design-Stelle an der Schnittstelle zu Brand-Visuals.</i>
+🟢 <b><a href="https://remotegamejobs.com/jobs/promorte-games-freelance-3d-asset-artist-unreal-engine-5-remote-job">Freelance 3D Asset Artist (Unreal Engine 5)</a></b>
+Promorte Games · Remote
+<i>Passgenaue 3D-Asset-Rolle in Unreal Engine 5 auf Freelance-Basis.</i>
 
-🟡 <b><a href="https://se.linkedin.com/jobs/view/level-quest-designer-at-yore-yonder-4489749190">Level &amp; Quest Designer</a></b>
-Yore &amp; Yonder · Stockholm, Provinz Stockholm, Schweden
-<i>Schnittstelle zum Environment Art und World Building im Game-Bereich.</i>
+<b>⭐ Wochenrückblick · noch offen</b>  ·  20
+<i>Die attraktivsten Funde der letzten zwei Wochen, die noch online sind</i>
+🟢 <a href="https://at.linkedin.com/jobs/view/landscape-architect-3d-visualization-specialist-w-m-d-%C3%B6sterreich-at-kompan-global-4489217129">Landscape Architect / 3D Visualization Specialist</a> – KOMPAN Global · Wien, Österreich
+🟢 <a href="https://www.karriere.at/jobs/10039104">Landscape Architect / 3D Visualization Specialist</a> – KOMPAN Austria GmbH · Wien
+🟢 <a href="https://at.linkedin.com/jobs/view/visual-storytelling-generalist-m-f-d-at-merkur-group-4490429068">Visual Storytelling Generalist</a> – MERKUR GROUP · Wien, Wien, Österreich
+🟢 <a href="https://www.stepstone.at/stellenangebote--Digital-Content-Creator-Grafikerin-m-w-d-Fokus-KI-Visuelles-Storytelling-Teilzeit-20-30h-Wien-Time-Travel-in-Vienna-Betriebs-GmbH--1016778-inline.html">Digital Content Creator &amp; Grafiker(in) - KI &amp; Visuelles Storytelling</a> – Time Travel in Vienna Betriebs GmbH · Wien, Österreich
+🟢 <a href="https://www.workwithindies.com/careers/eleon-co-3d-character-artist">3D Character Artist</a> – Eleon Co · Remote
+🟢 <a href="https://www.workwithindies.com/careers/lovingly-sourced-3d-generalist">3D Generalist</a> – lovingly sourced · Remote
+🟢 <a href="https://www.workwithindies.com/careers/mad-mabel-vehicle-hard-surface-concept-3d-artist">Vehicle / Hard-Surface Concept &amp; 3D Artist</a> – Mad Mabel · Remote (CET ± 4h)
+🟢 <a href="https://www.workwithindies.com/careers/eleon-co-2d-artist">2D Artist</a> – Eleon Co · Anywhere
+🟢 <a href="https://hitmarker.net/jobs/slug-disco-studios-freelance-illustrators-5640668">Freelance Illustrators</a> – Slug Disco Studios · Remote
+🟢 <a href="https://hitmarker.net/jobs/scapeworld-entertainment-ab-3d-environment-artist-level-designer-5657463">3D Environment Artist &amp; Level Designer</a> – ScapeWorld Entertainment AB · Europa (Remote)
+🟡 <a href="https://jobs.ams.at/public/emps/jobs/6325e051-262a-30bd-bb3a-2f5ee9d30b02">Grafiker/in</a> – VICTORIA AWARDS · Wien
+🟡 <a href="https://www.stepstone.at/stellenangebote--Online-Redakteur-m-w-d-Schmuck-Uhren-Online-Social-Media-KI-gestuetzte-Content-Produktion-Wien-NCA-NEW-CONCEPT-AGENTUR-GMBH--1014887-inline.html">Online-Redakteur Schmuck &amp; Uhren - KI &amp; Content</a> – NCA NEW CONCEPT AGENTUR GMBH · Wien
+🟡 <a href="https://at.linkedin.com/jobs/view/3d-modellierung-3d-druck-gestaltung-m-w-d-at-architektur-aktuell-4489475480">3D-Modellierung, 3D-Druck &amp; Gestaltung</a> – architektur.aktuell · Wien, Wien, Österreich
+🟡 <a href="https://www.karriere.at/jobs/7909376">Mitarbeiter Unternehmenskommunikation - Corporate Design</a> – FH Campus Wien · Wien, Österreich
 
-<b>✈️ Ausland</b>  ·  3
+=====
 
-🟡 <b><a href="https://es.linkedin.com/jobs/view/3d-animator-at-ubisoft-barcelona-mobile-4491314432">3D Animator</a></b>
-Ubisoft Barcelona Mobile · Barcelona, Cataluña, Spanien
-<i>Bekanntes Game-Studio im 3D-Bereich, Vor-Ort-Einsatz in Spanien.</i>
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/lighting-artist-at-el-ranchito-4491332642">Lighting Artist</a></b>
-El Ranchito · Madrid, Autonome Gemeinschaft Madrid, Spanien
-<i>Gutes 3D/VFX-Themenfeld, allerdings als Präsenzrolle im Ausland.</i>
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/technical-artist-12-month-contract-madrid-spain-at-keywords-studios-4490935246">Technical Artist</a></b>
-Keywords Studios · Madrid, Autonome Gemeinschaft Madrid, Spanien
-<i>Perfekter Rollen-Fit als Technical Artist, jedoch vor Ort in Madrid.</i>
+🟡 <a href="https://www.stepstone.at/stellenangebote--Interior-Designer-In-Einrichtungsberater-In-w-m-d-Vollzeit-Wien-Delmas-GmbH--1016096-inline.html">Interior Designer / Einrichtungsberater</a> – Delmas GmbH · Wien
+🟡 <a href="https://at.linkedin.com/jobs/view/creative-producer-w-m-d-video-foto-design-at-aiya-matcha-%E2%80%A2-refining-the-taste-of-life-4490879389">Creative Producer Video, Foto &amp; Design</a> – AIYA Matcha · Wien
+🟡 <a href="https://at.linkedin.com/jobs/view/performance-marketing-creative-specialist-m-f-d-at-paper-republic-4492148495">Performance Marketing Creative Specialist</a> – paper republic · Wien, Österreich
+🟡 <a href="https://at.linkedin.com/jobs/view/marketing-communications-specialist-all-genders-%E2%80%93-fokus-content-events-at-pmc-international-gmbh-4489464972">Marketing &amp; Communications Specialist – Fokus Content &amp; Events</a> – PMC International GmbH · Wien
+🟡 <a href="https://www.karriere.at/jobs/7906109">Berufspraktikant Grafik</a> – Raiffeisen Oberösterreich · Linz, Österreich
+🟡 <a href="https://at.linkedin.com/jobs/view/creative-designer-in-f%C3%BCr-social-media-content-fokus-video-20-35-h-m-w-d-at-kptn-4487445555">Creative Designer für Social Media Content - Fokus Video</a> – KPTN · Graz, Steiermark, Österreich
 
 🟢 sehr passend · 🟡 teilweise passend
 
