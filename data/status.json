@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-23T10:54:51+00:00",
- "jobs": 578,
- "new": 14,
- "recent": 345,
+ "generated": "2026-11-24T12:36:54+00:00",
+ "jobs": 761,
+ "new": 88,
+ "recent": 405,
  "sources": {
   "linkedin-at": {
-   "jobs": 95,
-   "errors": 19
+   "jobs": 129,
+   "errors": 7
   },
   "linkedin-remote-eu": {
-   "jobs": 0,
-   "errors": 36
+   "jobs": 143,
+   "errors": 17
   },
   "karriere.at": {
-   "jobs": 51,
+   "jobs": 53,
    "errors": 0
   },
   "ams-allejobs": {
-   "jobs": 24,
+   "jobs": 26,
    "errors": 0
   },
   "stepstone": {
@@ -29,19 +29,19 @@
    "errors": 0
   },
   "gamesindustry.biz": {
-   "jobs": 16,
+   "jobs": 20,
    "errors": 0
   },
   "workwithindies": {
-   "jobs": 69,
+   "jobs": 70,
    "errors": 0
   },
   "remotegamejobs": {
-   "jobs": 13,
+   "jobs": 11,
    "errors": 0
   },
   "gamejobsremote": {
-   "jobs": 0,
+   "jobs": 2,
    "errors": 0
   },
   "remotive": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 1,
+   "jobs": 2,
    "errors": 0
   },
   "moon-studios": {
@@ -82,7 +82,7 @@
   },
   "polycular": {
    "jobs": 0,
-   "errors": 0
+   "errors": 1
   },
   "ars-electronica": {
    "jobs": 0,
@@ -105,7 +105,7 @@
    "errors": 0
   },
   "angewandte": {
-   "jobs": 2,
+   "jobs": 1,
    "errors": 0
   },
   "kunstuni-linz": {
