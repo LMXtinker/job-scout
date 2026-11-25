@@ -1,27 +1,27 @@
 {
- "generated": "2026-11-24T12:36:54+00:00",
- "jobs": 761,
- "new": 88,
- "recent": 405,
+ "generated": "2026-11-25T11:26:26+00:00",
+ "jobs": 597,
+ "new": 35,
+ "recent": 414,
  "sources": {
   "linkedin-at": {
-   "jobs": 129,
-   "errors": 7
+   "jobs": 78,
+   "errors": 19
   },
   "linkedin-remote-eu": {
-   "jobs": 143,
-   "errors": 17
+   "jobs": 25,
+   "errors": 33
   },
   "karriere.at": {
-   "jobs": 53,
+   "jobs": 52,
    "errors": 0
   },
   "ams-allejobs": {
-   "jobs": 26,
+   "jobs": 27,
    "errors": 0
   },
   "stepstone": {
-   "jobs": 210,
+   "jobs": 212,
    "errors": 0
   },
   "hitmarker": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 2,
+   "jobs": 1,
    "errors": 0
   },
   "moon-studios": {
@@ -82,14 +82,14 @@
   },
   "polycular": {
    "jobs": 0,
-   "errors": 1
+   "errors": 0
   },
   "ars-electronica": {
    "jobs": 0,
    "errors": 0
   },
   "fh-salzburg": {
-   "jobs": 0,
+   "jobs": 1,
    "errors": 0
   },
   "fh-stpoelten": {
