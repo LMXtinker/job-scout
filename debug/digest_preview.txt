@@ -1,114 +1,46 @@
-<b>🎯 Job-Update · 24.11.</b>
-24 neue passende Stellen (3 × sehr passend 🟢)
-<i>aus 50 neuen Anzeigen</i>
+<b>🎯 Job-Update · 25.11.</b>
+8 neue passende Stellen (4 × sehr passend 🟢)
+<i>aus 22 neuen Anzeigen</i>
 
-💬 <i>Egal ob 2D-Stylized-Art oder Remote-Animation für Games: Nutze lokale Kreativprojekte in Wien und flexible Remote-Chancen, um deine vielseitige Expertise aus UE5 und Design zu zeigen. 🎨</i>
+💬 <i>Egal ob 3D-Environment-Art oder kreatives Grafikdesign: Nutze dein starkes Portfolio aus Realtime- und Visual-Effects-Projekten, um bei internationalen Remote- und Lokalchancen zu glänzen! 🎨</i>
 
-<b>📍 Wien</b>  ·  2
+<b>🇦🇹 Österreich</b>  ·  2
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/mitarbeit-im-verein-de-biasing-at-de-biasing-com-4483943144">Mitarbeit im Verein De-Biasing</a></b>
-de-biasing.com · Wien, Österreich
-<i>Kreativ-/Kulturprojekt in Wien, passt gut zur Weiterbildung Kulturmanagement.</i>
+🟡 <b><a href="https://www.karriere.at/jobs/7914791">Grafikdesigner Digitale Medien</a></b>
+mömax · Wels
+<i>Grafikdesign für digitale Medien in Oberösterreich.</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/praktikant-in-w-m-d-b2c-brand-marketing-communications-20h-at-magenta-telekom-4494132207">Praktikant:in B2C Brand &amp; Marketing Communications</a></b>
-Magenta Telekom · Wien, Österreich
-<i>Kreative Marketingstelle in Wien, gut geeignet als visueller Einstieg vor Ort.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/studentische-mitarbeit-visual-design-bis-zu-20-h-woche-at-knorr-bremse-ag-4494790834">Studentische Mitarbeit Visual Design</a></b>
+Knorr-Bremse · Kematen an der Ybbs
+<i>Visual Design in Niederösterreich; relevanter Einstieg im Grafikbereich.</i>
 
-<b>🇦🇹 Österreich</b>  ·  3
+<b>🌍 Remote</b>  ·  5
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/grafik-und-verpackungsdesigner-in-at-balmung-medical-handel-gmbh-4493995911">Grafik- und Verpackungsdesigner:in</a></b>
-Balmung Medical Handel GmbH · Langkampfen, Tirol, Österreich
-<i>Grafikdesign-Stelle in Tirol, passend für das breite visuelle Profil.</i>
+🟢 <b><a href="https://se.linkedin.com/jobs/view/3d-environment-artist-level-designer-at-scapethegame-4492007178">3D Environment Artist &amp; Level Designer</a></b>
+ScapeTheGame · Stockholm
+<i>Perfekter Fit für 3D Environment Art &amp; Level Design im Game-Bereich.</i>
 
-🟡 <b><a href="https://www.karriere.at/jobs/7914035">Grafikdesigner Digitale Medien</a></b>
-XXXLutz KG · Wels, Österreich
-<i>Erstellung digitaler Medien und Content-Creation in Österreich.</i>
+🟢 <b><a href="https://www.workwithindies.com/careers/seedbound-3d-environment-modeler-blender">3D Environment Modeler (Blender)</a></b>
+Seedbound · Remote
+<i>Top-Match für 3D Environment Modeling mit Blender (Work from Anywhere).</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/looking-for-a-media-creative-partner-at-phil-dynamics-4493996789">Looking for a Media &amp; Creative Partner</a></b>
-Phil Dynamics · Linz – Wels – Steyr, Österreich
-<i>Kreativer Partner-Job in OÖ für allgemeine Medien- und Kreativprojekte.</i>
+🟢 <b><a href="https://hitmarker.net/jobs/ilogos-3d-generalist-artist-stylized-mobile-games-5699136">3D Generalist Artist (Stylized / Mobile Games)</a></b>
+iLogos Game Studios · Tallinn
+<i>Passgenaue Rolle als 3D Generalist für Stylized Games.</i>
 
-<b>🌍 Remote</b>  ·  4
+🟢 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-3d-visualisierer-m-w-d-at-ares-gmbh-4493404018">3D-Artist / 3D-Visualisierer</a></b>
+Ares GmbH · Lünen
+<i>Sehr gute Übereinstimmung für 3D-Art und Visualisierung.</i>
 
-🟢 <b><a href="https://hitmarker.net/jobs/ilogos-2d-game-artist-stylized-5689015">2D Game Artist (Stylized)</a></b>
-iLogos Game Studios · Tallinn, Estland
-<i>Stylized 2D Game Art in Teilzeit/Remote im Game Studio.</i>
+🟡 <b><a href="https://bg.linkedin.com/jobs/view/technical-animator-at-ubisoft-sofia-4492692838">Technical Animator</a></b>
+Ubisoft Sofia · Sofia
+<i>Technical Animation im Game-Bereich mit Tech-Art-Überschneidungen.</i>
 
-🟢 <b><a href="https://www.workwithindies.com/careers/meeple-corp-ui-ux-game-artist">UI/UX Game Artist</a></b>
-Meeple Corp · Bath, UK
-<i>Game Art &amp; UI/UX in passender Zeitzone (Remote GMT±2).</i>
+<b>✈️ Ausland</b>  ·  1
 
-🟢 <b><a href="https://www.linkedin.com/jobs/view/unity-animator-beach-bum-at-voodoo-4493666229">Unity Animator - Beach Bum</a></b>
-Voodoo · Europäische Union
-<i>Animation für Mobile Games bei Voodoo (Remote EU).</i>
-
-🟡 <b><a href="https://www.arbeitnow.com/jobs/companies/twlv-gmbh/werkstudentin-grafikdesign-berlin-19344">Werkstudent:in Grafikdesign</a></b>
-TWLV GMBH · Remote – Berlin
-<i>Kreatives Grafikdesign auf Remote-Basis.</i>
-
-<b>✈️ Ausland</b>  ·  15
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/2d-pixel-artist-at-ubisoft-barcelona-mobile-4491312460">2D Pixel Artist</a></b>
-Ubisoft Barcelona Mobile · Barcelona, Spanien
-<i>2D-Art im Game-Bereich bei Ubisoft; erfordert Umzug oder Klärung zu Remote.</i>
-
-🟡 <b><a href="https://bg.linkedin.com/jobs/view/3d-animator-at-ubisoft-sofia-4492696671">3D Animator</a></b>
-Ubisoft Sofia · Sofia, Bulgarien
-<i>3D-Animation in der AAA-Games-Branche.</i>
-
-🟡 <b><a href="https://de.linkedin.com/jobs/view/3d-spezialist-m-w-d-architektur-innenarchitektur-at-schwitzke-partner-gmbh-4493005432">3D-Spezialist - Architektur &amp; Innenarchitektur</a></b>
-Schwitzke &amp; Partner GmbH · Düsseldorf, Deutschland
-<i>3D-Visualisierung für Räume und Architektur.</i>
-
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/cdi-ai-designer-motion-g%C3%A9n%C3%A9ratif-artefact-3000-paris-at-artefact-4467757472">AI Designer Motion &amp; Génératif</a></b>
-Artefact · Paris, Frankreich
-<i>Generatives Design und Motion Graphics für internationale Kreativprojekte.</i>
-
-=====
-
-🟡 <b><a href="https://nl.linkedin.com/jobs/view/ai-visual-designer-at-sms-intermediair-recruitment-specialist-4489926388">AI Visual Designer</a></b>
-SMS Intermediair · Amsterdam, Niederlande
-<i>Visual Design an der Schnittstelle zu neuen KI-Tools.</i>
-
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/concept-artist-set-props-junior-at-stim-studio-4492724288">Concept Artist Set Props - Junior</a></b>
-Stim Studio · Montpellier, Frankreich
-<i>Starkes Match für Junior Concept Art im 3D-/Film- und Games-Umfeld.</i>
-
-🟡 <b><a href="https://it.linkedin.com/jobs/view/digital-graphic-e-3d-designer-at-lokhen-4492622567">Digital Graphic e 3D Designer</a></b>
-Lokhen · Matera, Italien
-<i>Kombination aus Digital Graphic und 3D Design.</i>
-
-🟡 <b><a href="https://de.linkedin.com/jobs/view/game-designer-pve-m-f-d-at-sandbox-interactive-4492843475">Game Designer (PvE)</a></b>
-Sandbox Interactive · Berlin, Deutschland
-<i>Game Design im Indie/Mid-Size Studio in Berlin.</i>
-
-🟡 <b><a href="https://de.linkedin.com/jobs/view/grafiker-mediengestalter-m-w-d-at-certania-industrial-analytics-gmbh-4491922613">Grafiker / Mediengestalter</a></b>
-CERTANIA Industrial Analytics GmbH · Zorneding, Deutschland
-<i>Klassisches Grafikdesign und Mediengestaltung.</i>
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/graphic-designer-technical-documentation-m-f-d-at-bsh-electrodom%C3%A9sticos-espa%C3%B1a-s-a-4493680432">Graphic Designer - technical documentation</a></b>
-BSH Electrodomésticos España · Saragossa, Spanien
-<i>Grafikdesign für technische Dokumentationen.</i>
-
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/cdi-graphiste-de-production-jeux-de-soci%C3%A9t%C3%A9-loisirs-cr%C3%A9atifs-at-savana-4492942679">Graphiste de production (Jeux de Société)</a></b>
-SAVANA · Paris, Frankreich
-<i>Production Art für Spiele und kreative Medien.</i>
-
-🟡 <b><a href="https://fr.linkedin.com/jobs/view/maquettiste-ex%C3%A9-f-h-at-asmodee-4492857493">Maquettiste exé</a></b>
-asmodee · Guyancourt, Frankreich
-<i>Grafische Ausarbeitung bei einem führenden Brettspiel-Verlag.</i>
-
-🟡 <b><a href="https://ee.linkedin.com/jobs/view/production-artist-2d-game-art-animation-at-foxium-4492689430">Production Artist (2D Game Art &amp; Animation)</a></b>
-Foxium · Tallinn, Estland
-<i>2D Game Art und Animation im Games-Studio.</i>
-
-🟡 <b><a href="https://es.linkedin.com/jobs/view/technical-illustrator-h-m-at-atexis-4491924180">Technical Illustrator</a></b>
-ATEXIS · Sevilla, Spanien
-<i>Technische Illustration für 2D/3D-Darstellungen.</i>
-
-🟡 <b><a href="https://de.linkedin.com/jobs/view/technischer-grafiker-w-m-d-at-brunel-4493747973">Technischer Grafiker</a></b>
-Brunel · München, Deutschland
-<i>Technische Grafik und Visualisierung im DACH-Raum.</i>
+🟡 <b><a href="https://hitmarker.net/jobs/electronic-arts-concept-artist-5698777">Concept Artist</a></b>
+Electronic Arts · Shanghai
+<i>Starker Fit als Concept Artist bei EA; Standort Shanghai (Ausland).</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 

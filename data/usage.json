@@ -16,11 +16,11 @@
   "model": "gemini-3.8-flash"
  },
  "2026-11": {
-  "runs": 22,
-  "prompt": 108254,
-  "output": 12137,
-  "thoughts": 51910,
-  "total": 172301,
+  "runs": 23,
+  "prompt": 112650,
+  "output": 12725,
+  "thoughts": 55379,
+  "total": 180754,
   "model": "gemini-3.6-flash"
  }
 }
