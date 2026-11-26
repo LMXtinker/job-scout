@@ -1,46 +1,42 @@
-<b>🎯 Job-Update · 25.11.</b>
-8 neue passende Stellen (4 × sehr passend 🟢)
-<i>aus 22 neuen Anzeigen</i>
+<b>🎯 Job-Update · 26.11.</b>
+7 neue passende Stellen (0 × sehr passend 🟢)
+<i>aus 9 neuen Anzeigen</i>
 
-💬 <i>Egal ob 3D-Environment-Art oder kreatives Grafikdesign: Nutze dein starkes Portfolio aus Realtime- und Visual-Effects-Projekten, um bei internationalen Remote- und Lokalchancen zu glänzen! 🎨</i>
+💬 <i>Heute sind spannende Rollen für Environment- und Material-Art dabei! Nutze deine Erfahrung mit Substance und Unreal, um bei technischen Aufgaben zu glänzen. Dein Mix aus Kunst und Technik ist Gold wert. 🎨</i>
 
-<b>🇦🇹 Österreich</b>  ·  2
+<b>📍 Wien</b>  ·  1
 
-🟡 <b><a href="https://www.karriere.at/jobs/7914791">Grafikdesigner Digitale Medien</a></b>
-mömax · Wels
-<i>Grafikdesign für digitale Medien in Oberösterreich.</i>
+🟡 <b><a href="https://at.linkedin.com/jobs/view/designassistenz-innenarchitektur-m-w-d-at-architektur-aktuell-4494642316">Designassistenz Innenarchitektur</a></b>
+architektur.aktuell · Wien
+<i>Kreativrolle in Wien; 3D-Visualisierung als wertvoller Zusatzskill.</i>
 
-🟡 <b><a href="https://at.linkedin.com/jobs/view/studentische-mitarbeit-visual-design-bis-zu-20-h-woche-at-knorr-bremse-ag-4494790834">Studentische Mitarbeit Visual Design</a></b>
-Knorr-Bremse · Kematen an der Ybbs
-<i>Visual Design in Niederösterreich; relevanter Einstieg im Grafikbereich.</i>
+<b>🌍 Remote</b>  ·  3
 
-<b>🌍 Remote</b>  ·  5
+🟡 <b><a href="https://remotegamejobs.com/jobs/sperasoft-3d-environment-artist-remote-job">3D Environment Artist</a></b>
+Sperasoft · Astana / Remote
+<i>Starker Match für deine Unreal- und Environment-Expertise im Remote-Setup.</i>
 
-🟢 <b><a href="https://se.linkedin.com/jobs/view/3d-environment-artist-level-designer-at-scapethegame-4492007178">3D Environment Artist &amp; Level Designer</a></b>
-ScapeTheGame · Stockholm
-<i>Perfekter Fit für 3D Environment Art &amp; Level Design im Game-Bereich.</i>
+🟡 <b><a href="https://remotegamejobs.com/jobs/sperasoft-material-artist-remote-job">Material Artist</a></b>
+Sperasoft · Bucharest / Remote
+<i>Deine Substance-Painter-Skills passen hier ideal für die Material-Erstellung.</i>
 
-🟢 <b><a href="https://www.workwithindies.com/careers/seedbound-3d-environment-modeler-blender">3D Environment Modeler (Blender)</a></b>
-Seedbound · Remote
-<i>Top-Match für 3D Environment Modeling mit Blender (Work from Anywhere).</i>
+🟡 <b><a href="https://www.arbeitnow.com/jobs/companies/sumax/projektassistenz-content-management-fokus-seo-dortmund-287752">Projektassistenz &amp; Content-Management</a></b>
+Sumax · Remote
+<i>Dein Hintergrund in Kulturmanagement und Projektassistenz ist hier relevant.</i>
 
-🟢 <b><a href="https://hitmarker.net/jobs/ilogos-3d-generalist-artist-stylized-mobile-games-5699136">3D Generalist Artist (Stylized / Mobile Games)</a></b>
-iLogos Game Studios · Tallinn
-<i>Passgenaue Rolle als 3D Generalist für Stylized Games.</i>
+<b>✈️ Ausland</b>  ·  3
 
-🟢 <b><a href="https://de.linkedin.com/jobs/view/3d-artist-3d-visualisierer-m-w-d-at-ares-gmbh-4493404018">3D-Artist / 3D-Visualisierer</a></b>
-Ares GmbH · Lünen
-<i>Sehr gute Übereinstimmung für 3D-Art und Visualisierung.</i>
+🟡 <b><a href="https://se.linkedin.com/jobs/view/2d-game-artist-game-development-at-hacksaw-studios-4493023893">2D Game Artist - Game Development</a></b>
+Hacksaw Studios · Stockholm
+<i>Deine Erfahrung im 2D-Charakterdesign und Game-Art passt hier sehr gut.</i>
 
-🟡 <b><a href="https://bg.linkedin.com/jobs/view/technical-animator-at-ubisoft-sofia-4492692838">Technical Animator</a></b>
-Ubisoft Sofia · Sofia
-<i>Technical Animation im Game-Bereich mit Tech-Art-Überschneidungen.</i>
+🟡 <b><a href="https://es.linkedin.com/jobs/view/artista-de-entornos-environment-artist-at-el-ranchito-4493442840">Environment Artist</a></b>
+El Ranchito · Madrid
+<i>Perfekter inhaltlicher Fit als Environment Artist, jedoch im Ausland.</i>
 
-<b>✈️ Ausland</b>  ·  1
-
-🟡 <b><a href="https://hitmarker.net/jobs/electronic-arts-concept-artist-5698777">Concept Artist</a></b>
-Electronic Arts · Shanghai
-<i>Starker Fit als Concept Artist bei EA; Standort Shanghai (Ausland).</i>
+🟡 <b><a href="https://es.linkedin.com/jobs/view/motion-designer-3d-stripe-identity-at-stripe-4487503394">Motion Designer 3D, Stripe Identity</a></b>
+Stripe · Barcelona
+<i>3D-Motion-Design passt gut zu deinem Profil; Standort im Ausland.</i>
 
 🟢 sehr passend · 🟡 teilweise passend
 
