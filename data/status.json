@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-25T11:26:26+00:00",
- "jobs": 597,
- "new": 35,
- "recent": 414,
+ "generated": "2026-11-26T11:01:15+00:00",
+ "jobs": 639,
+ "new": 28,
+ "recent": 391,
  "sources": {
   "linkedin-at": {
-   "jobs": 78,
-   "errors": 19
+   "jobs": 102,
+   "errors": 12
   },
   "linkedin-remote-eu": {
-   "jobs": 25,
+   "jobs": 29,
    "errors": 33
   },
   "karriere.at": {
-   "jobs": 52,
+   "jobs": 53,
    "errors": 0
   },
   "ams-allejobs": {
@@ -37,7 +37,7 @@
    "errors": 0
   },
   "remotegamejobs": {
-   "jobs": 11,
+   "jobs": 14,
    "errors": 0
   },
   "gamejobsremote": {
@@ -49,7 +49,7 @@
    "errors": 0
   },
   "arbeitnow": {
-   "jobs": 1,
+   "jobs": 11,
    "errors": 0
   },
   "moon-studios": {
